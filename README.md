@@ -4,7 +4,7 @@
 
 ################################################################################# Informações da Lista
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5zE1k8M.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR][COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Informações da Lista",[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] youtube.com/matamataxiterbr https://www.youtube.
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5zE1k8M.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR][COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Informações da Lista", youtube.com/matamataxiterbr https://www.youtube.
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/OalUKZI.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Informações da Lista",[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Atualizado:31/10/2022 https://www.youtube.com
 #EXTINF:-1 tvg-id="TV Gazeta HD" tvg-name=" TV GAZETA  4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfXQ3pYiuvmQlsTorEzdkSiwX9kDYuAHEfcV1SCMShjYZQlp_lRK-2wKQvXj_DxwkduFg&usqp=CAU" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA", TV GAZETA  4K
