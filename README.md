@@ -1,1855 +1,1104 @@
-
-
 #EXTM3U
-#EXTINF:-1,[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]#EXTINF:-1 tvg-id="" tvg-name="SBT CAMPINAS HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="CANAIS | SBT",SBT CAMPINAS HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/230924
-#EXTINF:-1 tvg-id="" tvg-name="RECORD CAMPINAS HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/921df56002ee5dc960debedc8ae06072.png" group-title="CANAIS | RECORD",RECORD CAMPINAS HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/230912
-#EXTINF:-1 tvg-id="" tvg-name="BAND CAMPINAS HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="CANAIS | BAND",BAND CAMPINAS HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/230903
-#EXTINF:-1 tvg-id="" tvg-name="RECORD SJRP HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="CANAIS | RECORD",RECORD SJRP HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470872
-#EXTINF:-1 tvg-id="" tvg-name="RECORD MINAS HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="CANAIS | RECORD",RECORD MINAS HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470869
-#EXTINF:-1 tvg-id="" tvg-name="RECORD BRASILIA HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/921df56002ee5dc960debedc8ae06072.png" group-title="CANAIS | RECORD",RECORD BRASILIA HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470860
-#EXTINF:-1 tvg-id="" tvg-name="RECORD CAMPINAS HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/921df56002ee5dc960debedc8ae06072.png" group-title="CANAIS | RECORD",RECORD CAMPINAS HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470859
-#EXTINF:-1 tvg-id="" tvg-name="RECORD RJ HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/921df56002ee5dc960debedc8ae06072.png" group-title="CANAIS | RECORD",RECORD RJ HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470855
-#EXTINF:-1 tvg-id="" tvg-name="RECORD SP HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/921df56002ee5dc960debedc8ae06072.png" group-title="CANAIS | RECORD",RECORD SP HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470853
-#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/1e0e32e597a18f225a2b17a19a379e83.png" group-title="CANAIS | NOTICIAS",CNN BRASIL HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470786
-#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/c223593c3537f6160d10aaa4d9a06fcc.png" group-title="CANAIS | NOTICIAS",RECORD NEWS HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470781
-#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b49882eae96bb41a7fa1feb6aa7acc18.png" group-title="CANAIS | VARIEDADES",MTV HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470697
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | GLOBO",GLOBO BRASILIA HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470541
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | GLOBO",GLOBO EPTV CAMPINAS HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470538
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV RIBEIRÃO PRETO HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | GLOBO",GLOBO EPTV RIBEIRÃO PRETO HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470535
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | GLOBO",GLOBO MINAS HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470523
-#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="GLOBO RJ HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | GLOBO",GLOBO RJ HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470507
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SJRP HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | GLOBO",GLOBO SJRP HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470498
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO SP HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | GLOBO",GLOBO SP HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470496
-#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/0216cb0d20fc838196b8d633f7813d3b.png" group-title="CANAIS | FILMES E SÉRIES",CANAL BRASIL HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470401
-#EXTINF:-1 tvg-id="" tvg-name="TV BRASIL HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/c823e25df7f664699e9dc5ef4337494e.png" group-title="CANAIS | ABERTOS",TV BRASIL HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/469714
-#EXTINF:-1 tvg-id="" tvg-name="REDE TV HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/0436d3b981ac63cc11bba03647e88db6.png" group-title="CANAIS | ABERTOS",REDE TV HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/469699
-#EXTINF:-1 tvg-id="" tvg-name="TV GAZETA HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/e940ab68d99af92722f0ca0caf5fb559.png" group-title="CANAIS | ABERTOS",TV GAZETA HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/469695
-#EXTINF:-1 tvg-id="" tvg-name="REDE 21 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Rede_21_logo.svg/1200px-Rede_21_logo.svg.png" group-title="CANAIS | RELIGIOSOS",REDE 21 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/231231
-#EXTINF:-1 tvg-id="" tvg-name="CANCAO NOVA HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/de50711e9b602954bd928ba8722e73ab.png" group-title="CANAIS | RELIGIOSOS",CANCAO NOVA HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/231223
-#EXTINF:-1 tvg-id="" tvg-name="RIT TV HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/4f748d8579763fbe23683efc466df3de.png" group-title="CANAIS | RELIGIOSOS",RIT TV HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/231219
-#EXTINF:-1 tvg-id="" tvg-name="TV NOVO TEMPO HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/9258c67e461b3adcb31c795c60bf3681.png" group-title="CANAIS | RELIGIOSOS",TV NOVO TEMPO HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/231216
-#EXTINF:-1 tvg-id="" tvg-name="TV PAI ETERNO HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/62f519a659f91fc0ec17f8d10ed76fe1.png" group-title="CANAIS | RELIGIOSOS",TV PAI ETERNO HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/231214
-#EXTINF:-1 tvg-id="sbt.belo.horizonte.br" tvg-name="SBT TV ALTEROSA MG HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="CANAIS | SBT",SBT TV ALTEROSA MG HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/230939
-#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SP HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/dd195b30217e8ec0178e7df6bc874a54.png" group-title="CANAIS | SBT",SBT SP HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/230936
-#EXTINF:-1 tvg-id="" tvg-name="SBT RJ HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/dd195b30217e8ec0178e7df6bc874a54.png" group-title="CANAIS | SBT",SBT RJ HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/230929
-#EXTINF:-1 tvg-id="" tvg-name="SBT BRASILIA HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="CANAIS | SBT",SBT BRASILIA HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/230922
-#EXTINF:-1 tvg-id="" tvg-name="RECORD BRASILIA HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/921df56002ee5dc960debedc8ae06072.png" group-title="CANAIS | RECORD",RECORD BRASILIA HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/230913
-#EXTINF:-1 tvg-id="" tvg-name="RECORD RJ HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/921df56002ee5dc960debedc8ae06072.png" group-title="CANAIS | RECORD",RECORD RJ HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/230911
-#EXTINF:-1 tvg-id="" tvg-name="RECORD SP HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/921df56002ee5dc960debedc8ae06072.png" group-title="CANAIS | RECORD",RECORD SP HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/230909
-#EXTINF:-1 tvg-id="" tvg-name="BAND BRASILIA HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="CANAIS | BAND",BAND BRASILIA HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/230904
-#EXTINF:-1 tvg-id="" tvg-name="BAND MINAS HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="CANAIS | BAND",BAND MINAS HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/230896
-#EXTINF:-1 tvg-id="" tvg-name="BAND RJ HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/a8a5bbeedca093b94b7f0d3f185b98f7.png" group-title="CANAIS | BAND",BAND RJ HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/230887
-#EXTINF:-1 tvg-id="" tvg-name="BAND SP HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/a8a5bbeedca093b94b7f0d3f185b98f7.png" group-title="CANAIS | BAND",BAND SP HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/230885
-#EXTINF:-1 tvg-id="" tvg-name="ESPIOES DO ASFALTO 24HRS" tvg-logo="" group-title="CANAIS | 24HS",ESPIOES DO ASFALTO 24HRS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825199
-#EXTINF:-1 tvg-id="" tvg-name="ALADIN 24HS" tvg-logo="" group-title="CANAIS | 24HS",ALADIN 24HS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825200
-#EXTINF:-1 tvg-id="" tvg-name="As Meninas Superpoderosas 24HS" tvg-logo="" group-title="CANAIS | 24HS",As Meninas Superpoderosas 24HS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825201
-#EXTINF:-1 tvg-id="" tvg-name="BEN 10 24HS" tvg-logo="" group-title="CANAIS | 24HS",BEN 10 24HS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825202
-#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA 24HS" tvg-logo="" group-title="CANAIS | 24HS",BOB ESPONJA 24HS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825203
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad 24hs" tvg-logo="" group-title="CANAIS | 24HS",Breaking Bad 24hs
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825204
-#EXTINF:-1 tvg-id="" tvg-name="CAO CORAGEM 24HS" tvg-logo="" group-title="CANAIS | 24HS",CAO CORAGEM 24HS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825205
-#EXTINF:-1 tvg-id="" tvg-name="Caverna do Dragão 24HS" tvg-logo="" group-title="CANAIS | 24HS",Caverna do Dragão 24HS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825206
-#EXTINF:-1 tvg-id="" tvg-name="Chapolin Colorado 24hs" tvg-logo="" group-title="CANAIS | 24HS",Chapolin Colorado 24hs
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825207
-#EXTINF:-1 tvg-id="" tvg-name="CHAVES 24HS" tvg-logo="" group-title="CANAIS | 24HS",CHAVES 24HS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825208
-#EXTINF:-1 tvg-id="" tvg-name="CHAVES DESENHO 24HS" tvg-logo="" group-title="CANAIS | 24HS",CHAVES DESENHO 24HS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825209
-#EXTINF:-1 tvg-id="" tvg-name="Denis o Pimentinha 24HS" tvg-logo="" group-title="CANAIS | 24HS",Denis o Pimentinha 24HS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825210
-#EXTINF:-1 tvg-id="" tvg-name="Desenhos Biblicos 24hs" tvg-logo="" group-title="CANAIS | 24HS",Desenhos Biblicos 24hs
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825211
-#EXTINF:-1 tvg-id="" tvg-name="Desenhos Disney 24HS" tvg-logo="" group-title="CANAIS | 24HS",Desenhos Disney 24HS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825212
-#EXTINF:-1 tvg-id="" tvg-name="Digimon 24HS" tvg-logo="" group-title="CANAIS | 24HS",Digimon 24HS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825213
-#EXTINF:-1 tvg-id="" tvg-name="Dois Homens e Meio 24HS" tvg-logo="" group-title="CANAIS | 24HS",Dois Homens e Meio 24HS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825214
-#EXTINF:-1 tvg-id="" tvg-name="Doug 24hs" tvg-logo="" group-title="CANAIS | 24HS",Doug 24hs
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825215
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL 24HS" tvg-logo="" group-title="CANAIS | 24HS",DRAGON BALL 24HS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825216
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER 24HS" tvg-logo="" group-title="CANAIS | 24HS",DRAGON BALL SUPER 24HS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825217
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL Z 24HS" tvg-logo="" group-title="CANAIS | 24HS",DRAGON BALL Z 24HS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825218
-#EXTINF:-1 tvg-id="" tvg-name="Eu a Patroa e as Crianças 24hs" tvg-logo="" group-title="CANAIS | 24HS",Eu a Patroa e as Crianças 24hs
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825219
-#EXTINF:-1 tvg-id="" tvg-name="Formiga Atómica 24hs" tvg-logo="" group-title="CANAIS | 24HS",Formiga Atómica 24hs
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825220
-#EXTINF:-1 tvg-id="" tvg-name="Galinha Pintadinha 24hs" tvg-logo="" group-title="CANAIS | 24HS",Galinha Pintadinha 24hs
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825221
-#EXTINF:-1 tvg-id="" tvg-name="Guardiões da Galaxia 24hs" tvg-logo="" group-title="CANAIS | 24HS",Guardiões da Galaxia 24hs
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825222
-#EXTINF:-1 tvg-id="" tvg-name="He-Man 24hs" tvg-logo="" group-title="CANAIS | 24HS",He-Man 24hs
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825223
-#EXTINF:-1 tvg-id="" tvg-name="Hércules 24hs" tvg-logo="" group-title="CANAIS | 24HS",Hércules 24hs
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825224
-#EXTINF:-1 tvg-id="" tvg-name="Historias Disney 24hs" tvg-logo="" group-title="CANAIS | 24HS",Historias Disney 24hs
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825225
-#EXTINF:-1 tvg-id="" tvg-name="HOMEM ARANHA 24HS" tvg-logo="" group-title="CANAIS | 24HS",HOMEM ARANHA 24HS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825226
-#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro 24hs" tvg-logo="" group-title="CANAIS | 24HS",Homem de Ferro 24hs
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825227
-#EXTINF:-1 tvg-id="" tvg-name="HOMEMS DE PRETO 24HS" tvg-logo="" group-title="CANAIS | 24HS",HOMEMS DE PRETO 24HS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825228
-#EXTINF:-1 tvg-id="" tvg-name="Incrível Hulk 24hs" tvg-logo="" group-title="CANAIS | 24HS",Incrível Hulk 24hs
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825229
-#EXTINF:-1 tvg-id="" tvg-name="Jack-Chan 24hs" tvg-logo="" group-title="CANAIS | 24HS",Jack-Chan 24hs
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825230
-#EXTINF:-1 tvg-id="" tvg-name="Jaspion 24HS" tvg-logo="" group-title="CANAIS | 24HS",Jaspion 24HS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825231
-#EXTINF:-1 tvg-id="" tvg-name="JIRAYA O Incrível Ninja 24HS" tvg-logo="" group-title="CANAIS | 24HS",JIRAYA O Incrível Ninja 24HS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825232
-#EXTINF:-1 tvg-id="" tvg-name="Kenan e Kel 24hs" tvg-logo="" group-title="CANAIS | 24HS",Kenan e Kel 24hs
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825233
-#EXTINF:-1 tvg-id="" tvg-name="Luluzinha 24HS" tvg-logo="" group-title="CANAIS | 24HS",Luluzinha 24HS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825234
-#EXTINF:-1 tvg-id="" tvg-name="Medabots 24hs" tvg-logo="" group-title="CANAIS | 24HS",Medabots 24hs
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825235
-#EXTINF:-1 tvg-id="" tvg-name="MegaMan 24hs" tvg-logo="" group-title="CANAIS | 24HS",MegaMan 24hs
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825236
-#EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat 24hs" tvg-logo="" group-title="CANAIS | 24HS",Mortal Kombat 24hs
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825237
-#EXTINF:-1 tvg-id="" tvg-name="Mr.Ben 24hs" tvg-logo="" group-title="CANAIS | 24HS",Mr.Ben 24hs
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825238
-#EXTINF:-1 tvg-id="" tvg-name="NARUTO 24HS" tvg-logo="" group-title="CANAIS | 24HS",NARUTO 24HS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825239
-#EXTINF:-1 tvg-id="" tvg-name="Naruto Shippuden DUB 24HS" tvg-logo="" group-title="CANAIS | 24HS",Naruto Shippuden DUB 24HS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825240
-#EXTINF:-1 tvg-id="" tvg-name="O Fantástico Mundo de Bobby 24hs" tvg-logo="" group-title="CANAIS | 24HS",O Fantástico Mundo de Bobby 24hs
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825241
-#EXTINF:-1 tvg-id="" tvg-name="O INSPETOR 24hs" tvg-logo="" group-title="CANAIS | 24HS",O INSPETOR 24hs
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825242
-#EXTINF:-1 tvg-id="" tvg-name="O MASKARA 24HS" tvg-logo="" group-title="CANAIS | 24HS",O MASKARA 24HS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825243
-#EXTINF:-1 tvg-id="" tvg-name="Os Anjinhos - Rugrats 24HS" tvg-logo="" group-title="CANAIS | 24HS",Os Anjinhos - Rugrats 24HS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825244
-#EXTINF:-1 tvg-id="" tvg-name="OS CAVALEIROS DO ZODIACO 24HS" tvg-logo="" group-title="CANAIS | 24HS",OS CAVALEIROS DO ZODIACO 24HS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825245
-#EXTINF:-1 tvg-id="" tvg-name="OS FLINTSTONES 24hs" tvg-logo="" group-title="CANAIS | 24HS",OS FLINTSTONES 24hs
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825246
-#EXTINF:-1 tvg-id="" tvg-name="OS SIMPSONS 24HS" tvg-logo="" group-title="CANAIS | 24HS",OS SIMPSONS 24HS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825247
-#EXTINF:-1 tvg-id="" tvg-name="Os Vingadores 24hs" tvg-logo="" group-title="CANAIS | 24HS",Os Vingadores 24hs
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825248
-#EXTINF:-1 tvg-id="" tvg-name="Papa-Léguas 24HS" tvg-logo="" group-title="CANAIS | 24HS",Papa-Léguas 24HS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825249
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig 24hs" tvg-logo="" group-title="CANAIS | 24HS",Peppa Pig 24hs
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825250
-#EXTINF:-1 tvg-id="" tvg-name="PERNALONGA 24HS" tvg-logo="" group-title="CANAIS | 24HS",PERNALONGA 24HS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825251
-#EXTINF:-1 tvg-id="" tvg-name="Phineas e Ferb 24HS" tvg-logo="" group-title="CANAIS | 24HS",Phineas e Ferb 24HS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825252
-#EXTINF:-1 tvg-id="" tvg-name="PICA PAU 24HS" tvg-logo="" group-title="CANAIS | 24HS",PICA PAU 24HS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825253
-#EXTINF:-1 tvg-id="" tvg-name="Pink-e-Cerebro 24hs" tvg-logo="" group-title="CANAIS | 24HS",Pink-e-Cerebro 24hs
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825254
-#EXTINF:-1 tvg-id="" tvg-name="POKEMON 24HS" tvg-logo="" group-title="CANAIS | 24HS",POKEMON 24HS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825255
-#EXTINF:-1 tvg-id="" tvg-name="Popeye O Marinheiro 24hs" tvg-logo="" group-title="CANAIS | 24HS",Popeye O Marinheiro 24hs
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825256
-#EXTINF:-1 tvg-id="" tvg-name="Rambo 24hs" tvg-logo="" group-title="CANAIS | 24HS",Rambo 24hs
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825257
-#EXTINF:-1 tvg-id="" tvg-name="Scooby-Doo 24HS" tvg-logo="" group-title="CANAIS | 24HS",Scooby-Doo 24HS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825258
-#EXTINF:-1 tvg-id="" tvg-name="Smallville 24hs" tvg-logo="" group-title="CANAIS | 24HS",Smallville 24hs
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825259
-#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural 24hs" tvg-logo="" group-title="CANAIS | 24HS",Sobrenatural 24hs
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825260
-#EXTINF:-1 tvg-id="" tvg-name="South Park 24HS" tvg-logo="" group-title="CANAIS | 24HS",South Park 24HS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825261
-#EXTINF:-1 tvg-id="" tvg-name="Steven Universe 24HS" tvg-logo="" group-title="CANAIS | 24HS",Steven Universe 24HS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825262
-#EXTINF:-1 tvg-id="" tvg-name="Superman 24hs" tvg-logo="" group-title="CANAIS | 24HS",Superman 24hs
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825263
-#EXTINF:-1 tvg-id="" tvg-name="TARTARUGAS NINJAS 24HS" tvg-logo="" group-title="CANAIS | 24HS",TARTARUGAS NINJAS 24HS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825264
-#EXTINF:-1 tvg-id="" tvg-name="Thundercats 24HS" tvg-logo="" group-title="CANAIS | 24HS",Thundercats 24HS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825265
-#EXTINF:-1 tvg-id="" tvg-name="TIMAO E PUMBA 24HS" tvg-logo="" group-title="CANAIS | 24HS",TIMAO E PUMBA 24HS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825266
-#EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CHRIS 24hs" tvg-logo="" group-title="CANAIS | 24HS",TODO MUNDO ODEIA O CHRIS 24hs
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825267
-#EXTINF:-1 tvg-id="" tvg-name="Tom & Jerry 24HS" tvg-logo="" group-title="CANAIS | 24HS",Tom & Jerry 24HS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825268
-#EXTINF:-1 tvg-id="" tvg-name="Tres Espias Demais 24hs" tvg-logo="" group-title="CANAIS | 24HS",Tres Espias Demais 24hs
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825269
-#EXTINF:-1 tvg-id="" tvg-name="UM MALUCO NO PEDAÇO 24HS" tvg-logo="" group-title="CANAIS | 24HS",UM MALUCO NO PEDAÇO 24HS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825270
-#EXTINF:-1 tvg-id="" tvg-name="Uma Família da Pesada 24hs" tvg-logo="" group-title="CANAIS | 24HS",Uma Família da Pesada 24hs
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825271
-#EXTINF:-1 tvg-id="" tvg-name="Ursinhos Carinhos 24hs" tvg-logo="" group-title="CANAIS | 24HS",Ursinhos Carinhos 24hs
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825272
-#EXTINF:-1 tvg-id="" tvg-name="X-MAN 24HS" tvg-logo="" group-title="CANAIS | 24HS",X-MAN 24HS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825273
-#EXTINF:-1 tvg-id="" tvg-name="Xena 24hs" tvg-logo="" group-title="CANAIS | 24HS",Xena 24hs
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825274
-#EXTINF:-1 tvg-id="" tvg-name="YU-GI-OH 24hs" tvg-logo="" group-title="CANAIS | 24HS",YU-GI-OH 24hs
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825275
-#EXTINF:-1 tvg-id="" tvg-name="YU-YU-Hakusho 24hs" tvg-logo="" group-title="CANAIS | 24HS",YU-YU-Hakusho 24hs
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825276
-#EXTINF:-1 tvg-id="" tvg-name="3 Palavrinhas 24hs" tvg-logo="" group-title="CANAIS | 24HS",3 Palavrinhas 24hs
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825277
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Familia 24hs" tvg-logo="" group-title="CANAIS | 24HS",A Grande Familia 24hs
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825278
-#EXTINF:-1 tvg-id="" tvg-name="Bita e os Animais 24hrs" tvg-logo="" group-title="CANAIS | 24HS",Bita e os Animais 24hrs
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825279
-#EXTINF:-1 tvg-id="" tvg-name="Liga da Justica 24hs" tvg-logo="" group-title="CANAIS | 24HS",Liga da Justica 24hs
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825280
-#EXTINF:-1 tvg-id="" tvg-name="VAI QUE COLA 24HRS" tvg-logo="" group-title="CANAIS | 24HS",VAI QUE COLA 24HRS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825281
-#EXTINF:-1 tvg-id="" tvg-name="Vai Que Cola 24hs" tvg-logo="" group-title="CANAIS | 24HS",Vai Que Cola 24hs
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825282
-#EXTINF:-1 tvg-id="" tvg-name="Super Choque 24hs" tvg-logo="" group-title="CANAIS | 24HS",Super Choque 24hs
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825283
-#EXTINF:-1 tvg-id="" tvg-name="A Feiticeira 24hs" tvg-logo="" group-title="CANAIS | 24HS",A Feiticeira 24hs
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825284
-#EXTINF:-1 tvg-id="" tvg-name="VELOZES E FURIOSOS 24HRS" tvg-logo="" group-title="CANAIS | 24HS",VELOZES E FURIOSOS 24HRS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825285
-#EXTINF:-1 tvg-id="" tvg-name="TAZ MANIA 24HRS" tvg-logo="" group-title="CANAIS | 24HS",TAZ MANIA 24HRS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825286
-#EXTINF:-1 tvg-id="" tvg-name="JURASSIC WORLD 24HRS" tvg-logo="" group-title="CANAIS | 24HS",JURASSIC WORLD 24HRS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825288
-#EXTINF:-1 tvg-id="" tvg-name="LA CASA DE PAPEL 24HRS" tvg-logo="" group-title="CANAIS | 24HS",LA CASA DE PAPEL 24HRS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825289
-#EXTINF:-1 tvg-id="" tvg-name="CENTRAL KIDS 24HRS" tvg-logo="" group-title="CANAIS | 24HS",CENTRAL KIDS 24HRS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825290
-#EXTINF:-1 tvg-id="" tvg-name="LUCAS NETO 24HRS" tvg-logo="" group-title="CANAIS | 24HS",LUCAS NETO 24HRS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825291
-#EXTINF:-1 tvg-id="" tvg-name="BARBIE 24HRS" tvg-logo="" group-title="CANAIS | 24HS",BARBIE 24HRS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825292
-#EXTINF:-1 tvg-id="" tvg-name="MEGA MAN 24HRS" tvg-logo="" group-title="CANAIS | 24HS",MEGA MAN 24HRS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825293
-#EXTINF:-1 tvg-id="" tvg-name="MEGA MAN 24HRS" tvg-logo="" group-title="CANAIS | 24HS",MEGA MAN 24HRS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825294
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO BOY 24HRS" tvg-logo="" group-title="CANAIS | 24HS",ASTRO BOY 24HRS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825295
-#EXTINF:-1 tvg-id="" tvg-name="PAC MAN 24HRS" tvg-logo="" group-title="CANAIS | 24HS",PAC MAN 24HRS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825296
-#EXTINF:-1 tvg-id="" tvg-name="CINE KIDS 24HRS" tvg-logo="" group-title="CANAIS | 24HS",CINE KIDS 24HRS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825297
-#EXTINF:-1 tvg-id="" tvg-name="JEZABEL 24HRS" tvg-logo="" group-title="CANAIS | 24HS",JEZABEL 24HRS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825298
-#EXTINF:-1 tvg-id="" tvg-name="O REI DO GADO 24HRS" tvg-logo="" group-title="CANAIS | 24HS",O REI DO GADO 24HRS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825299
-#EXTINF:-1 tvg-id="" tvg-name="A GATA COMEU 24HRS" tvg-logo="" group-title="CANAIS | 24HS",A GATA COMEU 24HRS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825300
-#EXTINF:-1 tvg-id="" tvg-name="MASTERCHEF EUA 24HRS" tvg-logo="" group-title="CANAIS | 24HS",MASTERCHEF EUA 24HRS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825301
-#EXTINF:-1 tvg-id="" tvg-name="CHEF AO PE DO OUVIDO 24HRS" tvg-logo="" group-title="CANAIS | 24HS",CHEF AO PE DO OUVIDO 24HRS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825302
-#EXTINF:-1 tvg-id="" tvg-name="BARRETOS 2022 24HRS" tvg-logo="" group-title="CANAIS | 24HS",BARRETOS 2022 24HRS
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825303
-#EXTINF:-1 tvg-id="" tvg-name="REDE MUNDIAL" tvg-logo="http://dns.jslinkdns.xyz:80/images/88e478deaa74ac38ec686043623ae57b.png" group-title="CANAIS | RELIGIOSOS",REDE MUNDIAL
-http://dns.jslinkdns.xyz:80/3851217611/386718277/209562
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 1 HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/497f2ab6189a7f86a5c3d68648642390.png" group-title="CANAIS | CONMEBOL TV",Conmebol TV 1 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/209801
-#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/8e3dec1d81e6710db735da702d09eac8.png" group-title="CANAIS | HBO",HBO XTREME HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/230806
-#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/8e3dec1d81e6710db735da702d09eac8.png" group-title="CANAIS | HBO",HBO XTREME FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/230808
-#EXTINF:-1 tvg-id="" tvg-name="HBO POP HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/720f2d1bdf460e50fdf43e73e07c4b04.png" group-title="CANAIS | HBO",HBO POP HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/230810
-#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/8c188f15b5e5bd7a1a4f0045538f998e.png" group-title="CANAIS | HBO",HBO SIGNATURE FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/230811
-#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/8c188f15b5e5bd7a1a4f0045538f998e.png" group-title="CANAIS | HBO",HBO SIGNATURE HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/230812
-#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/720f2d1bdf460e50fdf43e73e07c4b04.png" group-title="CANAIS | HBO",HBO POP FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/230813
-#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/0d37ed448c227a2d560df9f1cfc1b0c8.png" group-title="CANAIS | HBO",HBO PLUS HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/230815
-#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/0d37ed448c227a2d560df9f1cfc1b0c8.png" group-title="CANAIS | HBO",HBO PLUS FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/230816
-#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/0e19a9fd3d3bc4acb0e55078343ff740.png" group-title="CANAIS | HBO",HBO MUNDI HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/230817
-#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/0e19a9fd3d3bc4acb0e55078343ff740.png" group-title="CANAIS | HBO",HBO MUNDI FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/230818
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/509e5f41146e278f9eab1ddaceb34515.png" group-title="CANAIS | HBO",HBO HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/230819
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/509e5f41146e278f9eab1ddaceb34515.png" group-title="CANAIS | HBO",HBO FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/230820
-#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO Familly HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/d331d2269f059eccd354c0d93f379f88.png" group-title="CANAIS | HBO",HBO Familly HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/230822
-#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO Familly FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/d331d2269f059eccd354c0d93f379f88.png" group-title="CANAIS | HBO",HBO Familly FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/230823
-#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/675664b597f318f30d66c8d8834ea421.png" group-title="CANAIS | HBO",HBO 2 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/230825
-#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/675664b597f318f30d66c8d8834ea421.png" group-title="CANAIS | HBO",HBO 2 FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/230826
-#EXTINF:-1 tvg-id="" tvg-name="BAND TV GOIANIA FHD (H265)" tvg-logo="http://dns.jslinkdns.xyz:80/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="CANAIS | BAND",BAND TV GOIANIA FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/230884
-#EXTINF:-1 tvg-id="" tvg-name="BAND SP FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/a8a5bbeedca093b94b7f0d3f185b98f7.png" group-title="CANAIS | BAND",BAND SP FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/230886
-#EXTINF:-1 tvg-id="" tvg-name="BAND BAHIA HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="CANAIS | BAND",BAND BAHIA HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/230894
-#EXTINF:-1 tvg-id="" tvg-name="BAND MINAS FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="CANAIS | BAND",BAND MINAS FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/230895
-#EXTINF:-1 tvg-id="" tvg-name="BAND CURITIBA FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="CANAIS | BAND",BAND CURITIBA FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/230897
-#EXTINF:-1 tvg-id="" tvg-name="BAND CURITIBA HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="CANAIS | BAND",BAND CURITIBA HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/230898
-#EXTINF:-1 tvg-id="" tvg-name="BAND CAMPINAS FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="CANAIS | BAND",BAND CAMPINAS FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/230899
-#EXTINF:-1 tvg-id="" tvg-name="BAND PARANA HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="CANAIS | BAND",BAND PARANA HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/230900
-#EXTINF:-1 tvg-id="" tvg-name="BAND SERGIPE HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="CANAIS | BAND",BAND SERGIPE HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/230901
-#EXTINF:-1 tvg-id="" tvg-name="BAND RS HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="CANAIS | BAND",BAND RS HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/230902
-#EXTINF:-1 tvg-id="" tvg-name="BAND RJ FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="CANAIS | BAND",BAND RJ FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/230905
-#EXTINF:-1 tvg-id="" tvg-name="RECORD TV BELEM HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/921df56002ee5dc960debedc8ae06072.png" group-title="CANAIS | RECORD",RECORD TV BELEM HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/230908
-#EXTINF:-1 tvg-id="" tvg-name="RECORD SP FHD (H265)" tvg-logo="http://dns.jslinkdns.xyz:80/images/921df56002ee5dc960debedc8ae06072.png" group-title="CANAIS | RECORD",RECORD SP FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/230910
-#EXTINF:-1 tvg-id="" tvg-name="RECORD TV SANTA CATARINA HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="CANAIS | RECORD",RECORD TV SANTA CATARINA HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/230914
-#EXTINF:-1 tvg-id="" tvg-name="RECORD SERGIPE HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="CANAIS | RECORD",RECORD SERGIPE HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/230915
-#EXTINF:-1 tvg-id="" tvg-name="SBT ARATU BAHIA HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="CANAIS | SBT",SBT ARATU BAHIA HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/230920
-#EXTINF:-1 tvg-id="" tvg-name="SBT CAMPINAS FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="CANAIS | SBT",SBT CAMPINAS FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/230923
-#EXTINF:-1 tvg-id="" tvg-name="SBT RJ FHD (H265)" tvg-logo="http://dns.jslinkdns.xyz:80/images/dd195b30217e8ec0178e7df6bc874a54.png" group-title="CANAIS | SBT",SBT RJ FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/230928
-#EXTINF:-1 tvg-id="" tvg-name="SBT RS HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="CANAIS | SBT",SBT RS HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/230931
-#EXTINF:-1 tvg-id="" tvg-name="SBT SERGIPE HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="CANAIS | SBT",SBT SERGIPE HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/230932
-#EXTINF:-1 tvg-id="" tvg-name="SBT SERRA DOURADA FHD (H265)" tvg-logo="http://dns.jslinkdns.xyz:80/images/dd195b30217e8ec0178e7df6bc874a54.png" group-title="CANAIS | SBT",SBT SERRA DOURADA FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/230933
-#EXTINF:-1 tvg-id="sbt.goiania.serra.dourada.br" tvg-name="SBT SERRA DOURADA HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/dd195b30217e8ec0178e7df6bc874a54.png" group-title="CANAIS | SBT",SBT SERRA DOURADA HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/230934
-#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SP FHD (H265)" tvg-logo="http://dns.jslinkdns.xyz:80/images/dd195b30217e8ec0178e7df6bc874a54.png" group-title="CANAIS | SBT",SBT SP FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/230935
-#EXTINF:-1 tvg-id="sbt.belo.horizonte.br" tvg-name="SBT TV ALTEROSA MG FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="CANAIS | SBT",SBT TV ALTEROSA MG FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/230938
-#EXTINF:-1 tvg-id="sbt.piaui.br" tvg-name="SBT TV CIDADE VERDE (PI) HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/dd195b30217e8ec0178e7df6bc874a54.png" group-title="CANAIS | SBT",SBT TV CIDADE VERDE (PI) HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/230940
-#EXTINF:-1 tvg-id="sbt.ponta.verde.br" tvg-name="SBT TV JORNAL (PE) HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/dd195b30217e8ec0178e7df6bc874a54.png" group-title="CANAIS | SBT",SBT TV JORNAL (PE) HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/230941
-#EXTINF:-1 tvg-id="" tvg-name="REDE SUPER FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/1b3231655cebb7a1f783eddf27d254ca.png" group-title="CANAIS | RELIGIOSOS",REDE SUPER FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/231230
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 1 HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/d0876904ae9e67d18f8f65ac39aa039d.png" group-title="CANAIS | CONMEBOL TV",CONMEBOL TV 1 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/466835
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 2 HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/d0876904ae9e67d18f8f65ac39aa039d.png" group-title="CANAIS | CONMEBOL TV",CONMEBOL TV 2 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/466836
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 3 HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/d0876904ae9e67d18f8f65ac39aa039d.png" group-title="CANAIS | CONMEBOL TV",CONMEBOL TV 3 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/466837
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 4 HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/d0876904ae9e67d18f8f65ac39aa039d.png" group-title="CANAIS | CONMEBOL TV",CONMEBOL TV 4 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/466838
-#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/21b0019f5d4469c50dbc40960c035934.jpg" group-title="CANAIS | INFANTIL",CARTOONITO HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/469355
-#EXTINF:-1 tvg-id="" tvg-name="TV RATIMBUM HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/7566a85fcdcad5b72ebfb4a7aae77027.png" group-title="CANAIS | INFANTIL",TV RATIMBUM HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/469360
-#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/cbb7ef0d6830d0d170d6c8fa097b6da8.png" group-title="CANAIS | INFANTIL",GLOOBINHO HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/469361
-#EXTINF:-1 tvg-id="" tvg-name="ZOOMO HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/cf56700d4e2d722942c123114042de61.png" group-title="CANAIS | INFANTIL",ZOOMO HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/469362
-#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/cbb7ef0d6830d0d170d6c8fa097b6da8.png" group-title="CANAIS | INFANTIL",GLOOBINHO FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/469363
-#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/64152c9fc516f00e43f3a9200b5a0f16.png" group-title="CANAIS | INFANTIL",TOONCAST HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/469365
-#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/41e62a2deec2c1330077c95c10c45afc.png" group-title="CANAIS | INFANTIL",NICK JR HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/469371
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b6887c4fb22052489be319e63539fa5b.png" group-title="CANAIS | INFANTIL",GLOOB HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/469377
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/723c2356367fa8fbad903c3106434b34.png" group-title="CANAIS | INFANTIL",CARTOON NETWORK HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/469392
-#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/8812c926ca2b08383b7be94c09a0033b.png" group-title="CANAIS | INFANTIL",BABY TV HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/469396
-#EXTINF:-1 tvg-id="" tvg-name="Retrô Cartoon" tvg-logo="http://dns.jslinkdns.xyz:80/images/55bc478bbf45d53b0feb2669145aa8aa.png" group-title="CANAIS | INFANTIL",Retrô Cartoon
-http://dns.jslinkdns.xyz:80/3851217611/386718277/469400
-#EXTINF:-1 tvg-id="" tvg-name="ZOOMOO FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/ac11fb6a51c835584ec36927ba57f0f6.png" group-title="CANAIS | INFANTIL",ZOOMOO FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/469401
-#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/40f42321a48a27399cf533b90fe60d69.png" group-title="CANAIS | TELECINE",TELECINE TOUCH HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/469569
-#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/cad9f3387eb88f7afa2c683c3586b73a.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/469572
-#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/da67d5f1c53e53b6b1d9f193b608eddc.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/469575
-#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE FUN HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/a065d1fd76b53dcc670f8f21edd3d6a3.png" group-title="CANAIS | TELECINE",TELECINE FUN HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/469578
-#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/f9e4ef3e1bb0368ed29859c7f747faa0.png" group-title="CANAIS | TELECINE",TELECINE CULT HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/469581
-#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/715e0830b7ee745020a26b751aace2f0.png" group-title="CANAIS | TELECINE",TELECINE ACTION HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/469584
-#EXTINF:-1 tvg-id="" tvg-name="TRUTV HD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/TRUTV.png" group-title="CANAIS | DOCUMENTARIOS",TRUTV HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/469648
-#EXTINF:-1 tvg-id="" tvg-name="NHK WORLD HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/c31cc776d78b3ade62769030714f4da6.png" group-title="CANAIS | DOCUMENTARIOS",NHK WORLD HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/469650
-#EXTINF:-1 tvg-id="" tvg-name="NATGEO HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/cd198e31266cb350285ec583cbfa59c4.png" group-title="CANAIS | DOCUMENTARIOS",NATGEO HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/469655
-#EXTINF:-1 tvg-id="" tvg-name="NATGEO FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/cd198e31266cb350285ec583cbfa59c4.png" group-title="CANAIS | DOCUMENTARIOS",NATGEO FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/469656
-#EXTINF:-1 tvg-id="" tvg-name="ID DISCOVERY HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b718adec73e04ce3ec720dd11a06a308.png" group-title="CANAIS | DOCUMENTARIOS",ID DISCOVERY HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/469658
-#EXTINF:-1 tvg-id="" tvg-name="ID DISCOVERY FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b718adec73e04ce3ec720dd11a06a308.png" group-title="CANAIS | DOCUMENTARIOS",ID DISCOVERY FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/469659
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/5d83de1c9f32e1adaf68625c99c29ac4.png" group-title="CANAIS | DOCUMENTARIOS",HISTORY HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/469661
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/5d83de1c9f32e1adaf68625c99c29ac4.png" group-title="CANAIS | DOCUMENTARIOS",HISTORY FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/469662
-#EXTINF:-1 tvg-id="" tvg-name="HGTV HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/efbfa2b2fcea4f9cfbe3ae9333588857.png" group-title="CANAIS | DOCUMENTARIOS",HGTV HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/469663
-#EXTINF:-1 tvg-id="" tvg-name="HGTV FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/efbfa2b2fcea4f9cfbe3ae9333588857.png" group-title="CANAIS | DOCUMENTARIOS",HGTV FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/469664
-#EXTINF:-1 tvg-id="" tvg-name="HYSTORY 2 HD" tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/H2.png" group-title="CANAIS | DOCUMENTARIOS",HYSTORY 2 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/469666
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2 FHD" tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/H2.png" group-title="CANAIS | DOCUMENTARIOS",HISTORY 2 FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/469667
-#EXTINF:-1 tvg-id="" tvg-name="DOG TV FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/4cad4dda9527d6e78f4b32964bcf115a.png" group-title="CANAIS | DOCUMENTARIOS",DOG TV FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/469668
-#EXTINF:-1 tvg-id="" tvg-name="DOG TV HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/4cad4dda9527d6e78f4b32964bcf115a.png" group-title="CANAIS | DOCUMENTARIOS",DOG TV HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/469669
-#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/19c56e790fbd26fed581631d3050abba.png" group-title="CANAIS | DOCUMENTARIOS",LOVE NATURE FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/469692
-#EXTINF:-1 tvg-id="" tvg-name="REDE TV FHD (H265)" tvg-logo="http://dns.jslinkdns.xyz:80/images/0436d3b981ac63cc11bba03647e88db6.png" group-title="CANAIS | ABERTOS",REDE TV FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/469693
-#EXTINF:-1 tvg-id="" tvg-name="REDE TV FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/0436d3b981ac63cc11bba03647e88db6.png" group-title="CANAIS | ABERTOS",REDE TV FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/469700
-#EXTINF:-1 tvg-id="" tvg-name="TV CULTURA FHD*" tvg-logo="http://dns.jslinkdns.xyz:80/images/a2799c8089b2a7523bcc8656042c6286.png" group-title="CANAIS | ABERTOS",TV CULTURA FHD*
-http://dns.jslinkdns.xyz:80/3851217611/386718277/469705
-#EXTINF:-1 tvg-id="" tvg-name="TV PAMPA RS FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/327e34c68dd7271bb8f9b0cb25ae526e.png" group-title="CANAIS | ABERTOS",TV PAMPA RS FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/469711
-#EXTINF:-1 tvg-id="" tvg-name="TV PAMPA RS HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/327e34c68dd7271bb8f9b0cb25ae526e.png" group-title="CANAIS | ABERTOS",TV PAMPA RS HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/469712
-#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/233404f6ac582a560e37c555b9392e08.png" group-title="CANAIS | FILMES E SÉRIES",WARNER CHANNEL HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470350
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="WARNER CHANNEL FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/233404f6ac582a560e37c555b9392e08.png" group-title="CANAIS | FILMES E SÉRIES",WARNER CHANNEL FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470351
-#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="UNIVERSAL TV HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/ad17c1bd5b196a0923cde6beda1161a3.png" group-title="CANAIS | FILMES E SÉRIES",UNIVERSAL TV HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470353
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL TV FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/ad17c1bd5b196a0923cde6beda1161a3.png" group-title="CANAIS | FILMES E SÉRIES",UNIVERSAL TV FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470354
-#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/83325be20ecb33376512171493c0d255.png" group-title="CANAIS | FILMES E SÉRIES",TNT SERIES HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470356
-#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/83325be20ecb33376512171493c0d255.png" group-title="CANAIS | FILMES E SÉRIES",TNT SERIES FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470357
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/3ed8d415ab1bbac628429a85851e53b6.png" group-title="CANAIS | FILMES E SÉRIES",TNT HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470359
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/3ed8d415ab1bbac628429a85851e53b6.png" group-title="CANAIS | FILMES E SÉRIES",TNT FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470360
-#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/a9254defaeee8ed5984a923fe47e5ef8.png" group-title="CANAIS | FILMES E SÉRIES",TCM HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470362
-#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/9f0f0a28dccf5dfd1976ed455fd0f4f4.png" group-title="CANAIS | FILMES E SÉRIES",TBS HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470364
-#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/9f0f0a28dccf5dfd1976ed455fd0f4f4.png" group-title="CANAIS | FILMES E SÉRIES",TBS FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470365
-#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/8b2b4842e5fd3db22abc12dc94470381.png" group-title="CANAIS | FILMES E SÉRIES",SYFY HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470367
-#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/8b2b4842e5fd3db22abc12dc94470381.png" group-title="CANAIS | FILMES E SÉRIES",SYFY FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470368
-#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/34873cfb55ea349f1cf2cf8b6c0e4c25.png" group-title="CANAIS | FILMES E SÉRIES",STUDIO UNIVERSAL HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470370
-#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/34873cfb55ea349f1cf2cf8b6c0e4c25.png" group-title="CANAIS | FILMES E SÉRIES",STUDIO UNIVERSAL FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470371
-#EXTINF:-1 tvg-id="star.life.br" tvg-name="STAR LIFE FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/e645bf96e2d7b7c66c25673dddd0289d.png" group-title="CANAIS | FILMES E SÉRIES",STAR LIFE FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470373
-#EXTINF:-1 tvg-id="star.br" tvg-name="STAR CHANNEL HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/1cbdb8043b37c7c9ca83582f9218c8b4.png" group-title="CANAIS | FILMES E SÉRIES",STAR CHANNEL HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470375
-#EXTINF:-1 tvg-id="star.life.br" tvg-name="STAR LIFE HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/e645bf96e2d7b7c66c25673dddd0289d.png" group-title="CANAIS | FILMES E SÉRIES",STAR LIFE HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470376
-#EXTINF:-1 tvg-id="star.br" tvg-name="STAR CHANNEL FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/1cbdb8043b37c7c9ca83582f9218c8b4.png" group-title="CANAIS | FILMES E SÉRIES",STAR CHANNEL FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470377
-#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/6506ae39fdca9845e3a6de3865183e57.png" group-title="CANAIS | FILMES E SÉRIES",SPACE HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470379
-#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/6506ae39fdca9845e3a6de3865183e57.png" group-title="CANAIS | FILMES E SÉRIES",SPACE FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470380
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/3e48cca712d5060410a85a4135606ac8.png" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470382
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/3e48cca712d5060410a85a4135606ac8.png" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470383
-#EXTINF:-1 tvg-id="" tvg-name="MEGAPIX HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/1dbc425f089f69402973d3391e065d70.png" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470384
-#EXTINF:-1 tvg-id="" tvg-name="MEGAPIX FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/1dbc425f089f69402973d3391e065d70.png" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470385
-#EXTINF:-1 tvg-id="" tvg-name="MODO VIAGEM HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | FILMES E SÉRIES",MODO VIAGEM HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470388
-#EXTINF:-1 tvg-id="" tvg-name="MODO VIAGEM FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | FILMES E SÉRIES",MODO VIAGEM FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470389
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b8b5089c70ae62534970e2d8aa67e96d.png" group-title="CANAIS | FILMES E SÉRIES",FX HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470390
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b8b5089c70ae62534970e2d8aa67e96d.png" group-title="CANAIS | FILMES E SÉRIES",FX FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470393
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/ea561c74560f38d405a67622947bae32.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470395
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/ea561c74560f38d405a67622947bae32.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470396
-#EXTINF:-1 tvg-id="sony.br" tvg-name="CANAL SONY HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/51ec16566a66b9d0c159ed49cf2f2289.png" group-title="CANAIS | FILMES E SÉRIES",CANAL SONY HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470398
-#EXTINF:-1 tvg-id="sony.br" tvg-name="CANAL SONY FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/51ec16566a66b9d0c159ed49cf2f2289.png" group-title="CANAIS | FILMES E SÉRIES",CANAL SONY FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470399
-#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CANAL BRASIL FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/0216cb0d20fc838196b8d633f7813d3b.png" group-title="CANAIS | FILMES E SÉRIES",CANAL BRASIL FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470402
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/042dba4d2faaa29cd2fa4c0125416d25.png" group-title="CANAIS | FILMES E SÉRIES",AXN HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470404
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/042dba4d2faaa29cd2fa4c0125416d25.png" group-title="CANAIS | FILMES E SÉRIES",AXN FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470405
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/7c52ed5b8820b7dfd90b5a784bac64b3.png" group-title="CANAIS | FILMES E SÉRIES",AMC HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470407
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/7c52ed5b8820b7dfd90b5a784bac64b3.png" group-title="CANAIS | FILMES E SÉRIES",AMC FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470408
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/ea8a1a99f6c94c275a58dcd78f418c1f.png" group-title="CANAIS | FILMES E SÉRIES",A&E HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470410
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/ea8a1a99f6c94c275a58dcd78f418c1f.png" group-title="CANAIS | FILMES E SÉRIES",A&E FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470411
-#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/a9254defaeee8ed5984a923fe47e5ef8.png" group-title="CANAIS | FILMES E SÉRIES",TCM FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470412
-#EXTINF:-1 tvg-id="film.arts.br" tvg-name="FILM & ARTS FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/4ac380d92a6949d7b81a0aea525a05f6.png" group-title="CANAIS | FILMES E SÉRIES",FILM & ARTS FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470413
-#EXTINF:-1 tvg-id="film.arts.br" tvg-name="FILM & ART HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/4ac380d92a6949d7b81a0aea525a05f6.png" group-title="CANAIS | FILMES E SÉRIES",FILM & ART HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470415
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTEGRAÇÃO MG HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | GLOBO",GLOBO INTEGRAÇÃO MG HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470476
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTEGRAÇÃO MG FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | GLOBO",GLOBO INTEGRAÇÃO MG FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470477
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VERDES MARES FORTALEZA HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | GLOBO",GLOBO TV VERDES MARES FORTALEZA HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470479
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VANGUARDA S J CAMPOS HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | GLOBO",GLOBO TV VANGUARDA S J CAMPOS HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470481
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV RIO SUL HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV RIO SUL HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470482
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MORENA FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV MORENA FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470483
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV INTEGRACAO ARAXA HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV INTEGRACAO ARAXA HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470484
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA SUL ES HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | GLOBO",GLOBO TV GAZETA SUL ES HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470485
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA DE ALAGOAS HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | GLOBO",GLOBO TV GAZETA DE ALAGOAS HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470486
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA DE ALAGOAS FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | GLOBO",GLOBO TV GAZETA DE ALAGOAS FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470487
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV DIARIO HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | GLOBO",GLOBO TV DIARIO HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470488
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CLUBE TERESINA HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | GLOBO",GLOBO TV CLUBE TERESINA HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470489
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CLUBE TERESINA FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | GLOBO",GLOBO TV CLUBE TERESINA FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470490
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CENTRO AMERICA CUIABA HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | GLOBO",GLOBO TV CENTRO AMERICA CUIABA HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470491
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CABO BRANCO HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | GLOBO",GLOBO TV CABO BRANCO HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470492
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ASA BRANCA HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | GLOBO",GLOBO TV ASA BRANCA HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470493
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ANHANGUERA GOIANIA HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | GLOBO",GLOBO TV ANHANGUERA GOIANIA HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470494
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO SP FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470497
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SERGIPE HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | GLOBO",GLOBO SERGIPE HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470499
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC TV MARINGA HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | GLOBO",GLOBO RPC TV MARINGA HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470500
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC PARANAVAI FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | GLOBO",GLOBO RPC PARANAVAI FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470501
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC FOZ DO IGUACU HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | GLOBO",GLOBO RPC FOZ DO IGUACU HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470502
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC CURITIBA HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | GLOBO",GLOBO RPC CURITIBA HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470504
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC CURITIBA FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | GLOBO",GLOBO RPC CURITIBA FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470505
-#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="GLOBO RJ FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | GLOBO",GLOBO RJ FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470508
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO REDE AMAZONICA HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | GLOBO",GLOBO REDE AMAZONICA HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470509
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO REDE AMAZONICA FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | GLOBO",GLOBO REDE AMAZONICA FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470510
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV PORTO ALEGRE HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | GLOBO",GLOBO RBS TV PORTO ALEGRE HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470513
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO PORTO VELHO HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | GLOBO",GLOBO PORTO VELHO HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470514
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO PORTO VELHO FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | GLOBO",GLOBO PORTO VELHO FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470515
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV JOINVILLE HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | GLOBO",GLOBO NSC TV JOINVILLE HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470516
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV CHAPECO HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | GLOBO",GLOBO NSC TV CHAPECO HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470517
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV BLUMENAL HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | GLOBO",GLOBO NSC TV BLUMENAL HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470518
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | GLOBO",GLOBO NORDESTE HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470520
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | GLOBO",GLOBO NORDESTE FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470521
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV SERRA MAR HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | GLOBO",GLOBO INTER TV SERRA MAR HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470524
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER VALE MG HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | GLOBO",GLOBO INTER VALE MG HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470525
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV ALTO LITORAL HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | GLOBO",GLOBO INTER TV ALTO LITORAL HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470527
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO GAZETA VITORIA ES FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | GLOBO",GLOBO GAZETA VITORIA ES FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470528
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV CABUGI HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | GLOBO",GLOBO INTER TV CABUGI HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470529
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO GAZETA VITORIA  ES HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | GLOBO",GLOBO GAZETA VITORIA  ES HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470530
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO FLORIANOPOLIS HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | GLOBO",GLOBO FLORIANOPOLIS HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470531
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV SUL DE MINAS HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | GLOBO",GLOBO EPTV SUL DE MINAS HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470532
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV RIBEIRÃO PRETO FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | GLOBO",GLOBO EPTV RIBEIRÃO PRETO FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470536
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV CAMPINAS FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | GLOBO",GLOBO EPTV CAMPINAS FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470539
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA FHD (H265)" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | GLOBO",GLOBO BRASILIA FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470542
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BOA VISTA HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | GLOBO",GLOBO BOA VISTA HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470543
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BOA VISTA FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | GLOBO",GLOBO BOA VISTA FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470544
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BELEM HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | GLOBO",GLOBO BELEM HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470546
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BAHIA HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | GLOBO",GLOBO BAHIA HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470547
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BAHIA FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | GLOBO",GLOBO BAHIA FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470548
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VANGUARDA S J CAMPOS FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS | GLOBO",GLOBO TV VANGUARDA S J CAMPOS FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470593
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TRIBUNA FHD (SANTOS)" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV TRIBUNA FHD (SANTOS)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470594
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TRIBUNA HD (SANTOS)" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV TRIBUNA HD (SANTOS)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470595
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV INTEGRACAO ARAXA FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV INTEGRACAO ARAXA FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470597
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO UBERABA HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO UBERABA HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470598
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM SOROCABA HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV TEM SOROCABA HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470599
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM SOROCABA FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV TEM SOROCABA FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470600
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV CHAPECO FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO NSC TV CHAPECO FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470602
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CABO BRANCO FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV CABO BRANCO FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470603
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO ANHANGUERA ITUMBIARA FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO ANHANGUERA ITUMBIARA FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470604
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO ANHANGUERA ITUMBIARA HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO ANHANGUERA ITUMBIARA HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470605
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO ANHANGUERA CATALAO FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO ANHANGUERA CATALAO FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470606
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO ANHANGUERA CATALAO HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO ANHANGUERA CATALAO HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470607
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO ANHANGUERA ANAPOLIS FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO ANHANGUERA ANAPOLIS FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470608
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO ANHANGUERA ANAPOLIS HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO ANHANGUERA ANAPOLIS HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470609
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV CABUGI FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO INTER TV CABUGI FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470610
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTEGRAÇÃO DIVINÓPOLIS FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO INTEGRAÇÃO DIVINÓPOLIS FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470611
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTEGRAÇÃO DIVINÓPOLIS HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO INTEGRAÇÃO DIVINÓPOLIS HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470612
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO MOGI DAS CRUZES HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO MOGI DAS CRUZES HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470613
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO MOGI DAS CRUZES FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO MOGI DAS CRUZES FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470614
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO JOAÇABA HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO JOAÇABA HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470615
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO JOAÇABA FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO JOAÇABA FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470616
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO JUIZ DE FORA MG HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO JUIZ DE FORA MG HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470617
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO JUIZ DE FORA MG FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO JUIZ DE FORA MG FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470618
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO PRESIDENTE PRUDENTE SP HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO PRESIDENTE PRUDENTE SP HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470619
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO PRESIDENTE PRUDENTE SP FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO PRESIDENTE PRUDENTE SP FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470620
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO MONTES CLAROS MG HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO MONTES CLAROS MG HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470621
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO MONTES CLAROS MG FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO MONTES CLAROS MG FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470622
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS PORTO ALEGRE FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO RBS PORTO ALEGRE FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470623
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM ITAPE HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV TEM ITAPE HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470624
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM ITAPE FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV TEM ITAPE FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470625
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM BAURU FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV TEM BAURU FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470626
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM BAURU HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV TEM BAURU HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470627
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC PARANAVAI HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO RPC PARANAVAI HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470628
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MORENA HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV MORENA HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470629
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV JOINVILLE FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO NSC TV JOINVILLE FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470630
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO MARANHÃO HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO MARANHÃO HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470632
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO PARAIBA HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO PARAIBA HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470633
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV BLUMENAL FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO NSC TV BLUMENAL FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470639
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS PASSO FUNDO FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO RBS PASSO FUNDO FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470640
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS PASSO FUNDO HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO RBS PASSO FUNDO HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470641
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC CASCAVEL FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO RPC CASCAVEL FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470642
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC CASCAVEL HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO RPC CASCAVEL HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470643
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO JUAZEIRO BAHIA FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO JUAZEIRO BAHIA FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470644
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO JUAZEIRO BAHIA HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO JUAZEIRO BAHIA HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470645
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER VALE MG FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO INTER VALE MG FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470646
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV SERRA MAR FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO INTER TV SERRA MAR FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470647
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC FOZ DO IGUACU FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO RPC FOZ DO IGUACU FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470648
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS PELOTAS HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO RBS PELOTAS HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470649
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS PELOTAS FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO RBS PELOTAS FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470650
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS CAXIAS FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO RBS CAXIAS FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470651
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS CAXIAS HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO RBS CAXIAS HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470652
-#EXTINF:-1 tvg-id="globo.minas.br" tvg-name="GLOBO EPTV SUL DE MINAS FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO EPTV SUL DE MINAS FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470653
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC SANTA CATARINA HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO NSC SANTA CATARINA HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470654
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BAHIA SUBAE HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO BAHIA SUBAE HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470655
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BAHIA SANTA CRUZ HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO BAHIA SANTA CRUZ HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470656
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO UBERABA FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO UBERABA FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470657
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ASA BRANCA FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV ASA BRANCA FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470658
-#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/40f42321a48a27399cf533b90fe60d69.png" group-title="CANAIS | TELECINE",TELECINE TOUCH HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470660
-#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/40f42321a48a27399cf533b90fe60d69.png" group-title="CANAIS | TELECINE",TELECINE TOUCH FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470661
-#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/cad9f3387eb88f7afa2c683c3586b73a.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470663
-#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/cad9f3387eb88f7afa2c683c3586b73a.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470664
-#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/da67d5f1c53e53b6b1d9f193b608eddc.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470666
-#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/da67d5f1c53e53b6b1d9f193b608eddc.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470667
-#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/a065d1fd76b53dcc670f8f21edd3d6a3.png" group-title="CANAIS | TELECINE",TELECINE FUN HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470669
-#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/a065d1fd76b53dcc670f8f21edd3d6a3.png" group-title="CANAIS | TELECINE",TELECINE FUN FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470670
-#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/f9e4ef3e1bb0368ed29859c7f747faa0.png" group-title="CANAIS | TELECINE",TELECINE CULT HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470672
-#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/f9e4ef3e1bb0368ed29859c7f747faa0.png" group-title="CANAIS | TELECINE",TELECINE CULT FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470673
-#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/715e0830b7ee745020a26b751aace2f0.png" group-title="CANAIS | TELECINE",TELECINE ACTION HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470675
-#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/715e0830b7ee745020a26b751aace2f0.png" group-title="CANAIS | TELECINE",TELECINE ACTION FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470676
-#EXTINF:-1 tvg-id="" tvg-name="ARTE 1 FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/e4956580c443c090930999fea11d3bd2.png" group-title="CANAIS | VARIEDADES",ARTE 1 FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470677
-#EXTINF:-1 tvg-id="" tvg-name="ARTE 1 HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/e4956580c443c090930999fea11d3bd2.png" group-title="CANAIS | VARIEDADES",ARTE 1 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470678
-#EXTINF:-1 tvg-id="" tvg-name="WOOHOO HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/0d0add97097fbf7893087628353afb49.png" group-title="CANAIS | VARIEDADES",WOOHOO HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470680
-#EXTINF:-1 tvg-id="" tvg-name="WOOHOO FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/0d0add97097fbf7893087628353afb49.png" group-title="CANAIS | VARIEDADES",WOOHOO FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470681
-#EXTINF:-1 tvg-id="" tvg-name="VIVA HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/d8451360c9eb181a3fbd8e1e4e3e6ea2.png" group-title="CANAIS | VARIEDADES",VIVA HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470683
-#EXTINF:-1 tvg-id="" tvg-name="VIVA FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/d8451360c9eb181a3fbd8e1e4e3e6ea2.png" group-title="CANAIS | VARIEDADES",VIVA FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470684
-#EXTINF:-1 tvg-id="" tvg-name="TLC HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" group-title="CANAIS | VARIEDADES",TLC HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470687
-#EXTINF:-1 tvg-id="" tvg-name="TLC FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" group-title="CANAIS | VARIEDADES",TLC FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470688
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC BOX BRAZIL HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/e657cce1913c857166b0475f18668ef5.png" group-title="CANAIS | VARIEDADES",MUSIC BOX BRAZIL HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470690
-#EXTINF:-1 tvg-id="" tvg-name="MULTISHOW HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/1d80cb3631c3f5a88c62306bb4c036a6.png" group-title="CANAIS | VARIEDADES",MULTISHOW HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470692
-#EXTINF:-1 tvg-id="" tvg-name="MULTISHOW FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/1d80cb3631c3f5a88c62306bb4c036a6.png" group-title="CANAIS | VARIEDADES",MULTISHOW FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470693
-#EXTINF:-1 tvg-id="" tvg-name="MTV FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b49882eae96bb41a7fa1feb6aa7acc18.png" group-title="CANAIS | VARIEDADES",MTV FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470695
-#EXTINF:-1 tvg-id="" tvg-name="LIFETIME HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/0c4408d480b783ccb279ea84bedda77a.png" group-title="CANAIS | VARIEDADES",LIFETIME HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470698
-#EXTINF:-1 tvg-id="" tvg-name="LIFETIME FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/0c4408d480b783ccb279ea84bedda77a.png" group-title="CANAIS | VARIEDADES",LIFETIME FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470699
-#EXTINF:-1 tvg-id="" tvg-name="GNT HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/220ab163e14012078b669a75ffbe66c8.png" group-title="CANAIS | VARIEDADES",GNT HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470701
-#EXTINF:-1 tvg-id="" tvg-name="GNT FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/220ab163e14012078b669a75ffbe66c8.png" group-title="CANAIS | VARIEDADES",GNT FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470702
-#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/cc9284597026dcc021735c0970ca0c93.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470705
-#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/cc9284597026dcc021735c0970ca0c93.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470706
-#EXTINF:-1 tvg-id="" tvg-name="E! HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/3a3ea00cfc35332cedf6e5e9a32e94da.png" group-title="CANAIS | VARIEDADES",E! HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470707
-#EXTINF:-1 tvg-id="" tvg-name="E! FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/3a3ea00cfc35332cedf6e5e9a32e94da.png" group-title="CANAIS | VARIEDADES",E! FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470708
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/452c7c62ee412104dd66139d97c213b9.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470710
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/452c7c62ee412104dd66139d97c213b9.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470711
-#EXTINF:-1 tvg-id="" tvg-name="BIS HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/f874a3540c84daa7e6e0e3ea543365bf.png" group-title="CANAIS | VARIEDADES",BIS HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470713
-#EXTINF:-1 tvg-id="" tvg-name="BIS FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/f874a3540c84daa7e6e0e3ea543365bf.png" group-title="CANAIS | VARIEDADES",BIS FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470714
-#EXTINF:-1 tvg-id="" tvg-name="SHOPTIME FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/7535f4001d7a82e03ff520c6c6a463a8.png" group-title="CANAIS | VARIEDADES",SHOPTIME FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470723
-#EXTINF:-1 tvg-id="" tvg-name="TRAVEL BOX BRASIL FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/3b97c031cac2c9c827c598fb20950488.png" group-title="CANAIS | VARIEDADES",TRAVEL BOX BRASIL FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470724
-#EXTINF:-1 tvg-id="" tvg-name="TRUT TV FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/512e41849e5ec29784e8fb7880512f7a.png" group-title="CANAIS | VARIEDADES",TRUT TV FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470725
-#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b49882eae96bb41a7fa1feb6aa7acc18.png" group-title="CANAIS | VARIEDADES",MTV LIVE HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470727
-#EXTINF:-1 tvg-id="" tvg-name="CHEFE TV HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/c64f97c06632d1e7bd43603c64c19e67.png" group-title="CANAIS | VARIEDADES",CHEFE TV HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470728
-#EXTINF:-1 tvg-id="" tvg-name="SHOPTIME HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/7535f4001d7a82e03ff520c6c6a463a8.png" group-title="CANAIS | VARIEDADES",SHOPTIME HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470729
-#EXTINF:-1 tvg-id="" tvg-name="TRAVEL BOX BRASIL HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/3b97c031cac2c9c827c598fb20950488.png" group-title="CANAIS | VARIEDADES",TRAVEL BOX BRASIL HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470730
-#EXTINF:-1 tvg-id="" tvg-name="VH1 HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/84a46a26239e7d4e251c495ca351b6d6.png" group-title="CANAIS | VARIEDADES",VH1 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470731
-#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/21b0019f5d4469c50dbc40960c035934.jpg" group-title="CANAIS | INFANTIL",CARTOONITO HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470733
-#EXTINF:-1 tvg-id="" tvg-name="TV RATIMBUM HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/7566a85fcdcad5b72ebfb4a7aae77027.png" group-title="CANAIS | INFANTIL",TV RATIMBUM HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470736
-#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/cbb7ef0d6830d0d170d6c8fa097b6da8.png" group-title="CANAIS | INFANTIL",GLOOBINHO HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470737
-#EXTINF:-1 tvg-id="" tvg-name="ZOOMO HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/cf56700d4e2d722942c123114042de61.png" group-title="CANAIS | INFANTIL",ZOOMO HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470738
-#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/cbb7ef0d6830d0d170d6c8fa097b6da8.png" group-title="CANAIS | INFANTIL",GLOOBINHO FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470739
-#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/64152c9fc516f00e43f3a9200b5a0f16.png" group-title="CANAIS | INFANTIL",TOONCAST HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470741
-#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/64152c9fc516f00e43f3a9200b5a0f16.png" group-title="CANAIS | INFANTIL",TOONCAST FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470742
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/68351b259a79cb3c42a3a096794af674.png" group-title="CANAIS | INFANTIL",NICKELODEON HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470744
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/68351b259a79cb3c42a3a096794af674.png" group-title="CANAIS | INFANTIL",NICKELODEON FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470745
-#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/41e62a2deec2c1330077c95c10c45afc.png" group-title="CANAIS | INFANTIL",NICK JR HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470747
-#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/41e62a2deec2c1330077c95c10c45afc.png" group-title="CANAIS | INFANTIL",NICK JR FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470748
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b6887c4fb22052489be319e63539fa5b.png" group-title="CANAIS | INFANTIL",GLOOB HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470753
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b6887c4fb22052489be319e63539fa5b.png" group-title="CANAIS | INFANTIL",GLOOB FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470754
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b0c77bfbba609a1b59f1b85e097c4f13.png" group-title="CANAIS | INFANTIL",DISNEY CHANNEL HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470762
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b0c77bfbba609a1b59f1b85e097c4f13.png" group-title="CANAIS | INFANTIL",DISNEY CHANNEL FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470763
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/1b7c7db3a16fefe8ec0f85bb30121167.png" group-title="CANAIS | INFANTIL",DISCOVERY KIDS HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470765
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/1b7c7db3a16fefe8ec0f85bb30121167.png" group-title="CANAIS | INFANTIL",DISCOVERY KIDS FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470766
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/723c2356367fa8fbad903c3106434b34.png" group-title="CANAIS | INFANTIL",CARTOON NETWORK HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470768
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/723c2356367fa8fbad903c3106434b34.png" group-title="CANAIS | INFANTIL",CARTOON NETWORK FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470769
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="CARTOONITO FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/21b0019f5d4469c50dbc40960c035934.jpg" group-title="CANAIS | INFANTIL",CARTOONITO FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470770
-#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/8812c926ca2b08383b7be94c09a0033b.png" group-title="CANAIS | INFANTIL",BABY TV HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470772
-#EXTINF:-1 tvg-id="" tvg-name="Retrô Cartoon" tvg-logo="http://dns.jslinkdns.xyz:80/images/55bc478bbf45d53b0feb2669145aa8aa.png" group-title="CANAIS | INFANTIL",Retrô Cartoon
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470776
-#EXTINF:-1 tvg-id="" tvg-name="ZOOMOO FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/ac11fb6a51c835584ec36927ba57f0f6.png" group-title="CANAIS | INFANTIL",ZOOMOO FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470777
-#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/ec2e26f74d9d00ee61385761ea30ae6a.png" group-title="CANAIS | NOTICIAS",JOVEM PAN NEWS FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470778
-#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/ec2e26f74d9d00ee61385761ea30ae6a.png" group-title="CANAIS | NOTICIAS",JOVEM PAN HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470779
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS  HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/690280d4812a424a531305a4b7e3cdc1.png" group-title="CANAIS | NOTICIAS",GLOBO NEWS  HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470783
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/690280d4812a424a531305a4b7e3cdc1.png" group-title="CANAIS | NOTICIAS",GLOBO NEWS FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470784
-#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/1e0e32e597a18f225a2b17a19a379e83.png" group-title="CANAIS | NOTICIAS",CNN BRASIL FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470787
-#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/242739608ae3cad1401599142de43ed9.png" group-title="CANAIS | NOTICIAS",BAND NEWS HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470789
-#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/242739608ae3cad1401599142de43ed9.png" group-title="CANAIS | NOTICIAS",BAND NEWS FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470790
-#EXTINF:-1 tvg-id="bbc.world.news.br" tvg-name="BBC WORLD FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/1280px-BBC_World_News_red.svg.png" group-title="CANAIS | NOTICIAS",BBC WORLD FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470791
-#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/c223593c3537f6160d10aaa4d9a06fcc.png" group-title="CANAIS | NOTICIAS",RECORD NEWS FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470792
-#EXTINF:-1 tvg-id="bbc.world.news.br" tvg-name="BBC WORLD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/1280px-BBC_World_News_red.svg.png" group-title="CANAIS | NOTICIAS",BBC WORLD HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470793
-#EXTINF:-1 tvg-id="" tvg-name="TRUTV HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/14316b9261db90202d37f9de01180b1a.png" group-title="CANAIS | DOCUMENTARIOS",TRUTV HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470794
-#EXTINF:-1 tvg-id="" tvg-name="NHK WORLD HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/c31cc776d78b3ade62769030714f4da6.png" group-title="CANAIS | DOCUMENTARIOS",NHK WORLD HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470796
-#EXTINF:-1 tvg-id="" tvg-name="NATGEO HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/cd198e31266cb350285ec583cbfa59c4.png" group-title="CANAIS | DOCUMENTARIOS",NATGEO HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470801
-#EXTINF:-1 tvg-id="" tvg-name="NATGEO FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/cd198e31266cb350285ec583cbfa59c4.png" group-title="CANAIS | DOCUMENTARIOS",NATGEO FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470802
-#EXTINF:-1 tvg-id="" tvg-name="ID DISCOVERY HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b718adec73e04ce3ec720dd11a06a308.png" group-title="CANAIS | DOCUMENTARIOS",ID DISCOVERY HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470804
-#EXTINF:-1 tvg-id="" tvg-name="ID DISCOVERY FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b718adec73e04ce3ec720dd11a06a308.png" group-title="CANAIS | DOCUMENTARIOS",ID DISCOVERY FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470805
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/5d83de1c9f32e1adaf68625c99c29ac4.png" group-title="CANAIS | DOCUMENTARIOS",HISTORY HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470807
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/5d83de1c9f32e1adaf68625c99c29ac4.png" group-title="CANAIS | DOCUMENTARIOS",HISTORY FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470808
-#EXTINF:-1 tvg-id="" tvg-name="HGTV HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/efbfa2b2fcea4f9cfbe3ae9333588857.png" group-title="CANAIS | DOCUMENTARIOS",HGTV HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470809
-#EXTINF:-1 tvg-id="" tvg-name="HGTV FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/efbfa2b2fcea4f9cfbe3ae9333588857.png" group-title="CANAIS | DOCUMENTARIOS",HGTV FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470810
-#EXTINF:-1 tvg-id="" tvg-name="HYSTORY 2 HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/ca2bf3f6b7e18a508253e9521510a4b5.png" group-title="CANAIS | DOCUMENTARIOS",HYSTORY 2 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470812
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2 FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/ca2bf3f6b7e18a508253e9521510a4b5.png" group-title="CANAIS | DOCUMENTARIOS",HISTORY 2 FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470813
-#EXTINF:-1 tvg-id="" tvg-name="DOG TV FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/4cad4dda9527d6e78f4b32964bcf115a.png" group-title="CANAIS | DOCUMENTARIOS",DOG TV FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470814
-#EXTINF:-1 tvg-id="" tvg-name="DOG TV HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/4cad4dda9527d6e78f4b32964bcf115a.png" group-title="CANAIS | DOCUMENTARIOS",DOG TV HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470815
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/e0cadf76edb5f9dd951d9650402e0169.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY WORLD HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470817
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/e0cadf76edb5f9dd951d9650402e0169.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY WORLD FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470818
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/005ebeeb798fd0f70230fce4637487c6.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY TURBO HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470820
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/005ebeeb798fd0f70230fce4637487c6.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY TURBO FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470821
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/bfa2afd707c547c7de9366a69c363db3.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY THEATER HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470823
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/bfa2afd707c547c7de9366a69c363db3.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY THEATER FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470824
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/7bc53febc6041e824b2f9817fa2eeb01.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY SCIENCE HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470826
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/7bc53febc6041e824b2f9817fa2eeb01.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY SCIENCE FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470827
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/f7f09e86093f6aae2e1f103aa5c9f58d.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY H&H HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470829
-#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY H&H FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/f7f09e86093f6aae2e1f103aa5c9f58d.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY H&H FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470830
-#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/56119663bd5f6197c09952cc2fdd6710.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY CHANNEL HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470832
-#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/56119663bd5f6197c09952cc2fdd6710.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY CHANNEL FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470833
-#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/c4fc4634e6e6ee29f11f364ec8e0e25d.png" group-title="CANAIS | DOCUMENTARIOS",ANIMAL PLANET FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470835
-#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/c4fc4634e6e6ee29f11f364ec8e0e25d.png" group-title="CANAIS | DOCUMENTARIOS",ANIMAL PLANET HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470836
-#EXTINF:-1 tvg-id="" tvg-name="TRUTV HD*" tvg-logo="http://dns.jslinkdns.xyz:80/images/14316b9261db90202d37f9de01180b1a.png" group-title="CANAIS | DOCUMENTARIOS",TRUTV HD*
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470837
-#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/19c56e790fbd26fed581631d3050abba.png" group-title="CANAIS | DOCUMENTARIOS",LOVE NATURE FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470838
-#EXTINF:-1 tvg-id="" tvg-name="RECORD TV BELEM HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/921df56002ee5dc960debedc8ae06072.png" group-title="CANAIS | RECORD",RECORD TV BELEM HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470852
-#EXTINF:-1 tvg-id="" tvg-name="RECORD RS HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/921df56002ee5dc960debedc8ae06072.png" group-title="CANAIS | RECORD",RECORD RS HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470854
-#EXTINF:-1 tvg-id="" tvg-name="RECORD MINAS FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/921df56002ee5dc960debedc8ae06072.png" group-title="CANAIS | RECORD",RECORD MINAS FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470856
-#EXTINF:-1 tvg-id="" tvg-name="RECORD MANAUS HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/921df56002ee5dc960debedc8ae06072.png" group-title="CANAIS | RECORD",RECORD MANAUS HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470857
-#EXTINF:-1 tvg-id="" tvg-name="RECORD GOIAS HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/921df56002ee5dc960debedc8ae06072.png" group-title="CANAIS | RECORD",RECORD GOIAS HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470858
-#EXTINF:-1 tvg-id="" tvg-name="RECORD BAHIA HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/921df56002ee5dc960debedc8ae06072.png" group-title="CANAIS | RECORD",RECORD BAHIA HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470862
-#EXTINF:-1 tvg-id="" tvg-name="RECORD RS FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="CANAIS | RECORD",RECORD RS FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470863
-#EXTINF:-1 tvg-id="" tvg-name="RECORD TV PARANÁ FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="CANAIS | RECORD",RECORD TV PARANÁ FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470864
-#EXTINF:-1 tvg-id="" tvg-name="RECORD CAMPINAS FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="CANAIS | RECORD",RECORD CAMPINAS FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470865
-#EXTINF:-1 tvg-id="" tvg-name="RECORD TV PARANÁ HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="CANAIS | RECORD",RECORD TV PARANÁ HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470866
-#EXTINF:-1 tvg-id="" tvg-name="RECORD TV SANTA CATARINA HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="CANAIS | RECORD",RECORD TV SANTA CATARINA HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470867
-#EXTINF:-1 tvg-id="" tvg-name="RECORD UBERLANDIA MG HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="CANAIS | RECORD",RECORD UBERLANDIA MG HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470868
-#EXTINF:-1 tvg-id="" tvg-name="RECORD SANTOS HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="CANAIS | RECORD",RECORD SANTOS HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470870
-#EXTINF:-1 tvg-id="" tvg-name="RECORD SERGIPE HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="CANAIS | RECORD",RECORD SERGIPE HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/470871
-#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/61df563650b3e12cb7d022d1ce4c0c14.png" group-title="CANAIS | ESPORTES",BAND SPORTS FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/471943
-#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/61df563650b3e12cb7d022d1ce4c0c14.png" group-title="CANAIS | ESPORTES",BAND SPORTS HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/471945
-#EXTINF:-1 tvg-id="" tvg-name="COMBATE FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/a092c48e9fa9ecf324b2d3a23d61d891.png" group-title="CANAIS | ESPORTES",COMBATE FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/471947
-#EXTINF:-1 tvg-id="" tvg-name="COMBATE HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/a092c48e9fa9ecf324b2d3a23d61d891.png" group-title="CANAIS | ESPORTES",COMBATE HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/471949
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/7a39b11b9af247053ebd637ff1ca9db8.png" group-title="CANAIS | ESPORTES",ESPN 2 FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/471951
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FHD (H265)" tvg-logo="http://dns.jslinkdns.xyz:80/images/7a39b11b9af247053ebd637ff1ca9db8.png" group-title="CANAIS | ESPORTES",ESPN 2 FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/471952
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/7a39b11b9af247053ebd637ff1ca9db8.png" group-title="CANAIS | ESPORTES",ESPN 2 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/471953
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 FHD" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/3e99c57a-516c-385d-9c22-2e40aebc7129.png" group-title="CANAIS | ESPORTES",ESPN 3 FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/471955
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 FHD (H265)" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/3e99c57a-516c-385d-9c22-2e40aebc7129.png" group-title="CANAIS | ESPORTES",ESPN 3 FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/471956
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/3e99c57a-516c-385d-9c22-2e40aebc7129.png" group-title="CANAIS | ESPORTES",ESPN 3 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/471957
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 FHD" tvg-logo="https://www.delta.nl/media/2332/espn4-delta.png?anchor=center&mode=crop&width=300&rnd=132531240611070000" group-title="CANAIS | ESPORTES",ESPN 4 FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/471959
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 FHD (H265)" tvg-logo="https://www.delta.nl/media/2332/espn4-delta.png?anchor=center&mode=crop&width=300&rnd=132531240611070000" group-title="CANAIS | ESPORTES",ESPN 4 FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/471960
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HD" tvg-logo="https://www.delta.nl/media/2332/espn4-delta.png?anchor=center&mode=crop&width=300&rnd=132531240611070000" group-title="CANAIS | ESPORTES",ESPN 4 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/471961
-#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/e9144291b7def66564a0ddcd06a29583.png" group-title="CANAIS | ESPORTES",ESPN EXTRA FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/471963
-#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA FHD (H265)" tvg-logo="http://dns.jslinkdns.xyz:80/images/e9144291b7def66564a0ddcd06a29583.png" group-title="CANAIS | ESPORTES",ESPN EXTRA FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/471964
-#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/e9144291b7def66564a0ddcd06a29583.png" group-title="CANAIS | ESPORTES",ESPN EXTRA HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/471965
-#EXTINF:-1 tvg-id="" tvg-name="ESPN FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/7b0ef842a6a1233a8a86a8533063a1a1.png" group-title="CANAIS | ESPORTES",ESPN FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/471967
-#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/7b0ef842a6a1233a8a86a8533063a1a1.png" group-title="CANAIS | ESPORTES",ESPN HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/471969
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b113263a0805e2eadf72c413161fb4c1.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/471971
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/b113263a0805e2eadf72c413161fb4c1.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/471973
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/bea99f2c35beab30bdbc493660e3fe11.png" group-title="CANAIS | ESPORTES",SPORTV FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/471975
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/bea99f2c35beab30bdbc493660e3fe11.png" group-title="CANAIS | ESPORTES",SPORTV HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/471977
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/e4d104b99e8de8af4d229fcf1166ce45.png" group-title="CANAIS | ESPORTES",SPORTV 2 FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/471979
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 FHD (H265)" tvg-logo="http://dns.jslinkdns.xyz:80/images/e4d104b99e8de8af4d229fcf1166ce45.png" group-title="CANAIS | ESPORTES",SPORTV 2 FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/471980
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/e4d104b99e8de8af4d229fcf1166ce45.png" group-title="CANAIS | ESPORTES",SPORTV 2 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/471981
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/f71bd873210a52cb64c8f7770444343d.png" group-title="CANAIS | ESPORTES",SPORTV 3 FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/471983
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 FHD (H265)" tvg-logo="http://dns.jslinkdns.xyz:80/images/f71bd873210a52cb64c8f7770444343d.png" group-title="CANAIS | ESPORTES",SPORTV 3 FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/471984
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/f71bd873210a52cb64c8f7770444343d.png" group-title="CANAIS | ESPORTES",SPORTV 3 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/471985
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/e48cb6adc297201444d040ff8ef712eb.png" group-title="CANAIS | ESP PREMIERE",PREMIERE CLUBES FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/471987
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES FHD (H265)" tvg-logo="http://dns.jslinkdns.xyz:80/images/e48cb6adc297201444d040ff8ef712eb.png" group-title="CANAIS | ESP PREMIERE",PREMIERE CLUBES FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/471988
-#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="PREMIERE CLUBES HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/e48cb6adc297201444d040ff8ef712eb.png" group-title="CANAIS | ESP PREMIERE",PREMIERE CLUBES HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/471989
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2 FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/d33006f15f9ba7dffe6c76a806fe12af.png" group-title="CANAIS | ESP PREMIERE",PREMIERE 2 FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/471991
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2 FHD (H265)" tvg-logo="http://dns.jslinkdns.xyz:80/images/d33006f15f9ba7dffe6c76a806fe12af.png" group-title="CANAIS | ESP PREMIERE",PREMIERE 2 FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/471992
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2 HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/d33006f15f9ba7dffe6c76a806fe12af.png" group-title="CANAIS | ESP PREMIERE",PREMIERE 2 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/471993
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/d33006f15f9ba7dffe6c76a806fe12af.png" group-title="CANAIS | ESP PREMIERE",PREMIERE 3 FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/471995
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 FHD (H265)" tvg-logo="http://dns.jslinkdns.xyz:80/images/d33006f15f9ba7dffe6c76a806fe12af.png" group-title="CANAIS | ESP PREMIERE",PREMIERE 3 FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/471996
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/d33006f15f9ba7dffe6c76a806fe12af.png" group-title="CANAIS | ESP PREMIERE",PREMIERE 3 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/471997
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/d33006f15f9ba7dffe6c76a806fe12af.png" group-title="CANAIS | ESP PREMIERE",PREMIERE 4 FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/471999
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 FHD (H265)" tvg-logo="http://dns.jslinkdns.xyz:80/images/d33006f15f9ba7dffe6c76a806fe12af.png" group-title="CANAIS | ESP PREMIERE",PREMIERE 4 FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/472000
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/d33006f15f9ba7dffe6c76a806fe12af.png" group-title="CANAIS | ESP PREMIERE",PREMIERE 4 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/472001
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5 FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/d33006f15f9ba7dffe6c76a806fe12af.png" group-title="CANAIS | ESP PREMIERE",PREMIERE 5 FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/472003
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5 FHD (H265)" tvg-logo="http://dns.jslinkdns.xyz:80/images/d33006f15f9ba7dffe6c76a806fe12af.png" group-title="CANAIS | ESP PREMIERE",PREMIERE 5 FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/472004
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5 HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/d33006f15f9ba7dffe6c76a806fe12af.png" group-title="CANAIS | ESP PREMIERE",PREMIERE 5 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/472005
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6 FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/d33006f15f9ba7dffe6c76a806fe12af.png" group-title="CANAIS | ESP PREMIERE",PREMIERE 6 FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/472007
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6 FHD (H265)" tvg-logo="http://dns.jslinkdns.xyz:80/images/d33006f15f9ba7dffe6c76a806fe12af.png" group-title="CANAIS | ESP PREMIERE",PREMIERE 6 FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/472008
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6 HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/d33006f15f9ba7dffe6c76a806fe12af.png" group-title="CANAIS | ESP PREMIERE",PREMIERE 6 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/472009
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7 FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/d33006f15f9ba7dffe6c76a806fe12af.png" group-title="CANAIS | ESP PREMIERE",PREMIERE 7 FHD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/472011
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7 HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/d33006f15f9ba7dffe6c76a806fe12af.png" group-title="CANAIS | ESP PREMIERE",PREMIERE 7 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/472012
-#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/7b0ef842a6a1233a8a86a8533063a1a1.png" group-title="CANAIS | ESPORTES",ESPN BRASIL HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/472483
-#EXTINF:-1 tvg-id="" tvg-name="Band 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/81876971d5f3a7ad4c9a60340ca7d50e.png" group-title="CANAIS | 4K",Band 4K
-http://dns.jslinkdns.xyz:80/3851217611/386718277/588345
-#EXTINF:-1 tvg-id="" tvg-name="Record 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/24b5f5814d3d6f2b71fd04256e637962.png" group-title="CANAIS | 4K",Record 4K
-http://dns.jslinkdns.xyz:80/3851217611/386718277/588346
-#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/7d6ee2cc06af2582c277bfa73e14a034.png" group-title="CANAIS | 4K",Premiere Clubes 4K
-http://dns.jslinkdns.xyz:80/3851217611/386718277/588347
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/a2cde6cb05b9fc063c5e9188a9e8fc15.png" group-title="CANAIS | 4K",Telecine Premium 4K
-http://dns.jslinkdns.xyz:80/3851217611/386718277/588348
-#EXTINF:-1 tvg-id="" tvg-name="TNT 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/91fca362fec5700d4a3c7bde1830cdd9.png" group-title="CANAIS | 4K",TNT 4K
-http://dns.jslinkdns.xyz:80/3851217611/386718277/588349
-#EXTINF:-1 tvg-id="" tvg-name="TNT Series 4K" tvg-logo="http://cdn.liveboxtv.xyz:80/images/3d9b6b4d3c0fe15c610dbc7bcfcd93d3.png" group-title="CANAIS | 4K",TNT Series 4K
-http://dns.jslinkdns.xyz:80/3851217611/386718277/588350
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/bbcd5964fca4148865aa4e5ef679b4dd.png" group-title="CANAIS | 4K",Animal Planet 4K
-http://dns.jslinkdns.xyz:80/3851217611/386718277/588351
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/62db5079d90a61f0de6d60b7976fbe4b.png" group-title="CANAIS | 4K",Cartoon Network 4K
-http://dns.jslinkdns.xyz:80/3851217611/386718277/588352
-#EXTINF:-1 tvg-id="" tvg-name="Combate 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/434f95d374e2134d175129891d902575.png" group-title="CANAIS | 4K",Combate 4K
-http://dns.jslinkdns.xyz:80/3851217611/386718277/588353
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/8f49928ed56edf8cf7d15a14eda63ea0.png" group-title="CANAIS | 4K",Discovery Channel 4K
-http://dns.jslinkdns.xyz:80/3851217611/386718277/588354
-#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/fe62598b7d670aa0349d5f70814d25e4.png" group-title="CANAIS | 4K",STAR CHANNEL 4K
-http://dns.jslinkdns.xyz:80/3851217611/386718277/588355
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/219f308780a5cddea4154a5f46d4279b.png" group-title="CANAIS | 4K",ESPN 4 4K
-http://dns.jslinkdns.xyz:80/3851217611/386718277/588356
-#EXTINF:-1 tvg-id="" tvg-name="Globo 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/efb56cdbd0648a9b81fea0a9aa940aae.png" group-title="CANAIS | 4K",Globo 4K
-http://dns.jslinkdns.xyz:80/3851217611/386718277/588357
-#EXTINF:-1 tvg-id="" tvg-name="HBO 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/c954d28bc1d08e496e5c6eaf3ac4f4ef.png" group-title="CANAIS | 4K",HBO 4K
-http://dns.jslinkdns.xyz:80/3851217611/386718277/588358
-#EXTINF:-1 tvg-id="" tvg-name="Megapix 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/e430766410874bf506f174001596cf72.png" group-title="CANAIS | 4K",Megapix 4K
-http://dns.jslinkdns.xyz:80/3851217611/386718277/588359
-#EXTINF:-1 tvg-id="" tvg-name="Multishow 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/30ec54ae12d8ea1e4976d67bd1ae54af.png" group-title="CANAIS | 4K",Multishow 4K
-http://dns.jslinkdns.xyz:80/3851217611/386718277/588360
-#EXTINF:-1 tvg-id="" tvg-name="SBT 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/99e72a30088584b01a7e727a72ba53e9.png" group-title="CANAIS | 4K",SBT 4K
-http://dns.jslinkdns.xyz:80/3851217611/386718277/588361
-#EXTINF:-1 tvg-id="" tvg-name="Space 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/20b6e2dafee7b5bd64cf3a09f8a6d6d1.png" group-title="CANAIS | 4K",Space 4K
-http://dns.jslinkdns.xyz:80/3851217611/386718277/588362
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/0786f8c4dd07d103fc30ebbc3ac10ee6.png" group-title="CANAIS | 4K",SporTV 4K
-http://dns.jslinkdns.xyz:80/3851217611/386718277/588363
-#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/7f1a6ba36f51359f52e009f6bbb696e0.png" group-title="CANAIS | 4K",HBO XTREME 4K
-http://dns.jslinkdns.xyz:80/3851217611/386718277/588364
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4K" tvg-logo="http://cdn.liveboxtv.xyz:80/images/04d080864054aefd1ef1a9ff87b7d107.png" group-title="CANAIS | 4K",ESPN 4K
-http://dns.jslinkdns.xyz:80/3851217611/386718277/588365
-#EXTINF:-1 tvg-id="" tvg-name="NATGEO 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/7a6062cfe3e011a27e0a047300f4eac1.png" group-title="CANAIS | 4K",NATGEO 4K
-http://dns.jslinkdns.xyz:80/3851217611/386718277/588366
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/d39181270476d6626950ef31e702170f.png" group-title="CANAIS | 4K",FOX SPORTS 2 4K
-http://dns.jslinkdns.xyz:80/3851217611/386718277/588367
-#EXTINF:-1 tvg-id="" tvg-name="REDETV 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/f7974c06fcd421259b07597ca4a4b26f.png" group-title="CANAIS | 4K",REDETV 4K
-http://dns.jslinkdns.xyz:80/3851217611/386718277/588368
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/79f906bf19f885372715280ab6229319.png" group-title="CANAIS | 4K",TELECINE PIPOCA 4K
-http://dns.jslinkdns.xyz:80/3851217611/386718277/588369
-#EXTINF:-1 tvg-id="" tvg-name="TV ZOOM" tvg-logo="http://dns.jslinkdns.xyz:80/images/b8a0aeffd7c1e16eb33d1283fd364987.jpg" group-title="CANAIS | VARIEDADES",TV ZOOM
-http://dns.jslinkdns.xyz:80/3851217611/386718277/784446
-#EXTINF:-1 tvg-id="" tvg-name="24H COPA USA 94" tvg-logo="http://dns.jslinkdns.xyz:80/images/a488801964e8bee8ec7e247f437d3edf.png" group-title=" CANAIS | COPA DO MUNDO",24H COPA USA 94
-http://dns.jslinkdns.xyz:80/3851217611/386718277/819517
-#EXTINF:-1 tvg-id="" tvg-name="24H COPA FRANÇA 98" tvg-logo="https://w7.pngwing.com/pngs/895/701/png-transparent-1998-fifa-world-cup-world-cup-98-france-national-football-team-2006-fifa-world-cup-france-text-logo-france.png" group-title=" CANAIS | COPA DO MUNDO",24H COPA FRANÇA 98
-http://dns.jslinkdns.xyz:80/3851217611/386718277/819518
-#EXTINF:-1 tvg-id="" tvg-name="24H COPA KOREA 02" tvg-logo="http://dns.jslinkdns.xyz:80/images/fb7d1e2e6f7d8501cf46a496cdaca8dc.png" group-title=" CANAIS | COPA DO MUNDO",24H COPA KOREA 02
-http://dns.jslinkdns.xyz:80/3851217611/386718277/819519
-#EXTINF:-1 tvg-id="" tvg-name="24H COPA AFRICA 10" tvg-logo="https://images.uncyc.org/commons/6/68/Fifa2010_logo.png" group-title=" CANAIS | COPA DO MUNDO",24H COPA AFRICA 10
-http://dns.jslinkdns.xyz:80/3851217611/386718277/819520
-#EXTINF:-1 tvg-id="" tvg-name="24H COPA RUSSIA 18" tvg-logo="http://dns.jslinkdns.xyz:80/images/f11e7ea6f9a2bb2a5442ac795d540b78.png" group-title=" CANAIS | COPA DO MUNDO",24H COPA RUSSIA 18
-http://dns.jslinkdns.xyz:80/3851217611/386718277/819521
-#EXTINF:-1 tvg-id="" tvg-name="24H COPA BRASIL 14" tvg-logo="http://dns.jslinkdns.xyz:80/images/7c77d5f7f6b42e3673500567f09d3cf8.png" group-title=" CANAIS | COPA DO MUNDO",24H COPA BRASIL 14
-http://dns.jslinkdns.xyz:80/3851217611/386718277/819522
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 14 SINAL 1 HD" tvg-logo="" group-title="REALITY SHOW",A FAZENDA 14 SINAL 1 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/824022
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 14 SINAL 3 HD" tvg-logo="" group-title="REALITY SHOW",A FAZENDA 14 SINAL 3 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/824024
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 14 SINAL 2 HD" tvg-logo="" group-title="REALITY SHOW",A FAZENDA 14 SINAL 2 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/824025
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 14 SINAL 4 HD" tvg-logo="" group-title="REALITY SHOW",A FAZENDA 14 SINAL 4 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/824026
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 14 SINAL 5 HD" tvg-logo="" group-title="REALITY SHOW",A FAZENDA 14 SINAL 5 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/824027
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 14 SINAL 6 HD" tvg-logo="" group-title="REALITY SHOW",A FAZENDA 14 SINAL 6 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/824028
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 14 SINAL 7 HD" tvg-logo="" group-title="REALITY SHOW",A FAZENDA 14 SINAL 7 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/824029
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 14 SINAL 8 HD" tvg-logo="" group-title="REALITY SHOW",A FAZENDA 14 SINAL 8 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/824030
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 14 SINAL 9 HD" tvg-logo="" group-title="REALITY SHOW",A FAZENDA 14 SINAL 9 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/824031
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E SD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/AE.png" group-title="CANAIS | FILMES E SÉRIES",A&E SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825304
-#EXTINF:-1 tvg-id="" tvg-name="AGROMAIS SD" tvg-logo="http://dns.jslinkdns.xyz:80/images/3719a339f165e74e7ab42a48bdc52d41.png" group-title="CANAIS | VARIEDADES",AGROMAIS SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825305
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC SD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/AMC.png" group-title="CANAIS | FILMES E SÉRIES",AMC SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825306
-#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="http://dns.jslinkdns.xyz:80/images/c4fc4634e6e6ee29f11f364ec8e0e25d.png" group-title="CANAIS | DOCUMENTARIOS",ANIMAL PLANET SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825307
-#EXTINF:-1 tvg-id="arte.1.br" tvg-name="ARTE 1 SD" tvg-logo="http://dns.jslinkdns.xyz:80/images/e4956580c443c090930999fea11d3bd2.png" group-title="CANAIS | FILMES E SÉRIES",ARTE 1 SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825308
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN SD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/AXN.png" group-title="CANAIS | FILMES E SÉRIES",AXN SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825309
-#EXTINF:-1 tvg-id="baby.br" tvg-name="BABY TV SD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/BABYTV.png" group-title="CANAIS | FILMES E SÉRIES",BABY TV SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825310
-#EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS SD" tvg-logo="http://dns.jslinkdns.xyz:80/images/242739608ae3cad1401599142de43ed9.png" group-title="CANAIS | NOTICIAS",BAND NEWS SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825311
-#EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP SD" tvg-logo="http://dns.jslinkdns.xyz:80/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="CANAIS | BAND",BAND SP SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825312
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS SD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/BAND_SPORTS.png" group-title="CANAIS | ESPORTES",BAND SPORTS SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825313
-#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS SD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/BIS.png" group-title="CANAIS | VARIEDADES",BIS SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825314
-#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CANAL BRASIL SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/BRASIL.png" group-title="CANAIS | VARIEDADES",CANAL BRASIL SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825315
-#EXTINF:-1 tvg-id="canal.rural.br" tvg-name="CANAL RURAL SD" tvg-logo="http://dns.jslinkdns.xyz:80/images/68070a95653988a3a705cc12c5e048dc.png" group-title="CANAIS | VARIEDADES",CANAL RURAL SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825316
-#EXTINF:-1 tvg-id="sony.br" tvg-name="CANAL SONY SD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/SONY.png" group-title="CANAIS | VARIEDADES",CANAL SONY SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825317
-#EXTINF:-1 tvg-id="cancao.nova.br" tvg-name="CANCAO NOVA SD" tvg-logo="http://dns.jslinkdns.xyz:80/images/de50711e9b602954bd928ba8722e73ab.png" group-title="CANAIS | VARIEDADES",CANCAO NOVA SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825318
-#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="CARTOON NETWORK SD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/CARTOON.png" group-title="CANAIS | INFANTIL",CARTOON NETWORK SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825319
-#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO SD" tvg-logo="http://dns.jslinkdns.xyz:80/images/21b0019f5d4469c50dbc40960c035934.jpg" group-title="CANAIS | INFANTIL",CARTOONITO SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825320
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX SD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/CINEMAX.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825321
-#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN BRASIL SD" tvg-logo="http://dns.jslinkdns.xyz:80/images/1e0e32e597a18f225a2b17a19a379e83.png" group-title="CANAIS | NOTICIAS",CNN BRASIL SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825322
-#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE SD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/COMBATE.png" group-title="CANAIS | ESPORTES",COMBATE SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825323
-#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL SD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/COMEDY.png" group-title="CANAIS | DOCUMENTARIOS",COMEDY CENTRAL SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825324
-#EXTINF:-1 tvg-id="curta.br" tvg-name="CURTA! SD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/CURTA.png" group-title="CANAIS | VARIEDADES",CURTA! SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825325
-#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="http://dns.jslinkdns.xyz:80/images/56119663bd5f6197c09952cc2fdd6710.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY CHANNEL SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825326
-#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY H&H SD" tvg-logo="http://dns.jslinkdns.xyz:80/images/f7f09e86093f6aae2e1f103aa5c9f58d.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY H&H SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825327
-#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="DISCOVERY KIDS SD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/DISCOVERY%20KIDS.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY KIDS SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825328
-#EXTINF:-1 tvg-id="discovery.science.br" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="http://dns.jslinkdns.xyz:80/images/7bc53febc6041e824b2f9817fa2eeb01.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY SCIENCE SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825329
-#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="DISCOVERY THEATER SD" tvg-logo="http://dns.jslinkdns.xyz:80/images/bfa2afd707c547c7de9366a69c363db3.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY THEATER SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825330
-#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="DISCOVERY TURBO SD" tvg-logo="http://dns.jslinkdns.xyz:80/images/005ebeeb798fd0f70230fce4637487c6.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY TURBO SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825331
-#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="DISCOVERY WORLD SD" tvg-logo="http://dns.jslinkdns.xyz:80/images/e0cadf76edb5f9dd951d9650402e0169.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY WORLD SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825332
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL SD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/DISNEY%20CHANNEL.png" group-title="CANAIS | DOCUMENTARIOS",DISNEY CHANNEL SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825333
-#EXTINF:-1 tvg-id="e.br" tvg-name="E! SD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/E.png" group-title="CANAIS | VARIEDADES",E! SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825334
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 SD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN 2.png" group-title="CANAIS | ESPORTES",ESPN 2 SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825335
-#EXTINF:-1 tvg-id="espn.plus.br" tvg-name="ESPN 3 SD" tvg-logo="http://dns.jslinkdns.xyz:80/images/d5717c3e068252e2e88c88285fe00b1f.png" group-title="CANAIS | ESPORTES",ESPN 3 SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825336
-#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 SD" tvg-logo="https://www.delta.nl/media/2332/espn4-delta.png?anchor=center&mode=crop&width=300&rnd=132531240611070000" group-title="CANAIS | ESPORTES",ESPN 4 SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825337
-#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA SD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN EXTRA.png" group-title="CANAIS | ESPORTES",ESPN EXTRA SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825338
-#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN SD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN.png" group-title="CANAIS | ESPORTES",ESPN SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825339
-#EXTINF:-1 tvg-id="film.arts.br" tvg-name="FILM & ARTS SD" tvg-logo="http://dns.jslinkdns.xyz:80/images/4ac380d92a6949d7b81a0aea525a05f6.png" group-title="CANAIS | FILMES E SÉRIES",FILM & ARTS SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825340
-#EXTINF:-1 tvg-id="" tvg-name="FISH TV SD" tvg-logo="http://dns.jslinkdns.xyz:80/images/df0377d20e4ec18895f43ec85bc71085.png" group-title="CANAIS | FILMES E SÉRIES",FISH TV SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825341
-#EXTINF:-1 tvg-id="food.network.br" tvg-name="FOOD NETWORK SD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/FOOD.png" group-title="CANAIS | FILMES E SÉRIES",FOOD NETWORK SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825342
-#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="http://trenduhd.xyz/images/Esportes/FOX_SPORT2.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825343
-#EXTINF:-1 tvg-id="futura.br" tvg-name="FUTURA SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/FUTURA.png" group-title="CANAIS | VARIEDADES",FUTURA SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825344
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX SD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/FX.png" group-title="CANAIS | VARIEDADES",FX SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825345
-#EXTINF:-1 tvg-id="globo.bahia.br" tvg-name="GLOBO BAHIA SD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO BAHIA SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825346
-#EXTINF:-1 tvg-id="band.belem.br" tvg-name="GLOBO BELEM SD" tvg-logo="https://cdn.liveboxtv.xyz/imagens/canais_abertos/globo.png" group-title="CANAIS | GLOBO",GLOBO BELEM SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825347
-#EXTINF:-1 tvg-id="tv.boa.vista.br" tvg-name="GLOBO BOA VISTA SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO BOA VISTA SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825348
-#EXTINF:-1 tvg-id="globo.brasilia.br" tvg-name="GLOBO BRASILIA SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO BRASILIA SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825349
-#EXTINF:-1 tvg-id="eptv.campinas.br" tvg-name="GLOBO EPTV CAMPINAS SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO EPTV CAMPINAS SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825350
-#EXTINF:-1 tvg-id="eptv.ribeirao.preto.br" tvg-name="GLOBO EPTV RIBEIRÃO PRETO SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO EPTV RIBEIRÃO PRETO SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825351
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV SAO CARLOS SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO EPTV SAO CARLOS SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825352
-#EXTINF:-1 tvg-id="nsc.florianopolis.br" tvg-name="GLOBO FLORIANOPOLIS SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO FLORIANOPOLIS SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825353
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO GAZETA VITORIA  ES SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO GAZETA VITORIA  ES SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825354
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV ALTO LITORAL SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO INTER TV ALTO LITORAL SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825355
-#EXTINF:-1 tvg-id="intertv.cabugi.br" tvg-name="GLOBO INTER TV CABUGI SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO INTER TV CABUGI SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825356
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO JUIZ DE FORA MG SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO JUIZ DE FORA MG SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825357
-#EXTINF:-1 tvg-id="globo.minas.br" tvg-name="GLOBO MINAS SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO MINAS SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825358
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS SD" tvg-logo="http://dns.jslinkdns.xyz:80/images/690280d4812a424a531305a4b7e3cdc1.png" group-title="CANAIS | NOTICIAS",GLOBO NEWS SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825359
-#EXTINF:-1 tvg-id="globo.nordeste.br" tvg-name="GLOBO NORDESTE SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO NORDESTE SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825360
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV BLUMENAL SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO NSC TV BLUMENAL SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825361
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV CHAPECO SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO NSC TV CHAPECO SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825362
-#EXTINF:-1 tvg-id="rbs.porto.alegre.br" tvg-name="GLOBO RBS PORTO ALEGRE SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO RBS PORTO ALEGRE SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825363
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV CAXIAS DO SUL SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO RBS TV CAXIAS DO SUL SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825364
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV PASSO FUNDO SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO RBS TV PASSO FUNDO SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825365
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV PELOTAS SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO RBS TV PELOTAS SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825366
-#EXTINF:-1 tvg-id="rbs.santa.maria.br" tvg-name="GLOBO RBS TV SANTA MARIA SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO RBS TV SANTA MARIA SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825367
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RECIFE SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO RECIFE SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825368
-#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="GLOBO RJ SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO RJ SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825369
-#EXTINF:-1 tvg-id="rpc.curitiba.br" tvg-name="GLOBO RPC CURITIBA SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO RPC CURITIBA SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825370
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SJRP SD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO SJRP SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825371
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO SP SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO SP SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825372
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ANHANGUERA GOIANIA SD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV ANHANGUERA GOIANIA SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825373
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CENTRO AMERICA CUIABA SD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV CENTRO AMERICA CUIABA SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825374
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CLUBE TERESINA SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO TV CLUBE TERESINA SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825375
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA DE ALAGOAS SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO TV GAZETA DE ALAGOAS SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825376
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MIRANTE COCAIS SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO TV MIRANTE COCAIS SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825377
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MIRANTE SAO LUIS SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO TV MIRANTE SAO LUIS SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825378
-#EXTINF:-1 tvg-id="rede.amazonica.manaus.br" tvg-name="GLOBO TV REDE AMAZONICA MANAUS SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO TV REDE AMAZONICA MANAUS SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825379
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV REDE AMAZONICA PORTO VELHO SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO TV REDE AMAZONICA PORTO VELHO SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825380
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV RIO SUL SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO TV RIO SUL SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825381
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV SUBAE SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO TV SUBAE SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825382
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM BAURU SD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV TEM BAURU SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825383
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM SOROCABA SD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV TEM SOROCABA SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825384
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TRIBUNA SD (SANTOS)" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV TRIBUNA SD (SANTOS)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825385
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VANGUARDA S J CAMPOS SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO TV VANGUARDA S J CAMPOS SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825386
-#EXTINF:-1 tvg-id="tv.verdes.mares.br" tvg-name="GLOBO TV VERDES MARES FORTALEZA SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO TV VERDES MARES FORTALEZA SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825387
-#EXTINF:-1 tvg-id="" tvg-name="GLOOB SD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/GLOOB.png" group-title="CANAIS | INFANTIL",GLOOB SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825388
-#EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO SD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/GLOOBINHO.png" group-title="CANAIS | INFANTIL",GLOOBINHO SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825389
-#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT SD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/GNT.png" group-title="CANAIS | FILMES E SÉRIES",GNT SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825390
-#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 SD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO2.png" group-title="CANAIS | HBO",HBO 2 SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825391
-#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO Familly SD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20FAMILY.png" group-title="CANAIS | HBO",HBO Familly SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825392
-#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI SD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20MUNDI.png" group-title="CANAIS | HBO",HBO MUNDI SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825393
-#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS SD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20PLUS.png" group-title="CANAIS | HBO",HBO PLUS SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825394
-#EXTINF:-1 tvg-id="" tvg-name="HBO POP SD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20POP.png" group-title="CANAIS | HBO",HBO POP SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825395
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO SD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO.png" group-title="CANAIS | HBO",HBO SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825396
-#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE SD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20SIGNATURE.png" group-title="CANAIS | HBO",HBO SIGNATURE SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825397
-#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME SD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20Xtreme.png" group-title="CANAIS | HBO",HBO XTREME SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825398
-#EXTINF:-1 tvg-id="history.2.br" tvg-name="HISTORY 2 SD" tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/H2.png" group-title="CANAIS | DOCUMENTARIOS",HISTORY 2 SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825399
-#EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY SD" tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/HISTORY.png" group-title="CANAIS | DOCUMENTARIOS",HISTORY SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825400
-#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="ID DISCOVERY SD" tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/ID.png" group-title="CANAIS | DOCUMENTARIOS",ID DISCOVERY SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825401
-#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS SD" tvg-logo="http://dns.jslinkdns.xyz:80/images/ec2e26f74d9d00ee61385761ea30ae6a.png" group-title="CANAIS | NOTICIAS",JOVEM PAN NEWS SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825402
-#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME SD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/LIFETIME.png" group-title="CANAIS | VARIEDADES",LIFETIME SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825403
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX SD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/MEGAPIX.png" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825404
-#EXTINF:-1 tvg-id="plus.globosat.br" tvg-name="MODO VIAGEM SD" tvg-logo="http://dns.jslinkdns.xyz:80/images/5b191bba9467eab7f9e56b8b8baed26e.png" group-title="CANAIS | VARIEDADES",MODO VIAGEM SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825405
-#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV SD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/MTV.png" group-title="CANAIS | VARIEDADES",MTV SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825406
-#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW SD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/MULTISHOW.png" group-title="CANAIS | VARIEDADES",MULTISHOW SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825407
-#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATGEO SD" tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/NATGEO.png" group-title="CANAIS | INFANTIL",NATGEO SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825408
-#EXTINF:-1 tvg-id="" tvg-name="NICK JR SD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/NICKJR.png" group-title="CANAIS | INFANTIL",NICK JR SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825409
-#EXTINF:-1 tvg-id="nick.br" tvg-name="NICKELODEON SD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/NICKE.png" group-title="CANAIS | INFANTIL",NICKELODEON SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825410
-#EXTINF:-1 tvg-id="" tvg-name="OFF SD" tvg-logo="http://dns.jslinkdns.xyz:80/images/88559a0cfd8250c9d65970cc145c92d4.png" group-title="CANAIS | VARIEDADES",OFF SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825411
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT SD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/PARAMOUNT.png" group-title="CANAIS | DOCUMENTARIOS",PARAMOUNT SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825412
-#EXTINF:-1 tvg-id="" tvg-name="POLISHOP SD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/POLISHOP.png" group-title="CANAIS | VARIEDADES",POLISHOP SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825414
-#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 SD" tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="CANAIS | ESP PREMIERE",PREMIERE 2 SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825415
-#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 SD" tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="CANAIS | ESP PREMIERE",PREMIERE 3 SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825416
-#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 SD" tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="CANAIS | ESP PREMIERE",PREMIERE 4 SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825417
-#EXTINF:-1 tvg-id="premiere.5.brazil.br" tvg-name="PREMIERE 5 SD" tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="CANAIS | ESP PREMIERE",PREMIERE 5 SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825418
-#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 SD" tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="CANAIS | ESP PREMIERE",PREMIERE 6 SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825419
-#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="PREMIERE 7 SD" tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="CANAIS | ESP PREMIERE",PREMIERE 7 SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825420
-#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES SD" tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE CLUBES.png" group-title="CANAIS | ESP PREMIERE",PREMIERE CLUBES SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825421
-#EXTINF:-1 tvg-id="record.bahia.br" tvg-name="RECORD BAHIA SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/RECORD.png" group-title="CANAIS | RECORD",RECORD BAHIA SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825422
-#EXTINF:-1 tvg-id="record.brasilia.br" tvg-name="RECORD BRASILIA SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/RECORD.png" group-title="CANAIS | RECORD",RECORD BRASILIA SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825423
-#EXTINF:-1 tvg-id="record.goias.br" tvg-name="RECORD GOIAS SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/RECORD.png" group-title="CANAIS | RECORD",RECORD GOIAS SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825424
-#EXTINF:-1 tvg-id="" tvg-name="RECORD MANAUS SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/RECORD.png" group-title="CANAIS | RECORD",RECORD MANAUS SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825425
-#EXTINF:-1 tvg-id="record.minas.br" tvg-name="RECORD MINAS SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/RECORD.png" group-title="CANAIS | RECORD",RECORD MINAS SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825426
-#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS SD" tvg-logo="http://dns.jslinkdns.xyz:80/images/c223593c3537f6160d10aaa4d9a06fcc.png" group-title="CANAIS | NOTICIAS",RECORD NEWS SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825427
-#EXTINF:-1 tvg-id="record.rio.br" tvg-name="RECORD RJ SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/RECORD.png" group-title="CANAIS | RECORD",RECORD RJ SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825428
-#EXTINF:-1 tvg-id="record.rs.br" tvg-name="RECORD RS SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/RECORD.png" group-title="CANAIS | RECORD",RECORD RS SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825429
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD SP SD" tvg-logo="http://dns.jslinkdns.xyz:80/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="CANAIS | RECORD",RECORD SP SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825430
-#EXTINF:-1 tvg-id="recordtv.belem.br" tvg-name="RECORD TV BELEM SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/RECORD.png" group-title="CANAIS | RECORD",RECORD TV BELEM SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825431
-#EXTINF:-1 tvg-id="rede.brasil.br" tvg-name="REDE BRASIL SD" tvg-logo="http://dns.jslinkdns.xyz:80/images/c823e25df7f664699e9dc5ef4337494e.png" group-title="CANAIS | VARIEDADES",REDE BRASIL SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825432
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/REDETV.png" group-title="CANAIS | VARIEDADES",REDE TV SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825433
-#EXTINF:-1 tvg-id="rede.vida.br" tvg-name="REDE VIDA SD" tvg-logo="http://dns.jslinkdns.xyz:80/images/9347317368b0c37aeb5789815af70512.png" group-title="CANAIS | VARIEDADES",REDE VIDA SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825434
-#EXTINF:-1 tvg-id="" tvg-name="RIT TV SD" tvg-logo="https://media.glassdoor.com/sqll/2491026/rit-tv-squarelogo-1554440519232.png" group-title="CANAIS | VARIEDADES",RIT TV SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825435
-#EXTINF:-1 tvg-id="sbt.rio.br" tvg-name="SBT RJ SD" tvg-logo="http://dns.jslinkdns.xyz:80/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="CANAIS | SBT",SBT RJ SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825436
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/SBT.png" group-title="CANAIS | SBT",SBT SP SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825437
-#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE SD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/SPACE.png" group-title="CANAIS | FILMES E SÉRIES",SPACE SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825440
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 SD" tvg-logo="http://trenduhd.xyz/images/Esportes/SPORTV 2.png" group-title="CANAIS | ESPORTES",SPORTV 2 SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825441
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 SD" tvg-logo="http://trenduhd.xyz/images/Esportes/SPORTV 3.png" group-title="CANAIS | ESPORTES",SPORTV 3 SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825442
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV SD" tvg-logo="http://trenduhd.xyz/images/Esportes/SPORTV.png" group-title="CANAIS | ESPORTES",SPORTV SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825443
-#EXTINF:-1 tvg-id="star.br" tvg-name="STAR CHANNEL SD" tvg-logo="http://dns.jslinkdns.xyz:80/images/1cbdb8043b37c7c9ca83582f9218c8b4.png" group-title="CANAIS | VARIEDADES",STAR CHANNEL SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825444
-#EXTINF:-1 tvg-id="star.life.br" tvg-name="STAR LIFE SD" tvg-logo="http://dns.jslinkdns.xyz:80/images/e645bf96e2d7b7c66c25673dddd0289d.png" group-title="CANAIS | VARIEDADES",STAR LIFE SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825445
-#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/STUDIO.png" group-title="CANAIS | VARIEDADES",STUDIO UNIVERSAL SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825446
-#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY SD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/SYFY.png" group-title="CANAIS | VARIEDADES",SYFY SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825447
-#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS SD" tvg-logo="http://dns.jslinkdns.xyz:80/images/9f0f0a28dccf5dfd1976ed455fd0f4f4.png" group-title="CANAIS | VARIEDADES",TBS SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825448
-#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM SD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/TCM.png" group-title="CANAIS | VARIEDADES",TCM SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825449
-#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION SD" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE%20ACTION.png" group-title="CANAIS | TELECINE",TELECINE ACTION SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825450
-#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION SD" tvg-logo="http://dns.jslinkdns.xyz:80/images/6f8c71f40a7fa1632033551dc4c1ea27.png" group-title="CANAIS | TELECINE",TELECINE ACTION SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825451
-#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT SD" tvg-logo="http://dns.jslinkdns.xyz:80/images/f9e4ef3e1bb0368ed29859c7f747faa0.png" group-title="CANAIS | TELECINE",TELECINE CULT SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825452
-#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN SD" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE%20FUN.png" group-title="CANAIS | TELECINE",TELECINE FUN SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825453
-#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA SD" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE%20PIPOCA.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825454
-#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM SD" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE%20PREMIUM.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825455
-#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH SD" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE%20TOUCH.png" group-title="CANAIS | TELECINE",TELECINE TOUCH SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825456
-#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC SD" tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/TLC.png" group-title="CANAIS | VARIEDADES",TLC SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825457
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT SD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/TNT.png" group-title="CANAIS | FILMES E SÉRIES",TNT SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825458
-#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES SD" tvg-logo="http://dns.jslinkdns.xyz:80/images/83325be20ecb33376512171493c0d255.png" group-title="CANAIS | FILMES E SÉRIES",TNT SERIES SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825459
-#EXTINF:-1 tvg-id="" tvg-name="TOONCAST SD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/TOONCAST.png" group-title="CANAIS | INFANTIL",TOONCAST SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825460
-#EXTINF:-1 tvg-id="trutv.br" tvg-name="TRUTV SD" tvg-logo="http://dns.jslinkdns.xyz:80/images/512e41849e5ec29784e8fb7880512f7a.png" group-title="CANAIS | VARIEDADES",TRUTV SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825461
-#EXTINF:-1 tvg-id="tv.aparecida.br" tvg-name="TV APARECIDA SD" tvg-logo="http://dns.jslinkdns.xyz:80/images/7b5021f71c317dba28a04f06bf352593.png" group-title="CANAIS | RELIGIOSOS",TV APARECIDA SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825462
-#EXTINF:-1 tvg-id="" tvg-name="TV BRASIL SD" tvg-logo="http://dns.jslinkdns.xyz:80/images/c823e25df7f664699e9dc5ef4337494e.png" group-title="CANAIS | VARIEDADES",TV BRASIL SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825463
-#EXTINF:-1 tvg-id="tv.camara.br" tvg-name="TV CAMARA SD" tvg-logo="http://dns.jslinkdns.xyz:80/images/2d458a081a3211a5cd3cd22aa0dd0268.png" group-title="CANAIS | VARIEDADES",TV CAMARA SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825464
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA SD" tvg-logo="http://dns.jslinkdns.xyz:80/images/a2799c8089b2a7523bcc8656042c6286.png" group-title="CANAIS | VARIEDADES",TV CULTURA SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825465
-#EXTINF:-1 tvg-id="tv.escola.br" tvg-name="TV ESCOLA SD" tvg-logo="http://dns.jslinkdns.xyz:80/images/ec00ccc17d1fda4ea5ffb52f28f4570c.png" group-title="CANAIS | VARIEDADES",TV ESCOLA SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825466
-#EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR SD" tvg-logo="http://dns.jslinkdns.xyz:80/images/5e35de32b81a21cbf803f60ab967f383.png" group-title="CANAIS | RELIGIOSOS",TV EVANGELIZAR SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825467
-#EXTINF:-1 tvg-id="tv.justica.br" tvg-name="TV JUSTIÇA SD" tvg-logo="http://dns.jslinkdns.xyz:80/images/0f000031852fd38dfc70b130aec1e9c6.png" group-title="CANAIS | VARIEDADES",TV JUSTIÇA SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825468
-#EXTINF:-1 tvg-id="" tvg-name="TV MUNDIAL SD" tvg-logo="http://dns.jslinkdns.xyz:80/images/85c34f675257eead67988b910a6b2063.jpg" group-title="CANAIS | RELIGIOSOS",TV MUNDIAL SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825469
-#EXTINF:-1 tvg-id="tv.novo.tempo.br" tvg-name="TV NOVO TEMPO SD" tvg-logo="http://dns.jslinkdns.xyz:80/images/9258c67e461b3adcb31c795c60bf3681.png" group-title="CANAIS | RELIGIOSOS",TV NOVO TEMPO SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825470
-#EXTINF:-1 tvg-id="" tvg-name="TV PAI ETERNO SD" tvg-logo="http://dns.jslinkdns.xyz:80/images/62f519a659f91fc0ec17f8d10ed76fe1.png" group-title="CANAIS | RELIGIOSOS",TV PAI ETERNO SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825471
-#EXTINF:-1 tvg-id="cartoon" tvg-name="TV RATIMBUM SD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/TVRA.png" group-title="CANAIS | INFANTIL",TV RATIMBUM SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825472
-#EXTINF:-1 tvg-id="tv.senado.br" tvg-name="TV SENADO SD" tvg-logo="http://dns.jslinkdns.xyz:80/images/0b4c2b50b2d028310b4e341d28c9254d.png" group-title="CANAIS | VARIEDADES",TV SENADO SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825473
-#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL TV SD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/UNIVERSAL.png" group-title="CANAIS | RELIGIOSOS",UNIVERSAL TV SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825474
-#EXTINF:-1 tvg-id="vh1.megahits.br" tvg-name="VH1 MEGAHITS SD" tvg-logo="http://dns.jslinkdns.xyz:80/images/84a46a26239e7d4e251c495ca351b6d6.png" group-title="CANAIS | VARIEDADES",VH1 MEGAHITS SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825475
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="VIVA SD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/VIVA.png" group-title="CANAIS | VARIEDADES",VIVA SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825476
-#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL SD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/WARNER.png" group-title="CANAIS | VARIEDADES",WARNER CHANNEL SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825477
-#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO SD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/WOOHOO.png" group-title="CANAIS | VARIEDADES",WOOHOO SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825478
-#EXTINF:-1 tvg-id="" tvg-name="ZOOMO SD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/ZOOMO.png" group-title="CANAIS | VARIEDADES",ZOOMO SD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825479
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 01 HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/0608083c2b9e979aebb50ab50ced920d.png" group-title="CANAIS | SPORTS PP VIW",HBO MAX 01 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825480
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 02 HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/0608083c2b9e979aebb50ab50ced920d.png" group-title="CANAIS | SPORTS PP VIW",HBO MAX 02 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825481
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/d9f959cebd6a1ebd6c097b3c69c1c685.png" group-title="CANAIS | SPORTS PP VIW",DAZN 1 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825482
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/d9f959cebd6a1ebd6c097b3c69c1c685.png" group-title="CANAIS | SPORTS PP VIW",DAZN 2 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825483
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/d9f959cebd6a1ebd6c097b3c69c1c685.png" group-title="CANAIS | SPORTS PP VIW",DAZN 3 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825484
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 01 HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/9c8454ddf7aa50116496bac348d7550d.png" group-title="CANAIS | SPORTS PP VIW",Eleven Sports 01 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825485
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 02 HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/9c8454ddf7aa50116496bac348d7550d.png" group-title="CANAIS | SPORTS PP VIW",Eleven Sports 02 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825486
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 03 HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/9c8454ddf7aa50116496bac348d7550d.png" group-title="CANAIS | SPORTS PP VIW",Eleven Sports 03 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825487
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 04 HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/9c8454ddf7aa50116496bac348d7550d.png" group-title="CANAIS | SPORTS PP VIW",Eleven Sports 04 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825488
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 05 HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/9c8454ddf7aa50116496bac348d7550d.png" group-title="CANAIS | SPORTS PP VIW",Eleven Sports 05 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825489
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 06 HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/9c8454ddf7aa50116496bac348d7550d.png" group-title="CANAIS | SPORTS PP VIW",Eleven Sports 06 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825490
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 07 HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/9c8454ddf7aa50116496bac348d7550d.png" group-title="CANAIS | SPORTS PP VIW",Eleven Sports 07 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825491
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 08 HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/9c8454ddf7aa50116496bac348d7550d.png" group-title="CANAIS | SPORTS PP VIW",Eleven Sports 08 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825492
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 09 HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/9c8454ddf7aa50116496bac348d7550d.png" group-title="CANAIS | SPORTS PP VIW",Eleven Sports 09 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825493
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 10 HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/9c8454ddf7aa50116496bac348d7550d.png" group-title="CANAIS | SPORTS PP VIW",Eleven Sports 10 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825494
-#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 1 HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/affe4c5ba1545ff3b32e3efcfb65ae4a.png" group-title="CANAIS | SPORTS PP VIW",ESTADIO TNT SPORTS 1 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825495
-#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 2 HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/affe4c5ba1545ff3b32e3efcfb65ae4a.png" group-title="CANAIS | SPORTS PP VIW",ESTADIO TNT SPORTS 2 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825496
-#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 3 HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/affe4c5ba1545ff3b32e3efcfb65ae4a.png" group-title="CANAIS | SPORTS PP VIW",ESTADIO TNT SPORTS 3 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825497
-#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 4 HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/affe4c5ba1545ff3b32e3efcfb65ae4a.png" group-title="CANAIS | SPORTS PP VIW",ESTADIO TNT SPORTS 4 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825498
-#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 5 HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/affe4c5ba1545ff3b32e3efcfb65ae4a.png" group-title="CANAIS | SPORTS PP VIW",ESTADIO TNT SPORTS 5 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825499
-#EXTINF:-1 tvg-id="conmebol.1.br" tvg-name="CONMEBOL TV 1 HD" tvg-logo="http://trenduhd.xyz/images/EXCLUSIVOS/Conmebol.png" group-title="CANAIS | CONMEBOL TV",CONMEBOL TV 1 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825500
-#EXTINF:-1 tvg-id="conmebol.2.br" tvg-name="CONMEBOL TV 2 HD" tvg-logo="http://trenduhd.xyz/images/EXCLUSIVOS/Conmebol.png" group-title="CANAIS | CONMEBOL TV",CONMEBOL TV 2 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825501
-#EXTINF:-1 tvg-id="conmebol.3.br" tvg-name="CONMEBOL TV 3 HD" tvg-logo="http://trenduhd.xyz/images/EXCLUSIVOS/Conmebol.png" group-title="CANAIS | CONMEBOL TV",CONMEBOL TV 3 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825502
-#EXTINF:-1 tvg-id="conmebol.4.br" tvg-name="CONMEBOL TV 4 HD" tvg-logo="http://trenduhd.xyz/images/EXCLUSIVOS/Conmebol.png" group-title="CANAIS | CONMEBOL TV",CONMEBOL TV 4 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825503
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 03 HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/0608083c2b9e979aebb50ab50ced920d.png" group-title="CANAIS | SPORTS PP VIW",HBO MAX 03 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825504
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 04 HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/0608083c2b9e979aebb50ab50ced920d.png" group-title="CANAIS | SPORTS PP VIW",HBO MAX 04 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825505
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ 1" tvg-logo="http://dns.jslinkdns.xyz:80/images/beefe2d1fa9ff08bb1819639aafc3374.png" group-title="CANAIS | SPORTS PP VIW",STAR+ 1
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825506
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ 2" tvg-logo="http://dns.jslinkdns.xyz:80/images/beefe2d1fa9ff08bb1819639aafc3374.png" group-title="CANAIS | SPORTS PP VIW",STAR+ 2
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825507
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ 3" tvg-logo="http://dns.jslinkdns.xyz:80/images/beefe2d1fa9ff08bb1819639aafc3374.png" group-title="CANAIS | SPORTS PP VIW",STAR+ 3
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825508
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ 4" tvg-logo="http://dns.jslinkdns.xyz:80/images/beefe2d1fa9ff08bb1819639aafc3374.png" group-title="CANAIS | SPORTS PP VIW",STAR+ 4
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825509
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ 5" tvg-logo="http://dns.jslinkdns.xyz:80/images/beefe2d1fa9ff08bb1819639aafc3374.png" group-title="CANAIS | SPORTS PP VIW",STAR+ 5
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825510
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ 6" tvg-logo="http://dns.jslinkdns.xyz:80/images/beefe2d1fa9ff08bb1819639aafc3374.png" group-title="CANAIS | SPORTS PP VIW",STAR+ 6
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825511
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 04 HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/d9f959cebd6a1ebd6c097b3c69c1c685.png" group-title="CANAIS | SPORTS PP VIW",DAZN 04 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825512
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRÃO SERIE C (JOGO 1)" tvg-logo="http://dns.jslinkdns.xyz:80/images/2b5c4bd4c2990eda8feebd4c77fd305a.png" group-title="CANAIS | SPORTS PP VIW",BRASILEIRÃO SERIE C (JOGO 1)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825513
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRÃO SERIE C (JOGO 2)" tvg-logo="http://dns.jslinkdns.xyz:80/images/2b5c4bd4c2990eda8feebd4c77fd305a.png" group-title="CANAIS | SPORTS PP VIW",BRASILEIRÃO SERIE C (JOGO 2)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825514
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRÃO SERIE C (JOGO 3)" tvg-logo="http://dns.jslinkdns.xyz:80/images/2b5c4bd4c2990eda8feebd4c77fd305a.png" group-title="CANAIS | SPORTS PP VIW",BRASILEIRÃO SERIE C (JOGO 3)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825515
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME JOGO 2" tvg-logo="http://dns.jslinkdns.xyz:80/images/cc2051782e13a90e1aef7bc53c012e60.png" group-title="CANAIS | SPORTS PP VIW",AMAZON PRIME JOGO 2
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825516
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME JOGO 3" tvg-logo="http://dns.jslinkdns.xyz:80/images/cc2051782e13a90e1aef7bc53c012e60.png" group-title="CANAIS | SPORTS PP VIW",AMAZON PRIME JOGO 3
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825517
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME JOGO 4" tvg-logo="http://dns.jslinkdns.xyz:80/images/cc2051782e13a90e1aef7bc53c012e60.png" group-title="CANAIS | SPORTS PP VIW",AMAZON PRIME JOGO 4
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825518
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 05 HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/0608083c2b9e979aebb50ab50ced920d.png" group-title="CANAIS | SPORTS PP VIW",HBO MAX 05 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825519
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 06 HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/0608083c2b9e979aebb50ab50ced920d.png" group-title="CANAIS | SPORTS PP VIW",HBO MAX 06 HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825520
-#EXTINF:-1 tvg-id="" tvg-name="FORMULA 1 TV" tvg-logo="http://dns.jslinkdns.xyz:80/images/79f3e1c9163e431b3761bac45e987364.png" group-title="CANAIS | SPORTS PP VIW",FORMULA 1 TV
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825521
-#EXTINF:-1 tvg-id="" tvg-name="LIGA FUTSAL HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/ed2c01c67be72f8c29f14b4890e49085.png" group-title="CANAIS | SPORTS PP VIW",LIGA FUTSAL HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825522
-#EXTINF:-1 tvg-id="" tvg-name="FURACÃO TV HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/3012e09133539ee82c2ec83ac1a9f747.png" group-title="CANAIS | SPORTS PP VIW",FURACÃO TV HD
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825523
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME JOGO 1" tvg-logo="http://dns.jslinkdns.xyz:80/images/cc2051782e13a90e1aef7bc53c012e60.png" group-title="CANAIS | SPORTS PP VIW",AMAZON PRIME JOGO 1
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825524
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 01" tvg-logo="http://dns.jslinkdns.xyz:80/images/a815f16ea6717b30e7466034de540167.png" group-title="CANAIS | CINE SKY",Cine Sky 01
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825541
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 02" tvg-logo="http://dns.jslinkdns.xyz:80/images/a815f16ea6717b30e7466034de540167.png" group-title="CANAIS | CINE SKY",Cine Sky 02
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825542
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 03" tvg-logo="http://dns.jslinkdns.xyz:80/images/a815f16ea6717b30e7466034de540167.png" group-title="CANAIS | CINE SKY",Cine Sky 03
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825543
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 04" tvg-logo="http://dns.jslinkdns.xyz:80/images/a815f16ea6717b30e7466034de540167.png" group-title="CANAIS | CINE SKY",Cine Sky 04
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825544
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 05" tvg-logo="http://dns.jslinkdns.xyz:80/images/a815f16ea6717b30e7466034de540167.png" group-title="CANAIS | CINE SKY",Cine Sky 05
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825545
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 06" tvg-logo="http://dns.jslinkdns.xyz:80/images/a815f16ea6717b30e7466034de540167.png" group-title="CANAIS | CINE SKY",Cine Sky 06
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825546
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 07" tvg-logo="http://dns.jslinkdns.xyz:80/images/a815f16ea6717b30e7466034de540167.png" group-title="CANAIS | CINE SKY",Cine Sky 07
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825547
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 08" tvg-logo="http://dns.jslinkdns.xyz:80/images/a815f16ea6717b30e7466034de540167.png" group-title="CANAIS | CINE SKY",Cine Sky 08
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825548
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 09" tvg-logo="http://dns.jslinkdns.xyz:80/images/a815f16ea6717b30e7466034de540167.png" group-title="CANAIS | CINE SKY",Cine Sky 09
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825549
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 10" tvg-logo="http://dns.jslinkdns.xyz:80/images/a815f16ea6717b30e7466034de540167.png" group-title="CANAIS | CINE SKY",Cine Sky 10
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825550
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 11" tvg-logo="http://dns.jslinkdns.xyz:80/images/a815f16ea6717b30e7466034de540167.png" group-title="CANAIS | CINE SKY",Cine Sky 11
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825551
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 12" tvg-logo="http://dns.jslinkdns.xyz:80/images/a815f16ea6717b30e7466034de540167.png" group-title="CANAIS | CINE SKY",Cine Sky 12
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825552
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 13" tvg-logo="http://dns.jslinkdns.xyz:80/images/a815f16ea6717b30e7466034de540167.png" group-title="CANAIS | CINE SKY",Cine Sky 13
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825553
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 14" tvg-logo="http://dns.jslinkdns.xyz:80/images/a815f16ea6717b30e7466034de540167.png" group-title="CANAIS | CINE SKY",Cine Sky 14
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825554
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 15" tvg-logo="http://dns.jslinkdns.xyz:80/images/a815f16ea6717b30e7466034de540167.png" group-title="CANAIS | CINE SKY",Cine Sky 15
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825555
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD (H265)" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/AE.png" group-title="CANAIS | H265",A&E FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825581
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC FHD (H265)" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/AMC.png" group-title="CANAIS | H265",AMC FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825582
-#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET FHD (H265)" tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/ANIMAL%20PLANET.png" group-title="CANAIS | H265",ANIMAL PLANET FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825583
-#EXTINF:-1 tvg-id="arte.1.br" tvg-name="ARTE 1 FHD (H265)" tvg-logo="http://dns.jslinkdns.xyz:80/images/e4956580c443c090930999fea11d3bd2.png" group-title="CANAIS | H265",ARTE 1 FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825584
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD (H265)" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/AXN.png" group-title="CANAIS | H265",AXN FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825585
-#EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS FHD (H265)" tvg-logo="http://dns.jslinkdns.xyz:80/images/242739608ae3cad1401599142de43ed9.png" group-title="CANAIS | H265",BAND NEWS FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825586
-#EXTINF:-1 tvg-id="" tvg-name="BAND SP FHD (H265)" tvg-logo="http://dns.jslinkdns.xyz:80/images/e2c7ebb7ab68a3d72e8adbbff3bf6a99.png" group-title="CANAIS | H265",BAND SP FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825587
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS FHD (H265)" tvg-logo="http://trenduhd.xyz:80/images/Esportes/BAND_SPORTS.png" group-title="CANAIS | H265",BAND SPORTS FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825588
-#EXTINF:-1 tvg-id="band.goiania.br" tvg-name="BAND TV GOIANIA FHD (H265)" tvg-logo="http://dns.jslinkdns.xyz:80/images/e2c7ebb7ab68a3d72e8adbbff3bf6a99.png" group-title="CANAIS | H265",BAND TV GOIANIA FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825589
-#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS FHD (H265)" tvg-logo="http://dns.jslinkdns.xyz:80/images/d1c335aa296ca05d1cb8b3fd2690f9b2.png" group-title="CANAIS | H265",BIS FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825590
-#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CANAL BRASIL FHD (H265)" tvg-logo="http://trenduhd.xyz/images/ABERTOS/BRASIL.png" group-title="CANAIS | H265",CANAL BRASIL FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825591
-#EXTINF:-1 tvg-id="sony.br" tvg-name="CANAL SONY FHD (H265)" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/SONY.png" group-title="CANAIS | H265",CANAL SONY FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825592
-#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="CARTOON NETWORK FHD (H265)" tvg-logo="http://trenduhd.xyz/images/INFANTIL/CARTOON.png" group-title="CANAIS | H265",CARTOON NETWORK FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825593
-#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO FHD (H265)" tvg-logo="http://dns.jslinkdns.xyz:80/images/21b0019f5d4469c50dbc40960c035934.jpg" group-title="CANAIS | H265",CARTOONITO FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825594
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX FHD (H265)" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/CINEMAX.png" group-title="CANAIS | H265",CINEMAX FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825595
-#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE FHD (H265)" tvg-logo="http://trenduhd.xyz:80/images/Esportes/COMBATE.png" group-title="CANAIS | H265",COMBATE FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825596
-#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL FHD (H265)" tvg-logo="http://dns.jslinkdns.xyz:80/images/b0948fc3e0a3fee96ddc0401702a92a3.png" group-title="CANAIS | H265",COMEDY CENTRAL FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825597
-#EXTINF:-1 tvg-id="curta.br" tvg-name="CURTA! FHD (H265)" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/CURTA.png" group-title="CANAIS | H265",CURTA! FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825598
-#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL FHD (H265)" tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/DISCOVERY%20CHANNEL.png" group-title="CANAIS | H265",DISCOVERY CHANNEL FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825599
-#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY H&H FHD (H265)" tvg-logo="http://dns.jslinkdns.xyz:80/images/f7f09e86093f6aae2e1f103aa5c9f58d.png" group-title="CANAIS | H265",DISCOVERY H&H FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825600
-#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="DISCOVERY KIDS FHD (H265)" tvg-logo="http://trenduhd.xyz/images/INFANTIL/DISCOVERY%20KIDS.png" group-title="CANAIS | H265",DISCOVERY KIDS FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825601
-#EXTINF:-1 tvg-id="discovery.science.br" tvg-name="DISCOVERY SCIENCE FHD (H265)" tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/DISCOVERY%20SCIENCE.png" group-title="CANAIS | H265",DISCOVERY SCIENCE FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825602
-#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="DISCOVERY THEATER FHD (H265)" tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/DISCOVERY%20THEATER.png" group-title="CANAIS | H265",DISCOVERY THEATER FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825603
-#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="DISCOVERY TURBO FHD (H265)" tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/DISCOVERY%20TURBO.png" group-title="CANAIS | H265",DISCOVERY TURBO FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825604
-#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="DISCOVERY WORLD FHD (H265)" tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/DISCOVERY%20WORLD.png" group-title="CANAIS | H265",DISCOVERY WORLD FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825605
-#EXTINF:-1 tvg-id="disney.br" tvg-name="DISNEY CHANNEL FHD (H265)" tvg-logo="http://trenduhd.xyz/images/INFANTIL/DISNEY%20CHANNEL.png" group-title="CANAIS | H265",DISNEY CHANNEL FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825606
-#EXTINF:-1 tvg-id="e.br" tvg-name="E! FHD (H265)" tvg-logo="http://dns.jslinkdns.xyz:80/images/45c6cb663d2fb980f8c9e8116b43a36e.png" group-title="CANAIS | H265",E! FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825607
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 FHD (H265)" tvg-logo="http://dns.jslinkdns.xyz:80/images/8d7725bf9bcee8d977bab6b6ef9784c1.png" group-title="CANAIS | H265",ESPN 2 FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825608
-#EXTINF:-1 tvg-id="espn.plus.br" tvg-name="ESPN 3 FHD (H265)" tvg-logo="http://dns.jslinkdns.xyz:80/images/d5717c3e068252e2e88c88285fe00b1f.png" group-title="CANAIS | H265",ESPN 3 FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825609
-#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 FHD (H265)" tvg-logo="http://dns.jslinkdns.xyz:80/images/bfb9a69c9813f26eae33eb06029fa0ad.png" group-title="CANAIS | H265",ESPN 4 FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825610
-#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA FHD (H265)" tvg-logo="http://dns.jslinkdns.xyz:80/images/e284b50f1e0b0c177634966ebecb695d.png" group-title="CANAIS | H265",ESPN EXTRA FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825611
-#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN FHD (H265)" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN.png" group-title="CANAIS | H265",ESPN FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825612
-#EXTINF:-1 tvg-id="food.network.br" tvg-name="FOOD NETWORK FHD (H265)" tvg-logo="http://dns.jslinkdns.xyz:80/images/472ef98809d991bb3366af3a1783fd4f.png" group-title="CANAIS | H265",FOOD NETWORK FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825613
-#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="FOX SPORTS 2 FHD (H265)" tvg-logo="http://trenduhd.xyz/images/Esportes/FOX_SPORT2.png" group-title="CANAIS | H265",FOX SPORTS 2 FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825614
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX FHD (H265)" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/FX.png" group-title="CANAIS | H265",FX FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825615
-#EXTINF:-1 tvg-id="globo.brasilia.br" tvg-name="GLOBO BRASILIA FHD (H265)" tvg-logo="http://dns.jslinkdns.xyz:80/images/80c778813f26f3e5cfdc706b4e2b71eb.png" group-title="CANAIS | H265",GLOBO BRASILIA FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825616
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS FHD (H265)" tvg-logo="http://dns.jslinkdns.xyz:80/images/80c778813f26f3e5cfdc706b4e2b71eb.png" group-title="CANAIS | H265",GLOBO MINAS FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825617
-#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS FHD (H265)" tvg-logo="http://dns.jslinkdns.xyz:80/images/690280d4812a424a531305a4b7e3cdc1.png" group-title="CANAIS | H265",GLOBO NEWS FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825618
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS PORTO ALEGRE FHD (H265)" tvg-logo="http://dns.jslinkdns.xyz:80/images/80c778813f26f3e5cfdc706b4e2b71eb.png" group-title="CANAIS | H265",GLOBO RBS PORTO ALEGRE FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825619
-#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="GLOBO RJ FHD (H265)" tvg-logo="http://dns.jslinkdns.xyz:80/images/80c778813f26f3e5cfdc706b4e2b71eb.png" group-title="CANAIS | H265",GLOBO RJ FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825620
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO SP FHD (H265)" tvg-logo="http://dns.jslinkdns.xyz:80/images/80c778813f26f3e5cfdc706b4e2b71eb.png" group-title="CANAIS | H265",GLOBO SP FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825621
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VERDES MARES FORTALEZA FHD (H265)" tvg-logo="http://dns.jslinkdns.xyz:80/images/80c778813f26f3e5cfdc706b4e2b71eb.png" group-title="CANAIS | H265",GLOBO TV VERDES MARES FORTALEZA FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825622
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB FHD (H265)" tvg-logo="http://trenduhd.xyz/images/INFANTIL/GLOOB.png" group-title="CANAIS | H265",GLOOB FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825623
-#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT FHD (H265)" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/GNT.png" group-title="CANAIS | H265",GNT FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825624
-#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 FHD (H265)" tvg-logo="http://trenduhd.xyz/images/HBO/HBO2.png" group-title="CANAIS | H265",HBO 2 FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825625
-#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO Familly FHD (H265)" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20FAMILY.png" group-title="CANAIS | H265",HBO Familly FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825626
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO FHD (H265)" tvg-logo="http://trenduhd.xyz/images/HBO/HBO.png" group-title="CANAIS | H265",HBO FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825627
-#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI FHD (H265)" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20MUNDI.png" group-title="CANAIS | H265",HBO MUNDI FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825628
-#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS FHD (H265)" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20PLUS.png" group-title="CANAIS | H265",HBO PLUS FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825629
-#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP FHD (H265)" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20POP.png" group-title="CANAIS | H265",HBO POP FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825630
-#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE FHD (H265)" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20SIGNATURE.png" group-title="CANAIS | H265",HBO SIGNATURE FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825631
-#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME FHD (H265)" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20Xtreme.png" group-title="CANAIS | H265",HBO XTREME FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825632
-#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV FHD (H265)" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/HG.png" group-title="CANAIS | H265",HGTV FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825633
-#EXTINF:-1 tvg-id="history.2.br" tvg-name="HISTORY 2 FHD (H265)" tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/H2.png" group-title="CANAIS | H265",HISTORY 2 FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825634
-#EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY FHD (H265)" tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/HISTORY.png" group-title="CANAIS | H265",HISTORY FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825635
-#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="ID DISCOVERY FHD (H265)" tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/ID.png" group-title="CANAIS | H265",ID DISCOVERY FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825636
-#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS FHD (H265)" tvg-logo="http://dns.jslinkdns.xyz:80/images/ec2e26f74d9d00ee61385761ea30ae6a.png" group-title="CANAIS | H265",JOVEM PAN NEWS FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825637
-#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME FHD (H265)" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/LIFETIME.png" group-title="CANAIS | H265",LIFETIME FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825638
-#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE FHD (H265)" tvg-logo="https://w7.pngwing.com/pngs/390/91/png-transparent-love-nature-illustration-love-nature-4k-resolution-television-blue-ant-media-18-miscellaneous-text-trademark.png" group-title="CANAIS | H265",LOVE NATURE FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825639
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX FHD (H265)" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/MEGAPIX.png" group-title="CANAIS | H265",MEGAPIX FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825640
-#EXTINF:-1 tvg-id="plus.globosat.br" tvg-name="MODO VIAGEM FHD (H265)" tvg-logo="http://dns.jslinkdns.xyz:80/images/80c778813f26f3e5cfdc706b4e2b71eb.png" group-title="CANAIS | H265",MODO VIAGEM FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825641
-#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV FHD (H265)" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/MTV.png" group-title="CANAIS | H265",MTV FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825642
-#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW FHD (H265)" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/MULTISHOW.png" group-title="CANAIS | H265",MULTISHOW FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825643
-#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATGEO FHD (H265)" tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/NATGEO.png" group-title="CANAIS | H265",NATGEO FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825644
-#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="NICK JR FHD (H265)" tvg-logo="http://trenduhd.xyz/images/INFANTIL/NICKJR.png" group-title="CANAIS | H265",NICK JR FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825645
-#EXTINF:-1 tvg-id="nick.br" tvg-name="NICKELODEON FHD (H265)" tvg-logo="http://trenduhd.xyz/images/INFANTIL/NICKE.png" group-title="CANAIS | H265",NICKELODEON FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825646
-#EXTINF:-1 tvg-id="" tvg-name="OFF FHD (H265)" tvg-logo="http://dns.jslinkdns.xyz:80/images/88559a0cfd8250c9d65970cc145c92d4.png" group-title="CANAIS | H265",OFF FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825647
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT FHD (H265)" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/PARAMOUNT.png" group-title="CANAIS | H265",PARAMOUNT FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825648
-#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 FHD (H265)" tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="CANAIS | H265",PREMIERE 2 FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825649
-#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 FHD (H265)" tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="CANAIS | H265",PREMIERE 3 FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825650
-#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 FHD (H265)" tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="CANAIS | H265",PREMIERE 4 FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825651
-#EXTINF:-1 tvg-id="premiere.5.brazil.br" tvg-name="PREMIERE 5 FHD (H265)" tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="CANAIS | H265",PREMIERE 5 FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825652
-#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 FHD (H265)" tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="CANAIS | H265",PREMIERE 6 FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825653
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7 FHD (H265)" tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="CANAIS | H265",PREMIERE 7 FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825654
-#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES FHD (H265)" tvg-logo="http://dns.jslinkdns.xyz:80/images/c9a4d38a789a2950dd437a7a8338d034.png" group-title="CANAIS | H265",PREMIERE CLUBES FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825655
-#EXTINF:-1 tvg-id="record.goias.br" tvg-name="RECORD GOIAS FHD (H265)" tvg-logo="http://dns.jslinkdns.xyz:80/images/c7e1d14816c5b13a146a08aac765e911.png" group-title="CANAIS | H265",RECORD GOIAS FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825656
-#EXTINF:-1 tvg-id="rede.belem.br" tvg-name="REDE TV FHD (H265)" tvg-logo="http://trenduhd.xyz/images/ABERTOS/REDETV.png" group-title="CANAIS | H265",REDE TV FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825657
-#EXTINF:-1 tvg-id="sbt.goiania.serra.dourada.br" tvg-name="SBT SERRA DOURADA FHD (H265)" tvg-logo="http://dns.jslinkdns.xyz:80/images/8445e5f21fb3b4adc7416d5ca21a1ff9.png" group-title="CANAIS | H265",SBT SERRA DOURADA FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825658
-#EXTINF:-1 tvg-id="" tvg-name="SBT SP FHD (H265)" tvg-logo="http://dns.jslinkdns.xyz:80/images/8445e5f21fb3b4adc7416d5ca21a1ff9.png" group-title="CANAIS | H265",SBT SP FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825659
-#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE FHD (H265)" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/SPACE.png" group-title="CANAIS | H265",SPACE FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825660
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 FHD (H265)" tvg-logo="http://dns.jslinkdns.xyz:80/images/b45d4290e3e32928c558d17a2f34a083.png" group-title="CANAIS | H265",SPORTV 2 FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825661
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 FHD (H265)" tvg-logo="http://dns.jslinkdns.xyz:80/images/4d2aa5974d9540d10f73b03e62fa112e.png" group-title="CANAIS | H265",SPORTV 3 FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825662
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV FHD (H265)" tvg-logo="http://trenduhd.xyz/images/Esportes/SPORTV.png" group-title="CANAIS | H265",SPORTV FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825663
-#EXTINF:-1 tvg-id="star.br" tvg-name="STAR CHANNEL FHD (H265)" tvg-logo="http://dns.jslinkdns.xyz:80/images/1cbdb8043b37c7c9ca83582f9218c8b4.png" group-title="CANAIS | H265",STAR CHANNEL FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825664
-#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL FHD (H265)" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/STUDIO.png" group-title="CANAIS | H265",STUDIO UNIVERSAL FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825665
-#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY FHD (H265)" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/SYFY.png" group-title="CANAIS | H265",SYFY FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825666
-#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS FHD (H265)" tvg-logo="http://dns.jslinkdns.xyz:80/images/9f0f0a28dccf5dfd1976ed455fd0f4f4.png" group-title="CANAIS | H265",TBS FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825667
-#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION FHD (H265)" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE%20ACTION.png" group-title="CANAIS | H265",TELECINE ACTION FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825668
-#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT FHD (H265)" tvg-logo="http://dns.jslinkdns.xyz:80/images/f9e4ef3e1bb0368ed29859c7f747faa0.png" group-title="CANAIS | H265",TELECINE CULT FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825669
-#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN FHD (H265)" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE%20FUN.png" group-title="CANAIS | H265",TELECINE FUN FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825670
-#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA FHD (H265)" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE%20PIPOCA.png" group-title="CANAIS | H265",TELECINE PIPOCA FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825671
-#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM FHD (H265)" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE%20PREMIUM.png" group-title="CANAIS | H265",TELECINE PREMIUM FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825672
-#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH FHD (H265)" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE%20TOUCH.png" group-title="CANAIS | H265",TELECINE TOUCH FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825673
-#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC FHD (H265)" tvg-logo="http://dns.jslinkdns.xyz:80/images/de1f2adbc69f74ce2b7b5b14ffc22679.png" group-title="CANAIS | H265",TLC FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825674
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT FHD (H265)" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/TNT.png" group-title="CANAIS | H265",TNT FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825675
-#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES FHD (H265)" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/TNT%20SERIES.png" group-title="CANAIS | H265",TNT SERIES FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825676
-#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL TV FHD (H265)" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/UNIVERSAL.png" group-title="CANAIS | H265",UNIVERSAL TV FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825677
-#EXTINF:-1 tvg-id="vh1.br" tvg-name="VH1 FHD (H265)" tvg-logo="http://dns.jslinkdns.xyz:80/images/84a46a26239e7d4e251c495ca351b6d6.png" group-title="CANAIS | H265",VH1 FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825678
-#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL FHD (H265)" tvg-logo="http://dns.jslinkdns.xyz:80/images/abfe606cae610360ddb2929de9f6812b.png" group-title="CANAIS | H265",WARNER CHANNEL FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825679
-#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO FHD (H265)" tvg-logo="http://trenduhd.xyz/images/INFANTIL/WOOHOO.png" group-title="CANAIS | H265",WOOHOO FHD (H265)
-http://dns.jslinkdns.xyz:80/3851217611/386718277/825680
+
+#PLAYLISTV: pltv-logo="https://i.imgur.com/M0aRl2a.jpg" pltv-name="RAMALHOTV" pltv-description=TV ONLINE para PlaylisTV/RamalhoIPTV " pltv-cover="https://i.imgur.com/M0aRl2a.jpg" pltv-author="RAMALHOTV" pltv-site="https://www.youtube.com/user/matamataxiterbr?sub_confirmation=1" pltv-email="" pltv-phone="(44) 98656144"
+
+################################################################################# Informações da Lista
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5zE1k8M.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR][COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Informações da Lista",[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] youtube.com/matamataxiterbr https://www.youtube.
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/OalUKZI.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Informações da Lista",[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Atualizado:31/10/2022 https://www.youtube.com
+#EXTINF:-1 tvg-id="TV Gazeta HD" tvg-name=" TV GAZETA  4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfXQ3pYiuvmQlsTorEzdkSiwX9kDYuAHEfcV1SCMShjYZQlp_lRK-2wKQvXj_DxwkduFg&usqp=CAU" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA", TV GAZETA  4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/551
+#EXTINF:-1 tvg-id="" tvg-name="3 PALAVRINHAS" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS INFANTIL ",3 PALAVRINHAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/670
+#EXTINF:-1 tvg-id="" tvg-name="A CASA DO MICKEY MOUSE" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS INFANTIL ",A CASA DO MICKEY MOUSE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/671
+#EXTINF:-1 tvg-id="" tvg-name="A MANSAO FOSTER" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS INFANTIL ",A MANSAO FOSTER
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/674
+#EXTINF:-1 tvg-id="" tvg-name="A RODA DO ONIBUS " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS INFANTIL ",A RODA DO ONIBUS 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/675
+#EXTINF:-1 tvg-id="58b2b0a13f424b344e401f10c71981fd" tvg-name="A&E 4K" tvg-logo="http://xplussport.com:8080/images/b84296644f07e05523cd844bc88db5fe.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",A&E 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/225
+#EXTINF:-1 tvg-id="58b2b0a13f424b344e401f10c71981fd" tvg-name="A&E HD" tvg-logo="http://xplussport.com:8080/images/b84296644f07e05523cd844bc88db5fe.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",A&E HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/226
+#EXTINF:-1 tvg-id="a2e9fcaee0175ea43284b3fadfa8e649" tvg-name="A&E PLAYBACK" tvg-logo="http://xplussport.com:8080/images/b84296644f07e05523cd844bc88db5fe.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]PLAYBACK",A&E PLAYBACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/913
+#EXTINF:-1 tvg-id="AgroPlus.br" tvg-name="AGRO+ 4K" tvg-logo="https://agroemdia.com.br/wp-content/uploads/2020/06/agromais-band-logo.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]NOTICIAS",AGRO+ 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/852
+#EXTINF:-1 tvg-id="" tvg-name="ALADDIN" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS INFANTIL ",ALADDIN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/676
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON ESPORTES 1" tvg-logo="http://xplussport.com:8080/images/da27847f9201c6b1bca73c06044a70a1.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES ONLINE",AMAZON ESPORTES 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1067
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON ESPORTES 2" tvg-logo="http://xplussport.com:8080/images/da27847f9201c6b1bca73c06044a70a1.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES ONLINE",AMAZON ESPORTES 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1010
+#EXTINF:-1 tvg-id="5e98607e8d76e68daa5b3acb9f0c1604" tvg-name="AMC 4K" tvg-logo="http://toptv2.com:25461/logos/Amc_4K.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",AMC 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/228
+#EXTINF:-1 tvg-id="5e98607e8d76e68daa5b3acb9f0c1604" tvg-name="AMC DUAL " tvg-logo="http://toptv2.com:25461/logos/Amc_4K.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]CANAIS DUAL AUDIO ",AMC DUAL 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/790
+#EXTINF:-1 tvg-id="5e98607e8d76e68daa5b3acb9f0c1604" tvg-name="AMC HD" tvg-logo="http://toptv2.com:25461/logos/Amc_4K.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",AMC HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/229
+#EXTINF:-1 tvg-id="5e98607e8d76e68daa5b3acb9f0c1604" tvg-name="AMC HDR+" tvg-logo="http://toptv2.com:25461/logos/Amc_4K.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]CANAIS HDR+",AMC HDR+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1020
+#EXTINF:-1 tvg-id="5e98607e8d76e68daa5b3acb9f0c1604" tvg-name="AMC PLAYBACK" tvg-logo="http://toptv2.com:25461/logos/Amc_4K.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]PLAYBACK",AMC PLAYBACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/918
+#EXTINF:-1 tvg-id="e6782d4e82ac2a0a70cd8332cae1997c" tvg-name="ANIMAL PLANET 4K" tvg-logo="http://xplussport.com:8080/images/a6c2029ac2ef37c4172fb4925f4b299e.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]DOCUMENTARIOS",ANIMAL PLANET 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/61
+#EXTINF:-1 tvg-id="e6782d4e82ac2a0a70cd8332cae1997c" tvg-name="ANIMAL PLANET HD" tvg-logo="http://xplussport.com:8080/images/a6c2029ac2ef37c4172fb4925f4b299e.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]DOCUMENTARIOS",ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/62
+#EXTINF:-1 tvg-id="476c98e227890f9477494c87171291cb" tvg-name="ANIMAL PLANET HDR+" tvg-logo="http://xplussport.com:8080/images/a6c2029ac2ef37c4172fb4925f4b299e.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]CANAIS HDR+",ANIMAL PLANET HDR+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/994
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET LT" tvg-logo="https://e7.pngegg.com/pngimages/94/673/png-cliphttp://xplussport.com:8080/images/a6c2029ac2ef37c4172fb4925f4b299e.pngart-animal-planet-television-channel-animal-logo-television-text.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]LATINOS",ANIMAL PLANET LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/871
+#EXTINF:-1 tvg-id="" tvg-name="AQUI NA FAZENDA MAIARA HD" tvg-logo="https://img2.gratispng.com/20180526/pga/kisspng-show-tv-turkey-television-show-logo-tv-5b08fbf9e0a0c0.3094832015273154499201.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ENTRETENIMENTO",AQUI NA FAZENDA MAIARA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/853
+#EXTINF:-1 tvg-id="" tvg-name="AQUI NA FAZENDA RATINHO HD " tvg-logo="https://img2.gratispng.com/20180526/pga/kisspng-show-tv-turkey-television-show-logo-tv-5b08fbf9e0a0c0.3094832015273154499201.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ENTRETENIMENTO",AQUI NA FAZENDA RATINHO HD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/854
+#EXTINF:-1 tvg-id="7201bedd8febe6be7ce260bf2eb81545" tvg-name="ARTE 1 4K" tvg-logo="http://xplussport.com:8080/images/9d1fbcff2067af0bb3a656f15cd24250.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",ARTE 1 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/231
+#EXTINF:-1 tvg-id="7201bedd8febe6be7ce260bf2eb81545" tvg-name="ARTE 1 HD" tvg-logo="http://xplussport.com:8080/images/9d1fbcff2067af0bb3a656f15cd24250.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",ARTE 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/232
+#EXTINF:-1 tvg-id="" tvg-name="AS AVENTURAS DO BATMAN " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS INFANTIL ",AS AVENTURAS DO BATMAN 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/677
+#EXTINF:-1 tvg-id="91cc032148927efd55800877a54cd91f" tvg-name="AXN 4K" tvg-logo="http://toptv2.com:25461/logos/axn-hd.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",AXN 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/233
+#EXTINF:-1 tvg-id="91cc032148927efd55800877a54cd91f" tvg-name="AXN HD" tvg-logo="http://toptv2.com:25461/logos/axn-hd.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",AXN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/234
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN PLAYBACK" tvg-logo="http://toptv2.com:25461/logos/axn-hd.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]PLAYBACK",AXN PLAYBACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/917
+#EXTINF:-1 tvg-id="3fc41207138bcbd07aa5e36e03b9a97d" tvg-name="BABY TV 4K " tvg-logo="http://185.53.90.49:41001/logos/Baby TV.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]INFANTIS",BABY TV 4K 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/767
+#EXTINF:-1 tvg-id="3fc41207138bcbd07aa5e36e03b9a97d" tvg-name="BABY TV HD" tvg-logo="http://185.53.90.49:41001/logos/Baby TV.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]INFANTIS",BABY TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/342
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV PT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Babytv.jpg/revision/latest?cb=20160820183751&path-prefix=es" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]PORTUGAL ",BABY TV PT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/881
+#EXTINF:-1 tvg-id="ef4396b49d49eab23a4a265bfc51ec03" tvg-name="BAND MINAS UHD" tvg-logo="http://toptv2.com:25461/logos/band_minas_UHD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",BAND MINAS UHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/481
+#EXTINF:-1 tvg-id="be4eacc302569c4905ab735868011351" tvg-name="BAND NEWS 4K" tvg-logo="http://toptv2.com:25461/logos/Band_news_UHD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]NOTICIAS",BAND NEWS 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/482
+#EXTINF:-1 tvg-id="58b2b0a13f424b344e401f10c71981fd" tvg-name="BAND NEWS HD" tvg-logo="http://toptv2.com:25461/logos/Band_news_UHD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]NOTICIAS",BAND NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/432
+#EXTINF:-1 tvg-id="ef4396b49d49eab23a4a265bfc51ec03" tvg-name="BAND NORDESTE UHD" tvg-logo="http://toptv2.com:25461/logos/band_NORDESTE_UHD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",BAND NORDESTE UHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/483
+#EXTINF:-1 tvg-id="9b06e31791b171bd6987483a264ee48f" tvg-name="BAND SP 4k" tvg-logo="http://toptv2.com:25461/logos/band_SP_4K.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",BAND SP 4k
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/484
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP HD" tvg-logo="http://toptv2.com:25461/logos/band_SP_4K.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",BAND SP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/485
+#EXTINF:-1 tvg-id="8a5dd5aab0216b3b5ad01b401b611bbb" tvg-name="BAND SPORTS 4K" tvg-logo="http://toptv2.com:25461/logos/bandsports-4K.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES",BAND SPORTS 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/120
+#EXTINF:-1 tvg-id="8a5dd5aab0216b3b5ad01b401b611bbb" tvg-name="BAND SPORTS HD" tvg-logo="http://toptv2.com:25461/logos/bandsports-4K.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES",BAND SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/121
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]BEIN SPORTS",BEIN SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/901
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]BEIN SPORTS",BEIN SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/902
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]BEIN SPORTS",BEIN SPORTS 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/903
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]BEIN SPORTS",BEIN SPORTS 4
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/904
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 " tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]BEIN SPORTS",BEIN SPORTS 5 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/905
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 " tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]BEIN SPORTS",BEIN SPORTS 6 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/906
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]BEIN SPORTS",BEIN SPORTS 7
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/907
+#EXTINF:-1 tvg-id="" tvg-name="BEN 10" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS INFANTIL ",BEN 10
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/678
+#EXTINF:-1 tvg-id="217649426d93e8fde591f4e18d4a4840" tvg-name="BIS 4K" tvg-logo="https://w7.pngwing.com/pngs/96/344/png-transparent-bis-television-channel-music-logo-bis-logo-television-angle-text-thumbnail.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]MUSICA",BIS 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/419
+#EXTINF:-1 tvg-id="217649426d93e8fde591f4e18d4a4840" tvg-name="BIS HD" tvg-logo="https://w7.pngwing.com/pngs/96/344/png-transparent-bis-television-channel-music-logo-bis-logo-television-angle-text-thumbnail.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]MUSICA",BIS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/420
+#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS INFANTIL ",BOB ESPONJA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/679
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG LT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]LATINOS",BOOMERANG LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/862
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA 1 HD" tvg-logo="http://xplussport.com:8080/images/6e197f40d47f9f043e0f69365f6246d5.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES ONLINE",CAMPEONATO CARIOCA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/986
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA 2 HD" tvg-logo="http://xplussport.com:8080/images/6e197f40d47f9f043e0f69365f6246d5.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES ONLINE",CAMPEONATO CARIOCA 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/987
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA 3 HD" tvg-logo="http://xplussport.com:8080/images/6e197f40d47f9f043e0f69365f6246d5.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES ONLINE",CAMPEONATO CARIOCA 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/988
+#EXTINF:-1 tvg-id="6e57d77806b180634ba62a9c1d5dbc8b" tvg-name="CANAL BOI HD" tvg-logo="http://185.53.90.49:41001/logos/canal boi.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",CANAL BOI HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/486
+#EXTINF:-1 tvg-id="a73f4a1a4510b09a3290c5096241a3f7" tvg-name="CANAL BRASIL 4K" tvg-logo="http://toptv2.com:25461/logos/CANAL_BRASIL_4K.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",CANAL BRASIL 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/236
+#EXTINF:-1 tvg-id="a73f4a1a4510b09a3290c5096241a3f7" tvg-name="CANAL BRASIL HD" tvg-logo="http://toptv2.com:25461/logos/CANAL_BRASIL_4K.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",CANAL BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/237
+#EXTINF:-1 tvg-id="CanalPandaPortugal.pt" tvg-name="CANAL PANDA PT" tvg-logo="http://xplussport.com:8080/images/a721f8e803564008cb6cb5e32d68f387.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]PORTUGAL ",CANAL PANDA PT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/887
+#EXTINF:-1 tvg-id="4a1989c97bf28cdc047161fa0253d893" tvg-name="CANCAO NOVA HD" tvg-logo="http://toptv2.com:25461/logos/cancaao-nova.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]RELIGIOSO",CANCAO NOVA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/96
+#EXTINF:-1 tvg-id="4a1989c97bf28cdc047161fa0253d893" tvg-name="CANCAO NOVA UHD" tvg-logo="http://toptv2.com:25461/logos/cancaao-nova.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]RELIGIOSO",CANCAO NOVA UHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/97
+#EXTINF:-1 tvg-id="733e45ab710603516cdfec08dfb0ac92" tvg-name="CARTOON NETWORK 4K" tvg-logo="http://185.53.90.49:41001/logos/cartoonnetwork.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]INFANTIS",CARTOON NETWORK 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/346
+#EXTINF:-1 tvg-id="733e45ab710603516cdfec08dfb0ac92" tvg-name="CARTOON NETWORK HD" tvg-logo="http://185.53.90.49:41001/logos/cartoonnetwork.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]INFANTIS",CARTOON NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/347
+#EXTINF:-1 tvg-id="733e45ab710603516cdfec08dfb0ac92" tvg-name="CARTOON NETWORK HDR+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]CANAIS HDR+",CARTOON NETWORK HDR+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1002
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK LT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]LATINOS",CARTOON NETWORK LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/855
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK PT" tvg-logo="https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo-2.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]PORTUGAL ",CARTOON NETWORK PT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/882
+#EXTINF:-1 tvg-id="226de483b93250a7f37e0aba52f7e135" tvg-name="CARTOONITO 4K" tvg-logo="http://xplussport.com:8080/images/1dead2673d64b236c6f4e1bbad8059c3.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]INFANTIS",CARTOONITO 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/344
+#EXTINF:-1 tvg-id="226de483b93250a7f37e0aba52f7e135" tvg-name="CARTOONITO HD" tvg-logo="http://xplussport.com:8080/images/1dead2673d64b236c6f4e1bbad8059c3.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]INFANTIS",CARTOONITO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/345
+#EXTINF:-1 tvg-id="" tvg-name="CAVALEIROS DO ZODIACO" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS INFANTIL ",CAVALEIROS DO ZODIACO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/680
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS COMEDIA",CHAVES 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/682
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 1 " tvg-logo="http://main.primehugehost.xyz:2095/images/b451d5aa7ffc91a1a71e488430cd8818.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS FILMES ",CINE SKY 1 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/754
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10 " tvg-logo="http://main.primehugehost.xyz:2095/images/b451d5aa7ffc91a1a71e488430cd8818.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS FILMES ",CINE SKY 10 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/764
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 11 " tvg-logo="http://main.primehugehost.xyz:2095/images/b451d5aa7ffc91a1a71e488430cd8818.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS FILMES ",CINE SKY 11 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/809
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 12 " tvg-logo="http://main.primehugehost.xyz:2095/images/b451d5aa7ffc91a1a71e488430cd8818.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS FILMES ",CINE SKY 12 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/810
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 13 " tvg-logo="http://main.primehugehost.xyz:2095/images/b451d5aa7ffc91a1a71e488430cd8818.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS FILMES ",CINE SKY 13 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/811
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 14 " tvg-logo="http://main.primehugehost.xyz:2095/images/b451d5aa7ffc91a1a71e488430cd8818.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS FILMES ",CINE SKY 14 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/812
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 15 " tvg-logo="http://main.primehugehost.xyz:2095/images/b451d5aa7ffc91a1a71e488430cd8818.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS FILMES ",CINE SKY 15 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/813
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 2" tvg-logo="http://main.primehugehost.xyz:2095/images/b451d5aa7ffc91a1a71e488430cd8818.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS FILMES ",CINE SKY 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/755
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 4 " tvg-logo="http://main.primehugehost.xyz:2095/images/b451d5aa7ffc91a1a71e488430cd8818.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS FILMES ",CINE SKY 4 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/757
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 6 " tvg-logo="http://main.primehugehost.xyz:2095/images/b451d5aa7ffc91a1a71e488430cd8818.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS FILMES ",CINE SKY 6 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/760
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 7 " tvg-logo="http://main.primehugehost.xyz:2095/images/b451d5aa7ffc91a1a71e488430cd8818.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS FILMES ",CINE SKY 7 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/761
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 9 " tvg-logo="http://main.primehugehost.xyz:2095/images/b451d5aa7ffc91a1a71e488430cd8818.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS FILMES ",CINE SKY 9 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/763
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-name="CINEMAX 4K" tvg-logo="http://xplussport.com:8080/images/51b04f3f9f5b4d44afb6e7b729935e9c.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",CINEMAX 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/239
+#EXTINF:-1 tvg-id="24be76ef60ace55820dd2869bd893fe4" tvg-name="CINEMAX HD" tvg-logo="http://xplussport.com:8080/images/51b04f3f9f5b4d44afb6e7b729935e9c.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",CINEMAX HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/240
+#EXTINF:-1 tvg-id="cd0c58163e21bad37ccb6f16b43bebef" tvg-name="CNN BRASIL 4K" tvg-logo="http://toptv2.com:25461/logos/CNN_BRASIL_HD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]NOTICIAS",CNN BRASIL 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/433
+#EXTINF:-1 tvg-id="cd0c58163e21bad37ccb6f16b43bebef" tvg-name="CNN BRASIL HD" tvg-logo="http://toptv2.com:25461/logos/CNN_BRASIL_HD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]NOTICIAS",CNN BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/434
+#EXTINF:-1 tvg-id="cd0c58163e21bad37ccb6f16b43bebef" tvg-name="CNN BRASIL HDR+ " tvg-logo="" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]CANAIS HDR+",CNN BRASIL HDR+ 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1018
+#EXTINF:-1 tvg-id="cd0c58163e21bad37ccb6f16b43bebef" tvg-name="CNN BRASIL PLAYBACK" tvg-logo="http://toptv2.com:25461/logos/CNN_BRASIL_HD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]PLAYBACK",CNN BRASIL PLAYBACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/936
+#EXTINF:-1 tvg-id="5be2136ed519c135699791e245ad9433" tvg-name="CNN ESPANHOL" tvg-logo="http://toptv2.com:25461/logos/cnn_espa.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]NOTICIAS",CNN ESPANHOL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/436
+#EXTINF:-1 tvg-id="c0879c01cbcfdfe09899bd8a756722aa" tvg-name="CNN INTERNACIONAL 4K" tvg-logo="http://toptv2.com:25461/logos/cnn-international_HD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]NOTICIAS",CNN INTERNACIONAL 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/438
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="COMBATE 4K" tvg-logo="http://toptv2.com:25461/logos/combate_UHD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES",COMBATE 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/122
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="COMBATE HD" tvg-logo="http://toptv2.com:25461/logos/combate_UHD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES",COMBATE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/123
+#EXTINF:-1 tvg-id="52e622950dcda02c65c715cd25ee7073" tvg-name="COMBATE HDR+" tvg-logo="http://toptv2.com:25461/logos/combate_UHD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]CANAIS HDR+",COMBATE HDR+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1001
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="COMBATE PLAYBACK" tvg-logo="http://toptv2.com:25461/logos/combate_UHD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]PLAYBACK",COMBATE PLAYBACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/934
+#EXTINF:-1 tvg-id="347b96b6d110b422ba291d7143cd0749" tvg-name="COMEDY CENTRAL 4K" tvg-logo="http://toptv2.com:25461/logos/Comedy_Central.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ENTRETENIMENTO",COMEDY CENTRAL 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/99
+#EXTINF:-1 tvg-id="347b96b6d110b422ba291d7143cd0749" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://toptv2.com:25461/logos/Comedy_Central.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ENTRETENIMENTO",COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/98
+#EXTINF:-1 tvg-id="347b96b6d110b422ba291d7143cd0749" tvg-name="COMEDY CENTRAL PLAYBACK" tvg-logo="http://toptv2.com:25461/logos/Comedy_Central.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]PLAYBACK",COMEDY CENTRAL PLAYBACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/924
+#EXTINF:-1 tvg-id="CONMEBOL TV 1 HD" tvg-name="CONMEBOL TV 1 4K" tvg-logo="http://xplussport.com:8080/images/2212651919d2662c7bf5a4574e58af16.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES ONLINE",CONMEBOL TV 1 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/193
+#EXTINF:-1 tvg-id="ConmebolTV2.br" tvg-name="CONMEBOL TV 2 4K " tvg-logo="http://xplussport.com:8080/images/2212651919d2662c7bf5a4574e58af16.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES ONLINE",CONMEBOL TV 2 4K 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/820
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 4 4K" tvg-logo="http://xplussport.com:8080/images/2212651919d2662c7bf5a4574e58af16.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES ONLINE",CONMEBOL TV 4 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/195
+#EXTINF:-1 tvg-id="CONMEBOL TV 1 HD" tvg-name="CONMEBOL TV1 HD" tvg-logo="http://xplussport.com:8080/images/2212651919d2662c7bf5a4574e58af16.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES ONLINE",CONMEBOL TV1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/196
+#EXTINF:-1 tvg-id="ConmebolTV2.br" tvg-name="CONMEBOL TV2 HD" tvg-logo="http://xplussport.com:8080/images/2212651919d2662c7bf5a4574e58af16.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES ONLINE",CONMEBOL TV2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/198
+#EXTINF:-1 tvg-id="ConmebolTV3.br" tvg-name="CONMEBOL TV3 HD" tvg-logo="http://xplussport.com:8080/images/2212651919d2662c7bf5a4574e58af16.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES ONLINE",CONMEBOL TV3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/199
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV4 HD" tvg-logo="http://xplussport.com:8080/images/2212651919d2662c7bf5a4574e58af16.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES ONLINE",CONMEBOL TV4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/200
+#EXTINF:-1 tvg-id="" tvg-name="COPA NORDESTE 2 HD" tvg-logo="https://www.lance.com.br/files/article_main/uploads/2021/04/12/607442da6a8bd.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES ONLINE",COPA NORDESTE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/202
+#EXTINF:-1 tvg-id="76ee0cab054dfa3a2e6ed9783d82d598" tvg-name="CURTA HD" tvg-logo="http://toptv2.com:25461/logos/curta_HD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ENTRETENIMENTO",CURTA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/100
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="http://xplussport.com:8080/images/e74a669de89ae9e38a05ec255bebc0de.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES ONLINE",DAZN 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/206
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="http://xplussport.com:8080/images/e74a669de89ae9e38a05ec255bebc0de.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES ONLINE",DAZN 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/821
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2" tvg-logo="http://xplussport.com:8080/images/e74a669de89ae9e38a05ec255bebc0de.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES ONLINE",DAZN 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/205
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="http://xplussport.com:8080/images/e74a669de89ae9e38a05ec255bebc0de.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES ONLINE",DAZN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/822
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD" tvg-logo="http://xplussport.com:8080/images/e74a669de89ae9e38a05ec255bebc0de.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES ONLINE",DAZN 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/823
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 HD" tvg-logo="http://xplussport.com:8080/images/e74a669de89ae9e38a05ec255bebc0de.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES ONLINE",DAZN 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/824
+#EXTINF:-1 tvg-id="e29f806eaafeca7c27164075b36632c0" tvg-name="DISCOVERY CHANNEL 4K" tvg-logo="http://xplussport.com:8080/images/3f4d65287e97039b4d14282aa4f722b3.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]DOCUMENTARIOS",DISCOVERY CHANNEL 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/65
+#EXTINF:-1 tvg-id="e29f806eaafeca7c27164075b36632c0" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://xplussport.com:8080/images/3f4d65287e97039b4d14282aa4f722b3.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]DOCUMENTARIOS",DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/66
+#EXTINF:-1 tvg-id="e29f806eaafeca7c27164075b36632c0" tvg-name="DISCOVERY CHANNEL LT" tvg-logo="http://xplussport.com:8080/images/3f4d65287e97039b4d14282aa4f722b3.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]LATINOS",DISCOVERY CHANNEL LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/870
+#EXTINF:-1 tvg-id="e29f806eaafeca7c27164075b36632c0" tvg-name="DISCOVERY CHANNEL PLAYBACK" tvg-logo="http://xplussport.com:8080/images/3f4d65287e97039b4d14282aa4f722b3.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]PLAYBACK",DISCOVERY CHANNEL PLAYBACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/921
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL PT" tvg-logo="http://xplussport.com:8080/images/3f4d65287e97039b4d14282aa4f722b3.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]PORTUGAL ",DISCOVERY CHANNEL PT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/892
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CIVILIZATION LT" tvg-logo="https://1.bp.blogspot.com/-xDR9E6uDt7A/XNhOPLuM5yI/AAAAAAAAT3E/rO2-hV3Cqos-MTOSPK-4wcxPtjx30IbcQCLcBGAs/s1600/discoverycivilizationb.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]LATINOS",DISCOVERY CIVILIZATION LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/869
+#EXTINF:-1 tvg-id="9f69a7aab7bc08a257f8c70537c0f3fc" tvg-name="DISCOVERY H&H  PLAYBACK" tvg-logo="http://xplussport.com:8080/images/41cbca5a834705c3c8c135e711448868.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]PLAYBACK",DISCOVERY H&H  PLAYBACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/922
+#EXTINF:-1 tvg-id="927eb26562d10bdba45298958d76b8ac" tvg-name="DISCOVERY H&H 4K" tvg-logo="http://xplussport.com:8080/images/41cbca5a834705c3c8c135e711448868.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]DOCUMENTARIOS",DISCOVERY H&H 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/67
+#EXTINF:-1 tvg-id="927eb26562d10bdba45298958d76b8ac" tvg-name="DISCOVERY H&H HD" tvg-logo="http://xplussport.com:8080/images/41cbca5a834705c3c8c135e711448868.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]DOCUMENTARIOS",DISCOVERY H&H HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/68
+#EXTINF:-1 tvg-id="9f69a7aab7bc08a257f8c70537c0f3fc" tvg-name="DISCOVERY H&H HDR+" tvg-logo="http://xplussport.com:8080/images/41cbca5a834705c3c8c135e711448868.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]CANAIS HDR+",DISCOVERY H&H HDR+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1021
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HOME&HEALTH LT" tvg-logo="https://www.southerncable.bz/wp-content/uploads/2017/03/h_h-logo-01.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]LATINOS",DISCOVERY HOME&HEALTH LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/863
+#EXTINF:-1 tvg-id="67fcc0ef70dbe00de1b3deb1f8df83a7" tvg-name="DISCOVERY ID 4K" tvg-logo="http://xplussport.com:8080/images/adf707ab4e1c068aa504c7f52c88cd43.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]DOCUMENTARIOS",DISCOVERY ID 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/69
+#EXTINF:-1 tvg-id="67fcc0ef70dbe00de1b3deb1f8df83a7" tvg-name="DISCOVERY ID HD" tvg-logo="http://xplussport.com:8080/images/adf707ab4e1c068aa504c7f52c88cd43.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]DOCUMENTARIOS",DISCOVERY ID HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/70
+#EXTINF:-1 tvg-id="CrimePlusInvestigationPortugal.us" tvg-name="DISCOVERY ID PT" tvg-logo="http://xplussport.com:8080/images/adf707ab4e1c068aa504c7f52c88cd43.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]PORTUGAL ",DISCOVERY ID PT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/894
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY INVESTIGATION LT" tvg-logo="https://seeklogo.com/images/I/investigation-discovery-logo-D8839FBD94-seeklogo.com.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]LATINOS",DISCOVERY INVESTIGATION LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/864
+#EXTINF:-1 tvg-id="7cba56d779e14b7dda4904ad1e6dd6ae" tvg-name="DISCOVERY KIDS 4K" tvg-logo="http://185.53.90.49:41001/logos/discovery_kids.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]INFANTIS",DISCOVERY KIDS 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/348
+#EXTINF:-1 tvg-id="7cba56d779e14b7dda4904ad1e6dd6ae" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://185.53.90.49:41001/logos/discovery_kids.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]INFANTIS",DISCOVERY KIDS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/349
+#EXTINF:-1 tvg-id="22a2824658680a39e8696e02fb8cb34d" tvg-name="DISCOVERY SCIENCE 4k" tvg-logo="http://xplussport.com:8080/images/7b539c507b1b806a537fc361dd9adec8.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]DOCUMENTARIOS",DISCOVERY SCIENCE 4k
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/71
+#EXTINF:-1 tvg-id="22a2824658680a39e8696e02fb8cb34d" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://xplussport.com:8080/images/7b539c507b1b806a537fc361dd9adec8.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]DOCUMENTARIOS",DISCOVERY SCIENCE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/72
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SHOWCASE PT" tvg-logo="http://xplussport.com:8080/images/ac3004859ac7074f4c6e1e52d9bcdbd5.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]PORTUGAL ",DISCOVERY SHOWCASE PT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/893
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TEATHER LT " tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-theater-hd_m.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]LATINOS",DISCOVERY TEATHER LT 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/866
+#EXTINF:-1 tvg-id="ce83d2eabfcab425926a03d0071e85ce" tvg-name="DISCOVERY THEATER 4K" tvg-logo="http://xplussport.com:8080/images/1385fb05c53c6ce195a0beca3d7f69f4.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]DOCUMENTARIOS",DISCOVERY THEATER 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/73
+#EXTINF:-1 tvg-id="ce83d2eabfcab425926a03d0071e85ce" tvg-name="DISCOVERY THEATER HD" tvg-logo="http://xplussport.com:8080/images/1385fb05c53c6ce195a0beca3d7f69f4.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]DOCUMENTARIOS",DISCOVERY THEATER HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/74
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TLC LT" tvg-logo="https://www.pngfind.com/pngs/m/682-6829120_discovery-channel-png-download-discovery-tlc-logo-png.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]LATINOS",DISCOVERY TLC LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/867
+#EXTINF:-1 tvg-id="c48950d3f18be887d41a80c0e4fe058e" tvg-name="DISCOVERY TURBO 4K" tvg-logo="http://xplussport.com:8080/images/b14f0177b9cf30e5f607db443458c275.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]DOCUMENTARIOS",DISCOVERY TURBO 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/75
+#EXTINF:-1 tvg-id="c48950d3f18be887d41a80c0e4fe058e" tvg-name="DISCOVERY TURBO HD" tvg-logo="http://xplussport.com:8080/images/b14f0177b9cf30e5f607db443458c275.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]DOCUMENTARIOS",DISCOVERY TURBO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/76
+#EXTINF:-1 tvg-id="db5244cc5810ef5c7920ea77642eb947" tvg-name="DISCOVERY TURBO HDR+" tvg-logo="http://xplussport.com:8080/images/b14f0177b9cf30e5f607db443458c275.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]CANAIS HDR+",DISCOVERY TURBO HDR+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1022
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO LT" tvg-logo="http://xplussport.com:8080/images/b14f0177b9cf30e5f607db443458c275.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]LATINOS",DISCOVERY TURBO LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/868
+#EXTINF:-1 tvg-id="2562574e5c1223acb63b1c6b48e53ae2" tvg-name="DISCOVERY WORLD 4K" tvg-logo="http://xplussport.com:8080/images/d7ed971e5f0fa7afab0dbeff6c420350.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]DOCUMENTARIOS",DISCOVERY WORLD 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/77
+#EXTINF:-1 tvg-id="2562574e5c1223acb63b1c6b48e53ae2" tvg-name="DISCOVERY WORLD HD" tvg-logo="http://xplussport.com:8080/images/d7ed971e5f0fa7afab0dbeff6c420350.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]DOCUMENTARIOS",DISCOVERY WORLD HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/78
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD LT" tvg-logo="http://xplussport.com:8080/images/d7ed971e5f0fa7afab0dbeff6c420350.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]LATINOS",DISCOVERY WORLD LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/865
+#EXTINF:-1 tvg-id="b0ecc24b8090ddc3ff2941979a9808ce" tvg-name="DISNEY CHANNEL  4K" tvg-logo="http://185.53.90.49:41001/logos/disneychannel.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]INFANTIS",DISNEY CHANNEL  4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/351
+#EXTINF:-1 tvg-id="b0ecc24b8090ddc3ff2941979a9808ce" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://185.53.90.49:41001/logos/disneychannel.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]INFANTIS",DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/352
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL LT" tvg-logo="https://www.pikpng.com/pngl/m/429-4290831_disney-channel-png-disney-channel-transparent-png-clipart.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]LATINOS",DISNEY CHANNEL LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/856
+#EXTINF:-1 tvg-id="DogTV.us" tvg-name="DOG TV HD " tvg-logo="http://www.dogtv.com/wp-content/uploads/2021/09/dogtv_logo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ENTRETENIMENTO",DOG TV HD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/879
+#EXTINF:-1 tvg-id="" tvg-name="DOIS HOMENS E MEIO " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS COMEDIA",DOIS HOMENS E MEIO 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/683
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS INFANTIL ",DRAGON BALL 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/684
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS INFANTIL ",DRAGON BALL SUPER 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/686
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL Z" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS INFANTIL ",DRAGON BALL Z
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/687
+#EXTINF:-1 tvg-id="97b6c8e472656288500718c9c0cd8e8e" tvg-name="E! 2 HD" tvg-logo="http://toptv2.com:25461/logos/E!2.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ENTRETENIMENTO",E! 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/101
+#EXTINF:-1 tvg-id="97b6c8e472656288500718c9c0cd8e8e" tvg-name="E! 4K" tvg-logo="https://img2.gratispng.com/20180629/ss/kisspng-television-channel-logo-e-etv-network-tv-channel-5b35d053a04617.9816723615302533956565.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ENTRETENIMENTO",E! 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/102
+#EXTINF:-1 tvg-id="97b6c8e472656288500718c9c0cd8e8e" tvg-name="E! HD" tvg-logo="https://img2.gratispng.com/20180629/ss/kisspng-television-channel-logo-e-etv-network-tv-channel-5b35d053a04617.9816723615302533956565.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ENTRETENIMENTO",E! HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/103
+#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-name="ELEVEN SPORTS 1 4K " tvg-logo="https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-hd.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]PORTUGAL ",ELEVEN SPORTS 1 4K 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/124
+#EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" tvg-name="ELEVEN SPORTS 2 4K " tvg-logo="https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-hd.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]PORTUGAL ",ELEVEN SPORTS 2 4K 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/125
+#EXTINF:-1 tvg-id="ElevenSports3Portugal.pt" tvg-name="ELEVEN SPORTS 3 4K" tvg-logo="https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-hd.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]PORTUGAL ",ELEVEN SPORTS 3 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/801
+#EXTINF:-1 tvg-id="ElevenSports4Portugal.pt" tvg-name="ELEVEN SPORTS 4 4K" tvg-logo="https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-hd.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]PORTUGAL ",ELEVEN SPORTS 4 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/802
+#EXTINF:-1 tvg-id="ElevenSports5Portugal.pt" tvg-name="ELEVEN SPORTS 5 4K" tvg-logo="https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-hd.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]PORTUGAL ",ELEVEN SPORTS 5 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/803
+#EXTINF:-1 tvg-id="ElevenSports6Portugal.pt" tvg-name="ELEVEN SPORTS 6 4K " tvg-logo="https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-hd.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]PORTUGAL ",ELEVEN SPORTS 6 4K 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/804
+#EXTINF:-1 tvg-id="" tvg-name="EM BUSCA DO VALE ENCANTADO" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS INFANTIL ",EM BUSCA DO VALE ENCANTADO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/688
+#EXTINF:-1 tvg-id="0d37b9bd23514b5da7d9096bf6b71a5d" tvg-name="EPTV RIBEIRAO PRETO" tvg-logo="" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",EPTV RIBEIRAO PRETO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1011
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN  4K" tvg-logo="http://toptv2.com:25461/logos/ESPN_Brasil_FHD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES",ESPN  4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/130
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN  HD" tvg-logo="http://toptv2.com:25461/logos/ESPN_Brasil_FHD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES",ESPN  HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/131
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 4K" tvg-logo="http://xplussport.com:8080/images/fd524d7d4c582ce92eafc4de281e485f.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES",ESPN 2 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/129
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 HD" tvg-logo="http://xplussport.com:8080/images/fd524d7d4c582ce92eafc4de281e485f.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES",ESPN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/135
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 4K" tvg-logo="http://xplussport.com:8080/images/08935974c9ab37351298bb63548cb1a2.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES",ESPN 3 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/127
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 HD " tvg-logo="http://xplussport.com:8080/images/08935974c9ab37351298bb63548cb1a2.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES",ESPN 3 HD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/126
+#EXTINF:-1 tvg-id="aeab51e588f8e18a27e43aa5bb3d0827" tvg-name="ESPN 3 HDR+" tvg-logo="http://xplussport.com:8080/images/08935974c9ab37351298bb63548cb1a2.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]CANAIS HDR+",ESPN 3 HDR+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/995
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 4K" tvg-logo="http://xplussport.com:8080/images/71f4712ad802999bf5919579dfd1e415.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES",ESPN 4 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/142
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 HD" tvg-logo="http://xplussport.com:8080/images/71f4712ad802999bf5919579dfd1e415.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES",ESPN 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/143
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 HDR" tvg-logo="http://xplussport.com:8080/images/71f4712ad802999bf5919579dfd1e415.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES",ESPN 4 HDR
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/899
+#EXTINF:-1 tvg-id="a3694659decfe49635161b993bc7c3a6" tvg-name="ESPN 4 HDR+" tvg-logo="http://xplussport.com:8080/images/71f4712ad802999bf5919579dfd1e415.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]CANAIS HDR+",ESPN 4 HDR+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1007
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN EXTRA 4K" tvg-logo="http://toptv2.com:25461/logos/espn_extra_uhd.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES",ESPN EXTRA 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/133
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN EXTRA HD" tvg-logo="http://toptv2.com:25461/logos/espn_extra_uhd.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES",ESPN EXTRA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/134
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN EXTRA HDR+ " tvg-logo="http://toptv2.com:25461/logos/espn_extra_uhd.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]CANAIS HDR+",ESPN EXTRA HDR+ 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1005
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 01 HD" tvg-logo="https://cdn.melhorplano.net/cms/2021/05/28/60b1328d71a09ei_plus_estadio_tnt_sports.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES ONLINE",ESTADIO TNT SPORT 01 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/216
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 02 HD" tvg-logo="https://cdn.melhorplano.net/cms/2021/05/28/60b1328d71a09ei_plus_estadio_tnt_sports.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES ONLINE",ESTADIO TNT SPORT 02 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/217
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 03 HD" tvg-logo="https://cdn.melhorplano.net/cms/2021/05/28/60b1328d71a09ei_plus_estadio_tnt_sports.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES ONLINE",ESTADIO TNT SPORT 03 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/218
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 04 HD" tvg-logo="https://cdn.melhorplano.net/cms/2021/05/28/60b1328d71a09ei_plus_estadio_tnt_sports.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES ONLINE",ESTADIO TNT SPORT 04 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/219
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 05 HD" tvg-logo="https://cdn.melhorplano.net/cms/2021/05/28/60b1328d71a09ei_plus_estadio_tnt_sports.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES ONLINE",ESTADIO TNT SPORT 05 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/220
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="EUROSPORT 1 HD PT" tvg-logo="http://2.bp.blogspot.com/-EDR0oJ1_1rg/TWKTQqhNT8I/AAAAAAAAAQ4/r4LBAczcA4M/s1600/Eurosport+logo+2011.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]PORTUGAL ",EUROSPORT 1 HD PT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/137
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="EUROSPORT 2 HD PT" tvg-logo="http://2.bp.blogspot.com/-EDR0oJ1_1rg/TWKTQqhNT8I/AAAAAAAAAQ4/r4LBAczcA4M/s1600/Eurosport+logo+2011.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]PORTUGAL ",EUROSPORT 2 HD PT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/138
+#EXTINF:-1 tvg-id="FashionTVBrazil.br" tvg-name="FASHION TV HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ENTRETENIMENTO",FASHION TV HD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/878
+#EXTINF:-1 tvg-id="ca7296e419320a8d3df9ec11c3229a34" tvg-name="FISH TV 4K" tvg-logo="https://cdn.mitvstatic.com/channels/br_fishtv_m.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]DOCUMENTARIOS",FISH TV 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/79
+#EXTINF:-1 tvg-id="ca7296e419320a8d3df9ec11c3229a34" tvg-name="FISH TV HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_fishtv_m.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]DOCUMENTARIOS",FISH TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/80
+#EXTINF:-1 tvg-id="520bb242c3b02e8b34b60ceb8cc46241" tvg-name="FOOD NETWORK 4K" tvg-logo="http://toptv2.com:25461/logos/Food_Network_UHD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ENTRETENIMENTO",FOOD NETWORK 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/104
+#EXTINF:-1 tvg-id="520bb242c3b02e8b34b60ceb8cc46241" tvg-name="FOOD NETWORK HD" tvg-logo="http://toptv2.com:25461/logos/Food_Network_UHD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ENTRETENIMENTO",FOOD NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/105
+#EXTINF:-1 tvg-id="" tvg-name="FORMIGA ATOMICA" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS INFANTIL ",FORMIGA ATOMICA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/691
+#EXTINF:-1 tvg-id="Fox Sports 2 HD" tvg-name="FOX SPORTS 2 4K" tvg-logo="http://toptv2.com:25461/logos/Fox-Sports-2_U4K.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES",FOX SPORTS 2 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/139
+#EXTINF:-1 tvg-id="Fox Sports 2 HD" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://toptv2.com:25461/logos/Fox-Sports-2_U4K.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES",FOX SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/140
+#EXTINF:-1 tvg-id="f59c512e2fe682c1b91167de085bc7aa" tvg-name="FOX SPORTS 2 HDR+ " tvg-logo="http://toptv2.com:25461/logos/Fox-Sports-2_U4K.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]CANAIS HDR+",FOX SPORTS 2 HDR+ 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1008
+#EXTINF:-1 tvg-id="" tvg-name="FREAKAZOID" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS INFANTIL ",FREAKAZOID
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/692
+#EXTINF:-1 tvg-id="" tvg-name="FURACÃO LIVE 4K " tvg-logo="https://pbs.twimg.com/profile_images/1320433252608466947/ekNFdF28.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES ONLINE",FURACÃO LIVE 4K 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/818
+#EXTINF:-1 tvg-id="Futura HD" tvg-name="FUTURA 4K" tvg-logo="http://toptv2.com:25461/logos/Futura.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",FUTURA 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/243
+#EXTINF:-1 tvg-id="816f1c140d095a098846951e0607aed0" tvg-name="FX HD" tvg-logo="http://toptv2.com:25461/logos/FX_UHD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",FX HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/244
+#EXTINF:-1 tvg-id="TV Bahia" tvg-name="GLOBO BAHIA 4K" tvg-logo="http://185.53.90.49:41001/logos/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",GLOBO BAHIA 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/488
+#EXTINF:-1 tvg-id="7e70ef2bdcd3c0aa660db718a979effc" tvg-name="GLOBO BRASILIA 4K" tvg-logo="http://185.53.90.49:41001/logos/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",GLOBO BRASILIA 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/490
+#EXTINF:-1 tvg-id="7e70ef2bdcd3c0aa660db718a979effc" tvg-name="GLOBO BRASILIA HD" tvg-logo="http://185.53.90.49:41001/logos/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",GLOBO BRASILIA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/489
+#EXTINF:-1 tvg-id="773bc0a8b72e6f21b590488d3119974a" tvg-name="GLOBO EPTV CAMPINAS 4K " tvg-logo="http://toptv2.com:25461/logos/EPTV_CAMPINAS_GLOBO.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",GLOBO EPTV CAMPINAS 4K 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/780
+#EXTINF:-1 tvg-id="773bc0a8b72e6f21b590488d3119974a" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="http://toptv2.com:25461/logos/EPTV_CAMPINAS_GLOBO.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",GLOBO EPTV CAMPINAS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/491
+#EXTINF:-1 tvg-id="EPTV - sul de minas" tvg-name="GLOBO EPTV SUL DE MINAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/6/67/20210422110721%21EPTV.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",GLOBO EPTV SUL DE MINAS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1012
+#EXTINF:-1 tvg-id="8fce20fba553e998b00add259a9d5ca7" tvg-name="GLOBO INTEGRAÇÃO JUIZ DE FORA " tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-integrac-o-uberaba_m.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",GLOBO INTEGRAÇÃO JUIZ DE FORA 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/494
+#EXTINF:-1 tvg-id="a26b437a5f1cbcf0ba862fe31e69993b" tvg-name="GLOBO INTER TV CABUGI 4K" tvg-logo="http://toptv2.com:25461/logos/intertv_4k.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",GLOBO INTER TV CABUGI 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/514
+#EXTINF:-1 tvg-id="a26b437a5f1cbcf0ba862fe31e69993b" tvg-name="GLOBO INTER TV CABUGI HD" tvg-logo="http://toptv2.com:25461/logos/INTER_TV_CABUGI_GLOBO.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",GLOBO INTER TV CABUGI HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/495
+#EXTINF:-1 tvg-id="Regionais - globominas" tvg-name="GLOBO MINAS 4K" tvg-logo="http://xplussport.com:8080/images/1497683403967a61fddf01f9d9988fb8.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",GLOBO MINAS 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/497
+#EXTINF:-1 tvg-id="Regionais - globominas" tvg-name="GLOBO MINAS HD" tvg-logo="http://xplussport.com:8080/images/1497683403967a61fddf01f9d9988fb8.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",GLOBO MINAS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/772
+#EXTINF:-1 tvg-id="Regionais - globominas" tvg-name="GLOBO MINAS P" tvg-logo="http://xplussport.com:8080/images/1497683403967a61fddf01f9d9988fb8.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]PLAYBACK",GLOBO MINAS P
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/925
+#EXTINF:-1 tvg-id="7febbe84b0edb3806d2d52afeb997fcd" tvg-name="GLOBO NEWS 4K" tvg-logo="http://toptv2.com:25461/logos/globo-news-logo(1).png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]NOTICIAS",GLOBO NEWS 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/498
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS DF" tvg-logo="http://toptv2.com:25461/logos/globo-news-logo(1).png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]NOTICIAS",GLOBO NEWS DF
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/445
+#EXTINF:-1 tvg-id="7febbe84b0edb3806d2d52afeb997fcd" tvg-name="GLOBO NEWS PLAYBACK" tvg-logo="http://toptv2.com:25461/logos/globo-news-logo(1).png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]PLAYBACK",GLOBO NEWS PLAYBACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/935
+#EXTINF:-1 tvg-id="4c02e1f2b6a94acdc16c02bfa00e3176" tvg-name="GLOBO NORDESTE 4k" tvg-logo="http://185.53.90.49:41001/logos/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",GLOBO NORDESTE 4k
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/499
+#EXTINF:-1 tvg-id="4c02e1f2b6a94acdc16c02bfa00e3176" tvg-name="GLOBO NORDESTE HD" tvg-logo="http://185.53.90.49:41001/logos/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",GLOBO NORDESTE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/500
+#EXTINF:-1 tvg-id="NSC TV Blumenau" tvg-name="GLOBO NSC BLUMENAU 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/NSC_TV_logo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",GLOBO NSC BLUMENAU 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/515
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO PREMIUM PT" tvg-logo="https://s2.loli.net/2022/02/15/CKj4ZFhTafENboX.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]PORTUGAL ",GLOBO PREMIUM PT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/889
+#EXTINF:-1 tvg-id="6d89a18149bfd8b93ba815a4e4cbfa74" tvg-name="GLOBO RBS PORTO ALEGRE 4k" tvg-logo="http://toptv2.com:25461/logos/RBS_TV.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",GLOBO RBS PORTO ALEGRE 4k
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/501
+#EXTINF:-1 tvg-id="f8f1449dea8bd39fc4f8c88fbcc3c426" tvg-name="GLOBO REDE AMAZONICA MANAUS 4K" tvg-logo="http://toptv2.com:25461/logos/RedeAmazonica.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",GLOBO REDE AMAZONICA MANAUS 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/530
+#EXTINF:-1 tvg-id="0f2b867370232e42a6bdf4c3eb557abe" tvg-name="GLOBO RJ 4K" tvg-logo="http://185.53.90.49:41001/logos/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",GLOBO RJ 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/504
+#EXTINF:-1 tvg-id="0f2b867370232e42a6bdf4c3eb557abe" tvg-name="GLOBO RJ HD" tvg-logo="http://185.53.90.49:41001/logos/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",GLOBO RJ HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/503
+#EXTINF:-1 tvg-id="17d59f8dd4e7a20626479151e084726c" tvg-name="GLOBO RPC CURITIBA 4K" tvg-logo="http://toptv2.com:25461/logos/RPC_CURITIBA_4K_GLOBO.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",GLOBO RPC CURITIBA 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/505
+#EXTINF:-1 tvg-id="RPC Foz do Iguaçu" tvg-name="GLOBO RPC FOZ DO IGUAÇU 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Logotipo_da_RPC.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",GLOBO RPC FOZ DO IGUAÇU 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/506
+#EXTINF:-1 tvg-id="RPC Maringá" tvg-name="GLOBO RPC MARINGA 4K" tvg-logo="http://toptv2.com:25461/logos/RPC_PARANA_4K_GLOBO.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",GLOBO RPC MARINGA 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/507
+#EXTINF:-1 tvg-id="RPC Maringá" tvg-name="GLOBO RPC MARINGA HD" tvg-logo="http://toptv2.com:25461/logos/RPC_PARANA_4K_GLOBO.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",GLOBO RPC MARINGA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/817
+#EXTINF:-1 tvg-id="Globo SP HD" tvg-name="GLOBO SP 4K" tvg-logo="http://185.53.90.49:41001/logos/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",GLOBO SP 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/511
+#EXTINF:-1 tvg-id="Globo SP HD" tvg-name="GLOBO SP HD" tvg-logo="http://185.53.90.49:41001/logos/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",GLOBO SP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/510
+#EXTINF:-1 tvg-id="5b5e8f6070df962a62d591d616dcdf46" tvg-name="GLOBO TV ANHANGUERA GOIAS 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a0/Logo_TV_Anhanguera_2019.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",GLOBO TV ANHANGUERA GOIAS 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/849
+#EXTINF:-1 tvg-id="a59483f89eb41e07791c2730e68fc82f" tvg-name="GLOBO TV LIBERAL BELEM 4K" tvg-logo="" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",GLOBO TV LIBERAL BELEM 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/554
+#EXTINF:-1 tvg-id="a59483f89eb41e07791c2730e68fc82f" tvg-name="GLOBO TV LIBERAL BELEM HD" tvg-logo="" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",GLOBO TV LIBERAL BELEM HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/773
+#EXTINF:-1 tvg-id="9d031a9597550c5a95f4b8d32e0bcc0e" tvg-name="GLOBO TV TEM BAURU HD" tvg-logo="http://xplussport.com:8080/images/ebb669d13b4e05676c3fda8143ebf945.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",GLOBO TV TEM BAURU HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/968
+#EXTINF:-1 tvg-id="MaisnaTela.br" tvg-name="GLOBOSAT + UHD" tvg-logo="http://toptv2.com:25461/logos/globosat+_4K.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ENTRETENIMENTO",GLOBOSAT + UHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/106
+#EXTINF:-1 tvg-id="58b2b0a13f424b344e401f10c71981fd" tvg-name="GLOOB 4K" tvg-logo="http://185.53.90.49:41001/logos/gloob.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]INFANTIS",GLOOB 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/357
+#EXTINF:-1 tvg-id="4b25c9f111374746c76a6f488ff09ba6" tvg-name="GLOOB HD" tvg-logo="http://185.53.90.49:41001/logos/gloob.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]INFANTIS",GLOOB HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/358
+#EXTINF:-1 tvg-id="a316577614ecd36243fee85cea7409cb" tvg-name="GLOOBINHO 4K" tvg-logo="http://185.53.90.49:41001/logos/globinho.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]INFANTIS",GLOOBINHO 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/359
+#EXTINF:-1 tvg-id="a316577614ecd36243fee85cea7409cb" tvg-name="GLOOBINHO HD" tvg-logo="http://185.53.90.49:41001/logos/globinho.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]INFANTIS",GLOOBINHO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/360
+#EXTINF:-1 tvg-id="e68d3d0c3ca1a41afd483ca6742a26a0" tvg-name="GNT 4K" tvg-logo="http://185.53.90.49:41001/logos/gnt.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ENTRETENIMENTO",GNT 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/107
+#EXTINF:-1 tvg-id="e68d3d0c3ca1a41afd483ca6742a26a0" tvg-name="GNT HD" tvg-logo="http://185.53.90.49:41001/logos/gnt.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ENTRETENIMENTO",GNT HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/108
+#EXTINF:-1 tvg-id="History 2" tvg-name="H2  PLAYBACK" tvg-logo="http://toptv2.com:25461/logos/h2-hd.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]PLAYBACK",H2  PLAYBACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/931
+#EXTINF:-1 tvg-id="674f75d3e92035c851dc6a107923606a" tvg-name="H2 4K" tvg-logo="http://toptv2.com:25461/logos/h2-hd.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]DOCUMENTARIOS",H2 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/815
+#EXTINF:-1 tvg-id="674f75d3e92035c851dc6a107923606a" tvg-name="H2 HD" tvg-logo="http://toptv2.com:25461/logos/h2-hd.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]DOCUMENTARIOS",H2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/81
+#EXTINF:-1 tvg-id="" tvg-name="H2 LT" tvg-logo="https://www.pngfind.com/pngs/m/197-1979074_history-channel-video-history-channel-logo-png-transparent.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]LATINOS",H2 LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/872
+#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO + 4K" tvg-logo="http://toptv2.com:25461/logos/HBO_Plus.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",HBO + 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/246
+#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO + DUAL " tvg-logo="http://toptv2.com:25461/logos/HBO_Plus.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]CANAIS DUAL AUDIO ",HBO + DUAL 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/795
+#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO + HD" tvg-logo="http://toptv2.com:25461/logos/HBO_Plus.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",HBO + HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/245
+#EXTINF:-1 tvg-id="af22e4d8889badd15205acf72b103bb8" tvg-name="HBO 2 4K" tvg-logo="http://toptv2.com:25461/logos/HBO2_HD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",HBO 2 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/247
+#EXTINF:-1 tvg-id="af22e4d8889badd15205acf72b103bb8" tvg-name="HBO 2 DUAL " tvg-logo="http://toptv2.com:25461/logos/HBO2_HD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]CANAIS DUAL AUDIO ",HBO 2 DUAL 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/794
+#EXTINF:-1 tvg-id="af22e4d8889badd15205acf72b103bb8" tvg-name="HBO 2 HD" tvg-logo="http://toptv2.com:25461/logos/HBO2_HD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",HBO 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/248
+#EXTINF:-1 tvg-id="2d48120d15eb92047eaff6eb9863e5c1" tvg-name="HBO 4K" tvg-logo="http://xplussport.com:8080/images/e7907981c7e5b71c5097b44280d4410f.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",HBO 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/251
+#EXTINF:-1 tvg-id="2d48120d15eb92047eaff6eb9863e5c1" tvg-name="HBO DUAL " tvg-logo="http://185.53.90.49:41001/logos/hbo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]CANAIS DUAL AUDIO ",HBO DUAL 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/793
+#EXTINF:-1 tvg-id="2c2a6f3c6384533a68f5a58b79ddefb0" tvg-name="HBO FAMILY 4K" tvg-logo="http://toptv2.com:25461/logos/HBO_Family.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",HBO FAMILY 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/252
+#EXTINF:-1 tvg-id="2c2a6f3c6384533a68f5a58b79ddefb0" tvg-name="HBO FAMILY DUAL " tvg-logo="http://toptv2.com:25461/logos/HBO_Family.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]CANAIS DUAL AUDIO ",HBO FAMILY DUAL 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/796
+#EXTINF:-1 tvg-id="2c2a6f3c6384533a68f5a58b79ddefb0" tvg-name="HBO FAMILY HD" tvg-logo="http://toptv2.com:25461/logos/HBO_Family.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",HBO FAMILY HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/253
+#EXTINF:-1 tvg-id="2d48120d15eb92047eaff6eb9863e5c1" tvg-name="HBO HD" tvg-logo="http://xplussport.com:8080/images/e7907981c7e5b71c5097b44280d4410f.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",HBO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/255
+#EXTINF:-1 tvg-id="2d48120d15eb92047eaff6eb9863e5c1" tvg-name="HBO HDR+" tvg-logo="http://xplussport.com:8080/images/e7907981c7e5b71c5097b44280d4410f.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]CANAIS HDR+",HBO HDR+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1000
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 1 HD " tvg-logo="https://vpn-surf.com/wp-content/uploads/2020/06/picture-4.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES ONLINE",HBO MAX 1 HD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/832
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 2 HD " tvg-logo="https://vpn-surf.com/wp-content/uploads/2020/06/picture-4.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES ONLINE",HBO MAX 2 HD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/833
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 3 HD" tvg-logo="https://vpn-surf.com/wp-content/uploads/2020/06/picture-4.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES ONLINE",HBO MAX 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/834
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 4 HD " tvg-logo="https://vpn-surf.com/wp-content/uploads/2020/06/picture-4.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES ONLINE",HBO MAX 4 HD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/835
+#EXTINF:-1 tvg-id="2cdafaed9a37e698f9bf9d110f9e64b6" tvg-name="HBO MUNDI 4K" tvg-logo="http://xplussport.com:8080/images/6b7b71e6f0aea251a06f939e08acd4d8.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",HBO MUNDI 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/256
+#EXTINF:-1 tvg-id="2cdafaed9a37e698f9bf9d110f9e64b6" tvg-name="HBO MUNDI HD" tvg-logo="http://xplussport.com:8080/images/6b7b71e6f0aea251a06f939e08acd4d8.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",HBO MUNDI HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/257
+#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO PLUS 4K" tvg-logo="http://toptv2.com:25461/logos/HBO_Plus.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",HBO PLUS 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/258
+#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO PLUS HD" tvg-logo="http://toptv2.com:25461/logos/HBO_Plus.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",HBO PLUS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/259
+#EXTINF:-1 tvg-id="17c01e332134e758ebf9f3084a0323e2" tvg-name="HBO POP 4K" tvg-logo="http://xplussport.com:8080/images/fdbe2080c09579ad2322cf03c7e6a7e8.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",HBO POP 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/260
+#EXTINF:-1 tvg-id="17c01e332134e758ebf9f3084a0323e2" tvg-name="HBO POP DUAL " tvg-logo="http://xplussport.com:8080/images/fdbe2080c09579ad2322cf03c7e6a7e8.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]CANAIS DUAL AUDIO ",HBO POP DUAL 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/798
+#EXTINF:-1 tvg-id="17c01e332134e758ebf9f3084a0323e2" tvg-name="HBO POP HD" tvg-logo="http://xplussport.com:8080/images/fdbe2080c09579ad2322cf03c7e6a7e8.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",HBO POP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/261
+#EXTINF:-1 tvg-id="319a862225f08e1e503f6da20108c67d" tvg-name="HBO SIGNATURE 4K" tvg-logo="http://xplussport.com:8080/images/d2b15a378b0989b2a6df14f16e29fa89.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",HBO SIGNATURE 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/264
+#EXTINF:-1 tvg-id="319a862225f08e1e503f6da20108c67d" tvg-name="HBO SIGNATURE HD" tvg-logo="http://xplussport.com:8080/images/d2b15a378b0989b2a6df14f16e29fa89.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",HBO SIGNATURE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/262
+#EXTINF:-1 tvg-id="40f7ca16db5eb9f53e2c88081131cbe9" tvg-name="HBO XTREME 4K" tvg-logo="http://xplussport.com:8080/images/831c440493273692f0c6189b44137392.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",HBO XTREME 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/266
+#EXTINF:-1 tvg-id="40f7ca16db5eb9f53e2c88081131cbe9" tvg-name="HBO XTREME HD" tvg-logo="http://xplussport.com:8080/images/831c440493273692f0c6189b44137392.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",HBO XTREME HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/267
+#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO+ PLAYBACK" tvg-logo="http://toptv2.com:25461/logos/HBO_Plus.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]PLAYBACK",HBO+ PLAYBACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/920
+#EXTINF:-1 tvg-id="" tvg-name="HE-MAN" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS INFANTIL ",HE-MAN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/694
+#EXTINF:-1 tvg-id="3a406faebcb9b6018d9d66924eaa310f" tvg-name="HGTV 4K" tvg-logo="http://xplussport.com:8080/images/b5f2cb96ae5db72a10647df43949dbb9.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]DOCUMENTARIOS",HGTV 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/816
+#EXTINF:-1 tvg-id="3a406faebcb9b6018d9d66924eaa310f" tvg-name="HGTV HD" tvg-logo="http://xplussport.com:8080/images/b5f2cb96ae5db72a10647df43949dbb9.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]DOCUMENTARIOS",HGTV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/552
+#EXTINF:-1 tvg-id="3bf7039c747b9600dcb773ad01fc0637" tvg-name="HGTV HDR+ " tvg-logo="http://xplussport.com:8080/images/b5f2cb96ae5db72a10647df43949dbb9.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]CANAIS HDR+",HGTV HDR+ 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1006
+#EXTINF:-1 tvg-id="3bf7039c747b9600dcb773ad01fc0637" tvg-name="HGTV PLAYBACK" tvg-logo="http://xplussport.com:8080/images/b5f2cb96ae5db72a10647df43949dbb9.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]PLAYBACK",HGTV PLAYBACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/940
+#EXTINF:-1 tvg-id="105372009ec2393ff1aa443f2392f028" tvg-name="HISTORY CHANNEL 4K" tvg-logo="http://xplussport.com:8080/images/5bf3d33025f22711c85c9b23a5b284d3.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]DOCUMENTARIOS",HISTORY CHANNEL 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/83
+#EXTINF:-1 tvg-id="105372009ec2393ff1aa443f2392f028" tvg-name="HISTORY CHANNEL HD" tvg-logo="http://xplussport.com:8080/images/5bf3d33025f22711c85c9b23a5b284d3.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]DOCUMENTARIOS",HISTORY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/82
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL PT" tvg-logo="http://xplussport.com:8080/images/5bf3d33025f22711c85c9b23a5b284d3.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]PORTUGAL ",HISTORY CHANNEL PT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/895
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM ARANHA" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS INFANTIL ",HOMEM ARANHA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/695
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM ARANHA 2" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS INFANTIL ",HOMEM ARANHA 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/696
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM DE FERRO " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS INFANTIL ",HOMEM DE FERRO 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/697
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM DE FERRO 2" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS INFANTIL ",HOMEM DE FERRO 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/698
+#EXTINF:-1 tvg-id="5e186dac8a8f97419c4ad656efd92dd7" tvg-name="I-SAT HD" tvg-logo="http://toptv2.com:25461/logos/I.Sat_logo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",I-SAT HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/268
+#EXTINF:-1 tvg-id="" tvg-name="INVESTIGAÇAO CRIMINAL " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS FILMES ",INVESTIGAÇAO CRIMINAL 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/668
+#EXTINF:-1 tvg-id="" tvg-name="JIRAYA" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS INFANTIL ",JIRAYA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/699
+#EXTINF:-1 tvg-id="" tvg-name="JOHNNY BRAVO" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS INFANTIL ",JOHNNY BRAVO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/700
+#EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="JOVEM PAN NEWS 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Jovem_Pan_News_logo_2018.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]NOTICIAS",JOVEM PAN NEWS 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/847
+#EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="JOVEM PAN NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Jovem_Pan_News_logo_2018.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]NOTICIAS",JOVEM PAN NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/846
+#EXTINF:-1 tvg-id="e869c199882e64c2fcb37d7a45539798" tvg-name="LIFETIME HD" tvg-logo="http://toptv2.com:25461/logos/Lifetime_HD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",LIFETIME HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/269
+#EXTINF:-1 tvg-id="" tvg-name="LIGA DA JUSTIÇA " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS INFANTIL ",LIGA DA JUSTIÇA 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/701
+#EXTINF:-1 tvg-id="" tvg-name="MASHA E O URSO " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS INFANTIL ",MASHA E O URSO 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/702
+#EXTINF:-1 tvg-id="35ba03a94e64de65d33c83170c11ef5a" tvg-name="MEGAPIX 4K" tvg-logo="http://xplussport.com:8080/images/f33650181ab5ff7f8a08e4e40ff35bc4.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",MEGAPIX 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/270
+#EXTINF:-1 tvg-id="35ba03a94e64de65d33c83170c11ef5a" tvg-name="MEGAPIX HD" tvg-logo="http://xplussport.com:8080/images/f33650181ab5ff7f8a08e4e40ff35bc4.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",MEGAPIX HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/271
+#EXTINF:-1 tvg-id="35ba03a94e64de65d33c83170c11ef5a" tvg-name="MEGAPIX HDR+" tvg-logo="http://xplussport.com:8080/images/f33650181ab5ff7f8a08e4e40ff35bc4.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]CANAIS HDR+",MEGAPIX HDR+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/998
+#EXTINF:-1 tvg-id="35ba03a94e64de65d33c83170c11ef5a" tvg-name="MEGAPIX PLAYBACK" tvg-logo="http://xplussport.com:8080/images/f33650181ab5ff7f8a08e4e40ff35bc4.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]PLAYBACK",MEGAPIX PLAYBACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/938
+#EXTINF:-1 tvg-id="95c74b5af2e547589ddddf8829313a0b" tvg-name="MODO VIAGEM 4K" tvg-logo="http://xplussport.com:8080/images/0eee5d09aca1ee708d892815108cd424.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]DOCUMENTARIOS",MODO VIAGEM 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/85
+#EXTINF:-1 tvg-id="" tvg-name="MORANGUINHO" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS INFANTIL ",MORANGUINHO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/703
+#EXTINF:-1 tvg-id="" tvg-name="MOTOR VISION HD" tvg-logo="" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]PORTUGAL ",MOTOR VISION HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/806
+#EXTINF:-1 tvg-id="092c33be2ce573fb88e6fe27b747cbff" tvg-name="MTV 4K" tvg-logo="http://xplussport.com:8080/images/f207ef4153ddc7c1816e9d5c42436a65.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]MUSICA",MTV 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/112
+#EXTINF:-1 tvg-id="092c33be2ce573fb88e6fe27b747cbff" tvg-name="MTV HD" tvg-logo="http://xplussport.com:8080/images/f207ef4153ddc7c1816e9d5c42436a65.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]MUSICA",MTV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/422
+#EXTINF:-1 tvg-id="092c33be2ce573fb88e6fe27b747cbff" tvg-name="MTV PLAYBACK" tvg-logo="http://xplussport.com:8080/images/f207ef4153ddc7c1816e9d5c42436a65.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]PLAYBACK",MTV PLAYBACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/919
+#EXTINF:-1 tvg-id="84102f4749f1fe3f8114395f2fe1bce4" tvg-name="MULTISHOW HD" tvg-logo="http://xplussport.com:8080/images/ae4a3a3f0fbe5ab8c657a87e77d45038.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]MUSICA",MULTISHOW HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/423
+#EXTINF:-1 tvg-id="84102f4749f1fe3f8114395f2fe1bce4" tvg-name="MULTISHOW PLAYBACK" tvg-logo="http://xplussport.com:8080/images/ae4a3a3f0fbe5ab8c657a87e77d45038.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]PLAYBACK",MULTISHOW PLAYBACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/927
+#EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="MUSIC BOX  4K" tvg-logo="http://185.53.90.49:41001/logos/music box.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]MUSICA",MUSIC BOX  4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/424
+#EXTINF:-1 tvg-id="" tvg-name="NARUTO" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS INFANTIL ",NARUTO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/704
+#EXTINF:-1 tvg-id="96616c9ed8dbad9709d334510528d09f" tvg-name="NATIONAL GEOGRAPHIC 4K" tvg-logo="http://xplussport.com:8080/images/6bc222b347dcaea08763deecfaf3f1f5.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]DOCUMENTARIOS",NATIONAL GEOGRAPHIC 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/87
+#EXTINF:-1 tvg-id="96616c9ed8dbad9709d334510528d09f" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://xplussport.com:8080/images/6bc222b347dcaea08763deecfaf3f1f5.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]DOCUMENTARIOS",NATIONAL GEOGRAPHIC HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/88
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC LT" tvg-logo="http://xplussport.com:8080/images/6bc222b347dcaea08763deecfaf3f1f5.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]LATINOS",NATIONAL GEOGRAPHIC LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/873
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC PT" tvg-logo="http://xplussport.com:8080/images/6bc222b347dcaea08763deecfaf3f1f5.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]PORTUGAL ",NATIONAL GEOGRAPHIC PT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/897
+#EXTINF:-1 tvg-id="aaff79db8057bd9782f27b25af31955e" tvg-name="NHK 4K" tvg-logo="http://toptv2.com:25461/logos/NHHK.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]NOTICIAS",NHK 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/449
+#EXTINF:-1 tvg-id="aaff79db8057bd9782f27b25af31955e" tvg-name="NHK HD" tvg-logo="http://toptv2.com:25461/logos/NHHK.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]NOTICIAS",NHK HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/450
+#EXTINF:-1 tvg-id="035dc32f3ded6949d2da948f9490cb2e" tvg-name="NICK JR 4K" tvg-logo="http://185.53.90.49:41001/logos/nick_jr.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]INFANTIS",NICK JR 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/363
+#EXTINF:-1 tvg-id="035dc32f3ded6949d2da948f9490cb2e" tvg-name="NICK JR HD" tvg-logo="http://185.53.90.49:41001/logos/nick_jr.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]INFANTIS",NICK JR HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/364
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR LT" tvg-logo="https://www.pikpng.com/pngl/m/453-4530233_nick-jr-logo-png-e-vetor-download-de.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]LATINOS",NICK JR LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/859
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR PT" tvg-logo="https://w7.pngwing.com/pngs/9/917/png-transparent-nick-jr-too-nickelodeon-television-logo-nick-jr.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]PORTUGAL ",NICK JR PT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/885
+#EXTINF:-1 tvg-id="" tvg-name="NICK MUSIC LT" tvg-logo="https://logodix.com/logo/1045741.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]LATINOS",NICK MUSIC LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/860
+#EXTINF:-1 tvg-id="ea8b657b85befb9328d725c82d3db170" tvg-name="NICKELODEON 4K" tvg-logo="http://185.53.90.49:41001/logos/nick.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]INFANTIS",NICKELODEON 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/365
+#EXTINF:-1 tvg-id="ea8b657b85befb9328d725c82d3db170" tvg-name="NICKELODEON HD" tvg-logo="http://185.53.90.49:41001/logos/nick.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]INFANTIS",NICKELODEON HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/768
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON PT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Nickelodeon_1993.svg/revision/latest/scale-to-width-down/250?cb=20210820185041&path-prefix=es" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]PORTUGAL ",NICKELODEON PT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/886
+#EXTINF:-1 tvg-id="eb054ce8e473fe44fae003765e6cfdc7" tvg-name="NOVO TEMPO HD" tvg-logo="http://toptv2.com:25461/logos/TV_Novo_Tempo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]RELIGIOSO",NOVO TEMPO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/556
+#EXTINF:-1 tvg-id="afdd2a65d987aa221d4043a4b593ef3e" tvg-name="OFF 4K" tvg-logo="http://toptv2.com:25461/logos/canal-off_HD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",OFF 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/273
+#EXTINF:-1 tvg-id="afdd2a65d987aa221d4043a4b593ef3e" tvg-name="OFF HD" tvg-logo="http://toptv2.com:25461/logos/canal-off_HD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",OFF HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/274
+#EXTINF:-1 tvg-id="" tvg-name="ONE PIECE EAST BLUE" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS INFANTIL ",ONE PIECE EAST BLUE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/705
+#EXTINF:-1 tvg-id="" tvg-name="OS FLINSTONES" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS INFANTIL ",OS FLINSTONES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/706
+#EXTINF:-1 tvg-id="" tvg-name="OS JETSON " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS INFANTIL ",OS JETSON 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/707
+#EXTINF:-1 tvg-id="" tvg-name="OS PADRINHOS MAGICOS" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS INFANTIL ",OS PADRINHOS MAGICOS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/708
+#EXTINF:-1 tvg-id="" tvg-name="OS PATOS" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS INFANTIL ",OS PATOS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/709
+#EXTINF:-1 tvg-id="" tvg-name="OS SIMPSONS" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS INFANTIL ",OS SIMPSONS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/710
+#EXTINF:-1 tvg-id="5732a420f537fb46b10feeda7d2c52b5" tvg-name="PAI ETERNO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Logotipo_TV_Pai_Eterno.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]RELIGIOSO",PAI ETERNO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/939
+#EXTINF:-1 tvg-id="PandaKids.pt" tvg-name="PANDA BIGGS PT" tvg-logo="http://xplussport.com:8080/images/7cb4f438f2191c6f2ca46487121e7f5b.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]PORTUGAL ",PANDA BIGGS PT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/888
+#EXTINF:-1 tvg-id="9d3be0e39eae2df64a2cb272933d07c8" tvg-name="PARAMOUNT CHANNEL 4K" tvg-logo="http://toptv2.com:25461/logos/paramount_HD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",PARAMOUNT CHANNEL 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/275
+#EXTINF:-1 tvg-id="9d3be0e39eae2df64a2cb272933d07c8" tvg-name="PARAMOUNT HD" tvg-logo="http://toptv2.com:25461/logos/paramount_HD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",PARAMOUNT HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/276
+#EXTINF:-1 tvg-id="9d3be0e39eae2df64a2cb272933d07c8" tvg-name="PARAMOUNT PLAYBACK" tvg-logo="http://toptv2.com:25461/logos/paramount_HD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]PLAYBACK",PARAMOUNT PLAYBACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/937
+#EXTINF:-1 tvg-id="" tvg-name="PATO DONALD" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS INFANTIL ",PATO DONALD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/712
+#EXTINF:-1 tvg-id="" tvg-name="PAY PER VIEW ESPORTES 1" tvg-logo="http://xplussport.com:8080/images/987c3cb325b7e544a576bb45a51689ae.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES ONLINE",PAY PER VIEW ESPORTES 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/989
+#EXTINF:-1 tvg-id="1481c6022bbd0c4f3a2e875b789ee7c4" tvg-name="PEPPA PIG" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS INFANTIL ",PEPPA PIG
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/713
+#EXTINF:-1 tvg-id="" tvg-name="PEQUENA SEREIA " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS INFANTIL ",PEQUENA SEREIA 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/714
+#EXTINF:-1 tvg-id="" tvg-name="PERNALONGA" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS INFANTIL ",PERNALONGA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/715
+#EXTINF:-1 tvg-id="" tvg-name="PICA PAU" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS INFANTIL ",PICA PAU
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/716
+#EXTINF:-1 tvg-id="" tvg-name="PINK E CEREBRO" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS INFANTIL ",PINK E CEREBRO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/717
+#EXTINF:-1 tvg-id="" tvg-name="PINTINHO AMARELINHO" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS INFANTIL ",PINTINHO AMARELINHO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/718
+#EXTINF:-1 tvg-id="" tvg-name="PJ MASKS" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS INFANTIL ",PJ MASKS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/719
+#EXTINF:-1 tvg-id="bd5d7cf823212b72ce943bfabb614a9e" tvg-name="PLAY TV" tvg-logo="http://185.53.90.49:41001/logos/play tv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]MUSICA",PLAY TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/426
+#EXTINF:-1 tvg-id="" tvg-name="POKEMON" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS INFANTIL ",POKEMON
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/720
+#EXTINF:-1 tvg-id="" tvg-name="POLICIA MILITAR " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS FILMES ",POLICIA MILITAR 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/669
+#EXTINF:-1 tvg-id="Polishop" tvg-name="POLISHOP HD" tvg-logo="http://185.53.90.49:41001/logos/polishop.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ENTRETENIMENTO",POLISHOP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/427
+#EXTINF:-1 tvg-id="" tvg-name="POPEYE" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS INFANTIL ",POPEYE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/721
+#EXTINF:-1 tvg-id="Premiere HD" tvg-name="PREMIERE 1 4K" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES",PREMIERE 1 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/148
+#EXTINF:-1 tvg-id="Premiere HD" tvg-name="PREMIERE 1 HD" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES",PREMIERE 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/147
+#EXTINF:-1 tvg-id="Premiere HD2" tvg-name="PREMIERE 2 4K" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES",PREMIERE 2 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/149
+#EXTINF:-1 tvg-id="Premiere HD2" tvg-name="PREMIERE 2 HD" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES",PREMIERE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/150
+#EXTINF:-1 tvg-id="Premiere HD 3" tvg-name="PREMIERE 3 4K" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES",PREMIERE 3 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/153
+#EXTINF:-1 tvg-id="Premiere HD 3" tvg-name="PREMIERE 3 HD" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES",PREMIERE 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/152
+#EXTINF:-1 tvg-id="Premiere HD 4" tvg-name="PREMIERE 4 4K" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES",PREMIERE 4 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/155
+#EXTINF:-1 tvg-id="Premiere HD 4" tvg-name="PREMIERE 4 HD" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES",PREMIERE 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/154
+#EXTINF:-1 tvg-id="Premiere HD 5" tvg-name="PREMIERE 5 4K" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES",PREMIERE 5 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/157
+#EXTINF:-1 tvg-id="Premiere HD 5" tvg-name="PREMIERE 5 HD" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES",PREMIERE 5 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/156
+#EXTINF:-1 tvg-id="Premiere HD6" tvg-name="PREMIERE 6 4K" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES",PREMIERE 6 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/159
+#EXTINF:-1 tvg-id="Premiere HD6" tvg-name="PREMIERE 6 HD" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES",PREMIERE 6 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/158
+#EXTINF:-1 tvg-id="Premiere HD7" tvg-name="PREMIERE 7 4K" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES",PREMIERE 7 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/161
+#EXTINF:-1 tvg-id="Premiere HD7" tvg-name="PREMIERE 7 HD" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES",PREMIERE 7 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/160
+#EXTINF:-1 tvg-id="5e16411ef98f27297132cd8064f0acaf" tvg-name="PREMIERE 8 HD" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES",PREMIERE 8 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/162
+#EXTINF:-1 tvg-id="87652b56da39ead9ade0fcb2ee883ccb" tvg-name="PREMIERE 9 HD" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES",PREMIERE 9 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/163
+#EXTINF:-1 tvg-id="b289a8bd8ec7dae2839859e43db19d4f" tvg-name="PREMIERE CLUB HDR+" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]CANAIS HDR+",PREMIERE CLUB HDR+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1003
+#EXTINF:-1 tvg-id="Premiere HD" tvg-name="PREMIERE CLUBES 4K" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES",PREMIERE CLUBES 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/165
+#EXTINF:-1 tvg-id="Premiere HD" tvg-name="PREMIERE CLUBES HD" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES",PREMIERE CLUBES HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/164
+#EXTINF:-1 tvg-id="907290e24ec6e81e0c5e1efb9fa1eb95" tvg-name="PRIME BOX BRASIL HD" tvg-logo="http://toptv2.com:25461/logos/PrimeBoxBrazil.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",PRIME BOX BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/277
+#EXTINF:-1 tvg-id="33877e13059c576fd02bf5d576c18739" tvg-name="RAI ITALIA HD" tvg-logo="http://toptv2.com:25461/logos/rai.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]NOTICIAS",RAI ITALIA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/428
+#EXTINF:-1 tvg-id="3b220cc065f34810b98141ad412a1076" tvg-name="RBI 4K" tvg-logo="http://toptv2.com:25461/logos/RBI_TV.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",RBI 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/517
+#EXTINF:-1 tvg-id="6d89a18149bfd8b93ba815a4e4cbfa74" tvg-name="RBS TV PORTO ALEGRE " tvg-logo="http://toptv2.com:25461/logos/RBS_TV.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",RBS TV PORTO ALEGRE 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/519
+#EXTINF:-1 tvg-id="Record TV Bahia" tvg-name="RECORD BAHIA HD" tvg-logo="http://toptv2.com:25461/logos/SP_Interior_RECORD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",RECORD BAHIA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/520
+#EXTINF:-1 tvg-id="RecordTV Brasília" tvg-name="RECORD BRASILIA HD" tvg-logo="http://toptv2.com:25461/logos/SP_Interior_RECORD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",RECORD BRASILIA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/521
+#EXTINF:-1 tvg-id="de3981ef9d7511cc177772042b9431bb" tvg-name="RECORD DF HD" tvg-logo="http://toptv2.com:25461/logos/SP_Interior_RECORD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",RECORD DF HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/522
+#EXTINF:-1 tvg-id="79a773fe452a6ff5dbd0dd21c20880bb" tvg-name="RECORD HD" tvg-logo="http://toptv2.com:25461/logos/SP_Interior_RECORD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",RECORD HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/523
+#EXTINF:-1 tvg-id="de3981ef9d7511cc177772042b9431bb" tvg-name="RECORD MANAUS HD" tvg-logo="http://toptv2.com:25461/logos/SP_Interior_RECORD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",RECORD MANAUS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/524
+#EXTINF:-1 tvg-id="RecordTV Minas" tvg-name="RECORD MINAS UHD" tvg-logo="http://toptv2.com:25461/logos/SP_Interior_RECORD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",RECORD MINAS UHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/525
+#EXTINF:-1 tvg-id="082475b399aec8632907af07ba460db6" tvg-name="RECORD NEWS HD" tvg-logo="http://toptv2.com:25461/logos/Record_News_UHD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]NOTICIAS",RECORD NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/452
+#EXTINF:-1 tvg-id="082475b399aec8632907af07ba460db6" tvg-name="RECORD NEWS U4K" tvg-logo="http://toptv2.com:25461/logos/Record_News_UHD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]NOTICIAS",RECORD NEWS U4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/451
+#EXTINF:-1 tvg-id="de3981ef9d7511cc177772042b9431bb" tvg-name="RECORD PARANA HD" tvg-logo="http://toptv2.com:25461/logos/SP_Interior_RECORD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",RECORD PARANA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/526
+#EXTINF:-1 tvg-id="Record Rio HD" tvg-name="RECORD RJ 4K" tvg-logo="http://toptv2.com:25461/logos/SP_Interior_RECORD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",RECORD RJ 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/766
+#EXTINF:-1 tvg-id="Record Rio HD" tvg-name="RECORD RJ HD" tvg-logo="http://toptv2.com:25461/logos/SP_Interior_RECORD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",RECORD RJ HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/527
+#EXTINF:-1 tvg-id="Record HD" tvg-name="RECORD SP HD" tvg-logo="http://toptv2.com:25461/logos/SP_Interior_RECORD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",RECORD SP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/529
+#EXTINF:-1 tvg-id="Record HD" tvg-name="RECORD SP HDR+" tvg-logo="http://toptv2.com:25461/logos/SP_Interior_RECORD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]CANAIS HDR+",RECORD SP HDR+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/999
+#EXTINF:-1 tvg-id="de3981ef9d7511cc177772042b9431bb" tvg-name="RECORD SP INTERIOR HD" tvg-logo="http://toptv2.com:25461/logos/SP_Interior_RECORD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",RECORD SP INTERIOR HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/528
+#EXTINF:-1 tvg-id="Record HD" tvg-name="RECORD SP PLAYBACK" tvg-logo="http://toptv2.com:25461/logos/SP_Interior_RECORD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]PLAYBACK",RECORD SP PLAYBACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/916
+#EXTINF:-1 tvg-id="f7274fbdf20f8c7a253a962682f4ceae" tvg-name="REDE BRASIL HD" tvg-logo="http://toptv2.com:25461/logos/rede-brasil.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",REDE BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/531
+#EXTINF:-1 tvg-id="Rede Gospel" tvg-name="REDE GOSPEL" tvg-logo="http://xplussport.com:8080/images/6c3e8a9085b35db0146aa1dd57d26b3b.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]RELIGIOSO",REDE GOSPEL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1052
+#EXTINF:-1 tvg-id="Rede Super" tvg-name="REDE SUPER" tvg-logo="http://xplussport.com:8080/images/fa919d1786ed52f86581665859726dbd.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]RELIGIOSO",REDE SUPER
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1054
+#EXTINF:-1 tvg-id="6bbdff07dce18a1b7b7269c6fdeb0a3a" tvg-name="REDE TV HD" tvg-logo="http://toptv2.com:25461/logos/RedeTV!.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",REDE TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/532
+#EXTINF:-1 tvg-id="1418f5c4721e363d0c1a67496d3605d4" tvg-name="REDE VIDA HD" tvg-logo="http://toptv2.com:25461/logos/Rede_Vida_HD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]RELIGIOSO",REDE VIDA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/113
+#EXTINF:-1 tvg-id="" tvg-name="REINO GELADO" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS INFANTIL ",REINO GELADO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/722
+#EXTINF:-1 tvg-id="" tvg-name="SABOR & ARTE HD " tvg-logo="https://www.saboreartetorteria.com.br/wp-content/uploads/2019/08/saborearte.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ENTRETENIMENTO",SABOR & ARTE HD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/877
+#EXTINF:-1 tvg-id="840475c54a9eee21ab5c7ee2976e4986" tvg-name="SBT 4K" tvg-logo="http://toptv2.com:25461/logos/TV_JORNAL_SBT.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",SBT 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/534
+#EXTINF:-1 tvg-id="840475c54a9eee21ab5c7ee2976e4986" tvg-name="SBT HD" tvg-logo="http://toptv2.com:25461/logos/TV_JORNAL_SBT.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",SBT HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/540
+#EXTINF:-1 tvg-id="840475c54a9eee21ab5c7ee2976e4986" tvg-name="SBT PLAYBACK" tvg-logo="http://toptv2.com:25461/logos/TV_JORNAL_SBT.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]PLAYBACK",SBT PLAYBACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/926
+#EXTINF:-1 tvg-id="SBT Rio HD" tvg-name="SBT RJ UHD" tvg-logo="http://toptv2.com:25461/logos/TV_JORNAL_SBT.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",SBT RJ UHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/537
+#EXTINF:-1 tvg-id="067ae2f6064f035670ba170b9c3a7712" tvg-name="SBT SERRA DOURADA 4K" tvg-logo="http://toptv2.com:25461/logos/TV_JORNAL_SBT.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",SBT SERRA DOURADA 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/538
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="SHOPTIME  4K" tvg-logo="" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ENTRETENIMENTO",SHOPTIME  4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/799
+#EXTINF:-1 tvg-id="" tvg-name="SHURATO" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS INFANTIL ",SHURATO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/724
+#EXTINF:-1 tvg-id="" tvg-name="SIMON" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS INFANTIL ",SIMON
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/726
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS F1 HD " tvg-logo="https://w7.pngwing.com/pngs/919/940/png-transparent-sky-sports-f1-sports-commentator-boxing-cricket-text-sport-logo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]PORTUGAL ",SKY SPORTS F1 HD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/808
+#EXTINF:-1 tvg-id="Smithsonian" tvg-name="SMITHSONIAN HD" tvg-logo="https://w7.pngwing.com/pngs/682/281/png-transparent-smithsonian-institution-building-national-museum-of-natural-history-national-air-and-space-museum-smithsonian-american-art-museum-bright-idea-leaf-text-logo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]DOCUMENTARIOS",SMITHSONIAN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/851
+#EXTINF:-1 tvg-id="83ac2c679b44c648ac23990f713c5cb2" tvg-name="SONY CHANNEL HD" tvg-logo="http://toptv2.com:25461/logos/Canal_Sony_UHD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",SONY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/238
+#EXTINF:-1 tvg-id="8dae4fd8d26721adaf8fd0c2d1a2bc8b" tvg-name="SPACE 4K" tvg-logo="http://toptv2.com:25461/logos/SPACE_HD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",SPACE 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/278
+#EXTINF:-1 tvg-id="8dae4fd8d26721adaf8fd0c2d1a2bc8b" tvg-name="SPACE HD" tvg-logo="http://toptv2.com:25461/logos/SPACE_HD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",SPACE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/279
+#EXTINF:-1 tvg-id="8dae4fd8d26721adaf8fd0c2d1a2bc8b" tvg-name="SPACE PLAYBACK" tvg-logo="http://toptv2.com:25461/logos/SPACE_HD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]PLAYBACK",SPACE PLAYBACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/929
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORT TV 1 HD PT" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/sporttv.png?itok=pMp1-KPe" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]PORTUGAL ",SPORT TV 1 HD PT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/167
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORT TV 2 HD PT" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/sporttv.png?itok=pMp1-KPe" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]PORTUGAL ",SPORT TV 2 HD PT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/168
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORT TV 3 HD PT" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/sporttv.png?itok=pMp1-KPe" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]PORTUGAL ",SPORT TV 3 HD PT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/169
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 4 HD PT" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/sporttv.png?itok=pMp1-KPe" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]PORTUGAL ",SPORT TV 4 HD PT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/170
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 5 HD PT" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/sporttv.png?itok=pMp1-KPe" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]PORTUGAL ",SPORT TV 5 HD PT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/171
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="SPORT TV+ HD PT" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/sporttv.png?itok=pMp1-KPe" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]PORTUGAL ",SPORT TV+ HD PT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/166
+#EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="SPORTING HD " tvg-logo="" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]PORTUGAL ",SPORTING HD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/805
+#EXTINF:-1 tvg-id="30c750ccff9c607ae24411eace4715ec" tvg-name="SPORTV 1 4K" tvg-logo="http://xplussport.com:8080/images/a1c5331ed6bbfb6d21c5eff5606182aa.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES",SPORTV 1 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/183
+#EXTINF:-1 tvg-id="8371fb4fdb10baacc9fc5b227eceaae1" tvg-name="SPORTV 1 HD" tvg-logo="http://xplussport.com:8080/images/a1c5331ed6bbfb6d21c5eff5606182aa.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES",SPORTV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/182
+#EXTINF:-1 tvg-id="30c750ccff9c607ae24411eace4715ec" tvg-name="SPORTV 1 HDR" tvg-logo="http://xplussport.com:8080/images/a1c5331ed6bbfb6d21c5eff5606182aa.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES",SPORTV 1 HDR
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/178
+#EXTINF:-1 tvg-id="30c750ccff9c607ae24411eace4715ec" tvg-name="SPORTV 1 HDR+" tvg-logo="http://xplussport.com:8080/images/a1c5331ed6bbfb6d21c5eff5606182aa.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]CANAIS HDR+",SPORTV 1 HDR+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/993
+#EXTINF:-1 tvg-id="2ab405ed6f10dd88a1783b89c5283b56" tvg-name="SPORTV 2 4K" tvg-logo="http://xplussport.com:8080/images/ee67489938d900ebacc1bddfd70c1622.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES",SPORTV 2 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/172
+#EXTINF:-1 tvg-id="58b2b0a13f424b344e401f10c71981fd" tvg-name="SPORTV 2 HD" tvg-logo="http://xplussport.com:8080/images/34a7dec4daf47543bb4fac030a0d52d5.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES",SPORTV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/173
+#EXTINF:-1 tvg-id="2ab405ed6f10dd88a1783b89c5283b56" tvg-name="SPORTV 2 HDR+" tvg-logo="http://xplussport.com:8080/images/a1c5331ed6bbfb6d21c5eff5606182aa.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]CANAIS HDR+",SPORTV 2 HDR+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1016
+#EXTINF:-1 tvg-id="70162c39a3bb1b387294c154927a4905" tvg-name="SPORTV 3 4K" tvg-logo="http://xplussport.com:8080/images/1669ef2cc27503cba33e431dcc4f3809.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES",SPORTV 3 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/175
+#EXTINF:-1 tvg-id="70162c39a3bb1b387294c154927a4905" tvg-name="SPORTV 3 HD" tvg-logo="http://xplussport.com:8080/images/1669ef2cc27503cba33e431dcc4f3809.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES",SPORTV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/176
+#EXTINF:-1 tvg-id="704a11219aba00b606e933c52ee03c39" tvg-name="STAR CHANNEL 4K" tvg-logo="http://xplussport.com:8080/images/2485f9979b8674c829959d385195465c.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",STAR CHANNEL 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/281
+#EXTINF:-1 tvg-id="704a11219aba00b606e933c52ee03c39" tvg-name="STAR CHANNEL HD" tvg-logo="http://xplussport.com:8080/images/2485f9979b8674c829959d385195465c.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",STAR CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/282
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 1 HD " tvg-logo="https://logospng.org/download/star-plus/logo-star-plus-1024.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES ONLINE",STAR+ 1 HD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/829
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 2 HD" tvg-logo="https://logospng.org/download/star-plus/logo-star-plus-1024.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES ONLINE",STAR+ 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/826
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 3 HD " tvg-logo="https://logospng.org/download/star-plus/logo-star-plus-1024.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES ONLINE",STAR+ 3 HD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/827
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 4 HD " tvg-logo="https://logospng.org/download/star-plus/logo-star-plus-1024.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES ONLINE",STAR+ 4 HD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/828
+#EXTINF:-1 tvg-id="" tvg-name="STREET FIGHTER " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS INFANTIL ",STREET FIGHTER 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/727
+#EXTINF:-1 tvg-id="bd29923f14b4c6b2ce048290e0ba8cbe" tvg-name="STUDIO UNIVERSAL 4K" tvg-logo="http://toptv2.com:25461/logos/Studio_Universal.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",STUDIO UNIVERSAL 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/289
+#EXTINF:-1 tvg-id="" tvg-name="SUPER MAN" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS INFANTIL ",SUPER MAN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/728
+#EXTINF:-1 tvg-id="" tvg-name="SUPER MAN 2" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS INFANTIL ",SUPER MAN 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/729
+#EXTINF:-1 tvg-id="2ed30807ff0c5a5ea5800332ad988ba6" tvg-name="SYFY HD" tvg-logo="http://xplussport.com:8080/images/4474e6c225a3fdc027570708a7459368.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/781
+#EXTINF:-1 tvg-id="2ed30807ff0c5a5ea5800332ad988ba6" tvg-name="SYFY PLAYBACK" tvg-logo="http://xplussport.com:8080/images/4474e6c225a3fdc027570708a7459368.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]PLAYBACK",SYFY PLAYBACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/914
+#EXTINF:-1 tvg-id="44ecd72ae7d8744fbbff9a92ce816c7b" tvg-name="TBS 4K" tvg-logo="http://toptv2.com:25461/logos/tbs_hd.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",TBS 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/290
+#EXTINF:-1 tvg-id="44ecd72ae7d8744fbbff9a92ce816c7b" tvg-name="TBS DUAL" tvg-logo="http://toptv2.com:25461/logos/tbs_hd.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]CANAIS DUAL AUDIO ",TBS DUAL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/791
+#EXTINF:-1 tvg-id="44ecd72ae7d8744fbbff9a92ce816c7b" tvg-name="TBS HD" tvg-logo="http://toptv2.com:25461/logos/tbs_hd.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",TBS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/291
+#EXTINF:-1 tvg-id="3b57cb47ab686c0b0f5aec74a3c5e787" tvg-name="TCM HD" tvg-logo="http://toptv2.com:25461/logos/TCM_HD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",TCM HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/292
+#EXTINF:-1 tvg-id="3b57cb47ab686c0b0f5aec74a3c5e787" tvg-name="TCM UHD" tvg-logo="http://toptv2.com:25461/logos/TCM_HD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",TCM UHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/293
+#EXTINF:-1 tvg-id="9b55a18946c5563da5f5481ee706fe6b" tvg-name="TELECINE ACTION 4K" tvg-logo="http://xplussport.com:8080/images/56e866e85a7ab4486f8fce2a1f322ff2.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",TELECINE ACTION 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/294
+#EXTINF:-1 tvg-id="9b55a18946c5563da5f5481ee706fe6b" tvg-name="TELECINE ACTION DUAL" tvg-logo="http://xplussport.com:8080/images/56e866e85a7ab4486f8fce2a1f322ff2.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]CANAIS DUAL AUDIO ",TELECINE ACTION DUAL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/785
+#EXTINF:-1 tvg-id="9b55a18946c5563da5f5481ee706fe6b" tvg-name="TELECINE ACTION HD" tvg-logo="http://xplussport.com:8080/images/56e866e85a7ab4486f8fce2a1f322ff2.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",TELECINE ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/295
+#EXTINF:-1 tvg-id="9b55a18946c5563da5f5481ee706fe6b" tvg-name="TELECINE ACTION HDR+" tvg-logo="http://xplussport.com:8080/images/56e866e85a7ab4486f8fce2a1f322ff2.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]CANAIS HDR+",TELECINE ACTION HDR+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1019
+#EXTINF:-1 tvg-id="0e5e2812730ae8a5299b2cf9f868e512" tvg-name="TELECINE CULT 4K" tvg-logo="http://xplussport.com:8080/images/08014e30d3bfca13ff968eea3ecfd0b8.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",TELECINE CULT 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/297
+#EXTINF:-1 tvg-id="0e5e2812730ae8a5299b2cf9f868e512" tvg-name="TELECINE CULT HD" tvg-logo="http://xplussport.com:8080/images/08014e30d3bfca13ff968eea3ecfd0b8.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",TELECINE CULT HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/298
+#EXTINF:-1 tvg-id="Telecine Fun HD" tvg-name="TELECINE FUN 4K" tvg-logo="http://xplussport.com:8080/images/b2be9db3eedb515649e6e71e1889f4c2.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",TELECINE FUN 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/300
+#EXTINF:-1 tvg-id="Telecine Fun HD" tvg-name="TELECINE FUN DUAL " tvg-logo="http://xplussport.com:8080/images/b2be9db3eedb515649e6e71e1889f4c2.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]CANAIS DUAL AUDIO ",TELECINE FUN DUAL 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/789
+#EXTINF:-1 tvg-id="Telecine Fun HD" tvg-name="TELECINE FUN HD" tvg-logo="http://xplussport.com:8080/images/b2be9db3eedb515649e6e71e1889f4c2.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",TELECINE FUN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/301
+#EXTINF:-1 tvg-id="da6fb1fc4b99964a18b06f305de36721" tvg-name="TELECINE PIPOCA 4K" tvg-logo="http://xplussport.com:8080/images/7ed76cdb8adbac741e6eb724b6800023.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",TELECINE PIPOCA 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/303
+#EXTINF:-1 tvg-id="da6fb1fc4b99964a18b06f305de36721" tvg-name="TELECINE PIPOCA DUAL " tvg-logo="http://xplussport.com:8080/images/7ed76cdb8adbac741e6eb724b6800023.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]CANAIS DUAL AUDIO ",TELECINE PIPOCA DUAL 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/788
+#EXTINF:-1 tvg-id="da6fb1fc4b99964a18b06f305de36721" tvg-name="TELECINE PIPOCA HD" tvg-logo="http://xplussport.com:8080/images/7ed76cdb8adbac741e6eb724b6800023.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",TELECINE PIPOCA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/304
+#EXTINF:-1 tvg-id="da6fb1fc4b99964a18b06f305de36721" tvg-name="TELECINE PIPOCA HDR+" tvg-logo="http://xplussport.com:8080/images/7ed76cdb8adbac741e6eb724b6800023.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]CANAIS HDR+",TELECINE PIPOCA HDR+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/996
+#EXTINF:-1 tvg-id="da6fb1fc4b99964a18b06f305de36721" tvg-name="TELECINE PIPOCA PLAYBACK" tvg-logo="http://xplussport.com:8080/images/7ed76cdb8adbac741e6eb724b6800023.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]PLAYBACK",TELECINE PIPOCA PLAYBACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/933
+#EXTINF:-1 tvg-id="1e638fd6fc866af1a88113c5fba659e1" tvg-name="TELECINE PREMIUM 4K" tvg-logo="http://xplussport.com:8080/images/b3eed3cc5b71810f6b4c669c2be2428a.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",TELECINE PREMIUM 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/306
+#EXTINF:-1 tvg-id="1e638fd6fc866af1a88113c5fba659e1" tvg-name="TELECINE PREMIUM DUAL " tvg-logo="http://xplussport.com:8080/images/b3eed3cc5b71810f6b4c669c2be2428a.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]CANAIS DUAL AUDIO ",TELECINE PREMIUM DUAL 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/787
+#EXTINF:-1 tvg-id="1e638fd6fc866af1a88113c5fba659e1" tvg-name="TELECINE PREMIUM HD" tvg-logo="http://xplussport.com:8080/images/b3eed3cc5b71810f6b4c669c2be2428a.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",TELECINE PREMIUM HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/307
+#EXTINF:-1 tvg-id="1e638fd6fc866af1a88113c5fba659e1" tvg-name="TELECINE PREMIUM HDR+" tvg-logo="http://xplussport.com:8080/images/b3eed3cc5b71810f6b4c669c2be2428a.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]CANAIS HDR+",TELECINE PREMIUM HDR+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/997
+#EXTINF:-1 tvg-id="45acfafac63181bd72c27c56efa34f58" tvg-name="TELECINE TOUCH 4K" tvg-logo="http://xplussport.com:8080/images/eae56b50163cfe62d15f0736e90d590b.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",TELECINE TOUCH 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/309
+#EXTINF:-1 tvg-id="45acfafac63181bd72c27c56efa34f58" tvg-name="TELECINE TOUCH DUAL " tvg-logo="http://xplussport.com:8080/images/eae56b50163cfe62d15f0736e90d590b.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]CANAIS DUAL AUDIO ",TELECINE TOUCH DUAL 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/786
+#EXTINF:-1 tvg-id="45acfafac63181bd72c27c56efa34f58" tvg-name="TELECINE TOUCH HD" tvg-logo="http://xplussport.com:8080/images/eae56b50163cfe62d15f0736e90d590b.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",TELECINE TOUCH HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/310
+#EXTINF:-1 tvg-id="" tvg-name="test" tvg-logo="" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]LATINOS",test
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1035
+#EXTINF:-1 tvg-id="" tvg-name="TIMAO E PUMBA" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS INFANTIL ",TIMAO E PUMBA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/731
+#EXTINF:-1 tvg-id="8b55dafaf602ea3be92693eb0e0178ff" tvg-name="TLC 4K" tvg-logo="http://xplussport.com:8080/images/ec62f0088161df8a205abc8f968dbc4b.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]DOCUMENTARIOS",TLC 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/91
+#EXTINF:-1 tvg-id="8b55dafaf602ea3be92693eb0e0178ff" tvg-name="TLC HD" tvg-logo="http://xplussport.com:8080/images/ec62f0088161df8a205abc8f968dbc4b.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]DOCUMENTARIOS",TLC HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/92
+#EXTINF:-1 tvg-id="9968743ccbeaa92dcad9e5efd5fc3c94" tvg-name="TNT 4K" tvg-logo="http://xplussport.com:8080/images/d0990e44ecbf50de0196f516fc174ae2.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",TNT 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/312
+#EXTINF:-1 tvg-id="" tvg-name="TNT ESPORTES LT" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/f7/9b/21/f79b2181-f32a-ac81-5627-fb713be365a4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-P3-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]LATINOS",TNT ESPORTES LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/876
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="http://xplussport.com:8080/images/d0990e44ecbf50de0196f516fc174ae2.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",TNT HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/313
+#EXTINF:-1 tvg-id="9968743ccbeaa92dcad9e5efd5fc3c94" tvg-name="TNT HDR+" tvg-logo="http://xplussport.com:8080/images/d0990e44ecbf50de0196f516fc174ae2.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]CANAIS HDR+",TNT HDR+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1004
+#EXTINF:-1 tvg-id="9968743ccbeaa92dcad9e5efd5fc3c94" tvg-name="TNT PLAYBACK" tvg-logo="http://xplussport.com:8080/images/d0990e44ecbf50de0196f516fc174ae2.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]PLAYBACK",TNT PLAYBACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/928
+#EXTINF:-1 tvg-id="65db1706ea43ff201632c39740ddc620" tvg-name="TNT SERIES 4K" tvg-logo="http://xplussport.com:8080/images/5e728d9b0a1f70bcfa9ae3503002645b.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",TNT SERIES 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/314
+#EXTINF:-1 tvg-id="65db1706ea43ff201632c39740ddc620" tvg-name="TNT SERIES HD" tvg-logo="http://xplussport.com:8080/images/5e728d9b0a1f70bcfa9ae3503002645b.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",TNT SERIES HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/315
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES LT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]LATINOS",TNT SERIES LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/875
+#EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CRIS" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS COMEDIA",TODO MUNDO ODEIA O CRIS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/732
+#EXTINF:-1 tvg-id="" tvg-name="TOM & JERRY" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS INFANTIL ",TOM & JERRY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/733
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="TOONCAST 4K" tvg-logo="http://185.53.90.49:41001/logos/tooncast.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]INFANTIS",TOONCAST 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/367
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="TOONCAST HD" tvg-logo="http://185.53.90.49:41001/logos/tooncast.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]INFANTIS",TOONCAST HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/368
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST LT" tvg-logo="https://logodix.com/logo/1933609.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]LATINOS",TOONCAST LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/861
+#EXTINF:-1 tvg-id="Trace Brazuca" tvg-name="TRACE BRAZUCA HD " tvg-logo="http://xplussport.com:8080/images/42ecffe48fdd469bc47366fb0b873f7f.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]MUSICA",TRACE BRAZUCA HD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/969
+#EXTINF:-1 tvg-id="9620278066c852f4fc8025f928289614" tvg-name="TRAVEL BOX BRASIL 4K" tvg-logo="https://cdn.mitvstatic.com/channels/br_travel-box-brazil_m.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]DOCUMENTARIOS",TRAVEL BOX BRASIL 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/848
+#EXTINF:-1 tvg-id="258d342c88b7e32980d6799b2d1f6cba" tvg-name="TRU TV HD" tvg-logo="http://toptv2.com:25461/logos/TruTV.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",TRU TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/541
+#EXTINF:-1 tvg-id="f4643f16afe1996b188eb7b59796a265" tvg-name="TV APARECIDA HD" tvg-logo="http://toptv2.com:25461/logos/Aparecida.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]RELIGIOSO",TV APARECIDA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/542
+#EXTINF:-1 tvg-id="231eb208f32f3a9a9dbe8ac3d9e03284" tvg-name="TV CULTURA UHD" tvg-logo="http://toptv2.com:25461/logos/tv-cultura.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",TV CULTURA UHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/547
+#EXTINF:-1 tvg-id="9e0c3303b37245538eb1c1cfc0b8d480" tvg-name="TV DIARIO HD" tvg-logo="http://toptv2.com:25461/logos/TV_Diario_Fortalisa.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",TV DIARIO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/548
+#EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR HD " tvg-logo="" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]RELIGIOSO",TV EVANGELIZAR HD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1051
+#EXTINF:-1 tvg-id="45b2a4dbd9c2837985683683d668e565" tvg-name="TV JUSTICA " tvg-logo="http://toptv2.com:25461/logos/tv-justica.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",TV JUSTICA 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/553
+#EXTINF:-1 tvg-id="eb054ce8e473fe44fae003765e6cfdc7" tvg-name="TV NOVO TEMPO" tvg-logo="http://xplussport.com:8080/images/cdc70908008a205cf43dd0c1ed95ad4e.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]RELIGIOSO",TV NOVO TEMPO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1053
+#EXTINF:-1 tvg-id="485a0b9ee13e035fb21755f26525d0c3" tvg-name="TV RA TIM BUM 4K" tvg-logo="http://185.53.90.49:41001/logos/tvratimbum.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]INFANTIS",TV RA TIM BUM 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/369
+#EXTINF:-1 tvg-id="485a0b9ee13e035fb21755f26525d0c3" tvg-name="TV RA TIM BUM HD" tvg-logo="http://185.53.90.49:41001/logos/tvratimbum.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]INFANTIS",TV RA TIM BUM HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/557
+#EXTINF:-1 tvg-id="" tvg-name="TV SANTA CRUZ 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3b/Logotipo_TV_Santa_Cruz.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",TV SANTA CRUZ 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1055
+#EXTINF:-1 tvg-id="ccc9131a347fd67a65ad45b2cad2f650" tvg-name="TV TEM SAO JOSE DO RIO PRETO" tvg-logo="http://xplussport.com:8080/images/ebb669d13b4e05676c3fda8143ebf945.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",TV TEM SAO JOSE DO RIO PRETO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/983
+#EXTINF:-1 tvg-id="f2914561160f44d4edf6a09eabcba449" tvg-name="TV TEM SOROCABA HD" tvg-logo="http://toptv2.com:25461/logos/TV_TEM_SOROCABA.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",TV TEM SOROCABA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/562
+#EXTINF:-1 tvg-id="bab8afec1121f433e170442e67a28718" tvg-name="TV TRIBUNA SANTOS " tvg-logo="http://toptv2.com:25461/logos/TV_Tribuna_(Santos).png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",TV TRIBUNA SANTOS 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/564
+#EXTINF:-1 tvg-id="41e59e63dd5e9830e7a35e2cf89d6992" tvg-name="TV VANGUARDA S. J. DOS CAMPOS " tvg-logo="http://toptv2.com:25461/logos/tv_vanguarda.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",TV VANGUARDA S. J. DOS CAMPOS 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/565
+#EXTINF:-1 tvg-id="TV Verdes Mares - tvverdesmares" tvg-name="TV VERDES MARES FORTALEZA 4K" tvg-logo="http://toptv2.com:25461/logos/TV_Verdes_Mares.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",TV VERDES MARES FORTALEZA 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/566
+#EXTINF:-1 tvg-id="1d0484647cd4c7ebf4574bf44dd808b6" tvg-name="UNIVERSAL CHANNEL DUAL " tvg-logo="http://xplussport.com:8080/images/08fc2bac2cddc0854bba4be7b620fb67.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]CANAIS DUAL AUDIO ",UNIVERSAL CHANNEL DUAL 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/792
+#EXTINF:-1 tvg-id="1d0484647cd4c7ebf4574bf44dd808b6" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="http://xplussport.com:8080/images/08fc2bac2cddc0854bba4be7b620fb67.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",UNIVERSAL CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/319
+#EXTINF:-1 tvg-id="1d0484647cd4c7ebf4574bf44dd808b6" tvg-name="UNIVERSAL CHANNEL PLAYBACK" tvg-logo="http://xplussport.com:8080/images/08fc2bac2cddc0854bba4be7b620fb67.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]PLAYBACK",UNIVERSAL CHANNEL PLAYBACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/932
+#EXTINF:-1 tvg-id="9a7ea68940f10cca33470c26aa447a89" tvg-name="VH1 HD" tvg-logo="http://toptv2.com:25461/logos/VH1.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]MUSICA",VH1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/430
+#EXTINF:-1 tvg-id="9a7ea68940f10cca33470c26aa447a89" tvg-name="VH1 MEGAHITS" tvg-logo="http://toptv2.com:25461/logos/VH1_MEGAHITS.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]MUSICA",VH1 MEGAHITS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/431
+#EXTINF:-1 tvg-id="9e1ebec7332e1e1aee1bef629796d2b8" tvg-name="VIVA 4K" tvg-logo="http://toptv2.com:25461/logos/viva_HD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ENTRETENIMENTO",VIVA 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/114
+#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA HD" tvg-logo="http://toptv2.com:25461/logos/viva_HD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ENTRETENIMENTO",VIVA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/116
+#EXTINF:-1 tvg-id="9e1ebec7332e1e1aee1bef629796d2b8" tvg-name="VIVA PLAYBACK" tvg-logo="http://toptv2.com:25461/logos/viva_HD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]PLAYBACK",VIVA PLAYBACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/923
+#EXTINF:-1 tvg-id="c0445b25b8f3ac121c33b652c5214f63" tvg-name="WARNER CHANNEL 4K" tvg-logo="http://toptv2.com:25461/logos/warner.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",WARNER CHANNEL 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/783
+#EXTINF:-1 tvg-id="c0445b25b8f3ac121c33b652c5214f63" tvg-name="WARNER CHANNEL HD" tvg-logo="http://toptv2.com:25461/logos/warner.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]FILMES & SERIES",WARNER CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/320
+#EXTINF:-1 tvg-id="c0445b25b8f3ac121c33b652c5214f63" tvg-name="WARNER CHANNEL PLAYBACK" tvg-logo="http://toptv2.com:25461/logos/warner.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]PLAYBACK",WARNER CHANNEL PLAYBACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/930
+#EXTINF:-1 tvg-id="Woohoo" tvg-name="WOOHOO HD" tvg-logo="http://toptv2.com:25461/logos/WOHOO_UHD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ENTRETENIMENTO",WOOHOO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/117
+#EXTINF:-1 tvg-id="" tvg-name="XPLUS ANIMAÇÃO" tvg-logo="http://xplussport.com:8080/images/5d0e0bfdd69c3ce8374a50e003b34e9c.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]XPLUS CINEMA",XPLUS ANIMAÇÃO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/909
+#EXTINF:-1 tvg-id="" tvg-name="XPLUS ANOS 80" tvg-logo="http://xplussport.com:8080/images/cd0eb1f77c85ea18bdac0ce1e4e2275b.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]XPLUS MUSIC",XPLUS ANOS 80
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1024
+#EXTINF:-1 tvg-id="" tvg-name="XPLUS AÇAO " tvg-logo="http://xplussport.com:8080/images/5d0e0bfdd69c3ce8374a50e003b34e9c.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]XPLUS CINEMA",XPLUS AÇAO 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/911
+#EXTINF:-1 tvg-id="" tvg-name="XPLUS COMÉDIA " tvg-logo="http://xplussport.com:8080/images/5d0e0bfdd69c3ce8374a50e003b34e9c.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]XPLUS CINEMA",XPLUS COMÉDIA 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/942
+#EXTINF:-1 tvg-id="" tvg-name="XPLUS DANCE" tvg-logo="http://xplussport.com:8080/images/cd0eb1f77c85ea18bdac0ce1e4e2275b.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]XPLUS MUSIC",XPLUS DANCE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1028
+#EXTINF:-1 tvg-id="" tvg-name="XPLUS DRAMA" tvg-logo="http://xplussport.com:8080/images/5d0e0bfdd69c3ce8374a50e003b34e9c.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]XPLUS CINEMA",XPLUS DRAMA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/941
+#EXTINF:-1 tvg-id="" tvg-name="XPLUS ELETRONICA" tvg-logo="http://xplussport.com:8080/images/cd0eb1f77c85ea18bdac0ce1e4e2275b.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]XPLUS MUSIC",XPLUS ELETRONICA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1026
+#EXTINF:-1 tvg-id="" tvg-name="XPLUS FORRO" tvg-logo="http://xplussport.com:8080/images/cd0eb1f77c85ea18bdac0ce1e4e2275b.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]XPLUS MUSIC",XPLUS FORRO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1030
+#EXTINF:-1 tvg-id="" tvg-name="XPLUS GOSPEL " tvg-logo="http://xplussport.com:8080/images/cd0eb1f77c85ea18bdac0ce1e4e2275b.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]XPLUS MUSIC",XPLUS GOSPEL 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1031
+#EXTINF:-1 tvg-id="" tvg-name="XPLUS MARVEL & DC" tvg-logo="http://xplussport.com:8080/images/5d0e0bfdd69c3ce8374a50e003b34e9c.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]XPLUS CINEMA",XPLUS MARVEL & DC
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/912
+#EXTINF:-1 tvg-id="" tvg-name="XPLUS MIX" tvg-logo="http://xplussport.com:8080/images/cd0eb1f77c85ea18bdac0ce1e4e2275b.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]XPLUS MUSIC",XPLUS MIX
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1032
+#EXTINF:-1 tvg-id="" tvg-name="XPLUS PAGODE" tvg-logo="http://xplussport.com:8080/images/cd0eb1f77c85ea18bdac0ce1e4e2275b.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]XPLUS MUSIC",XPLUS PAGODE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1029
+#EXTINF:-1 tvg-id="" tvg-name="XPLUS PIPOCA 01" tvg-logo="http://xplussport.com:8080/images/5d0e0bfdd69c3ce8374a50e003b34e9c.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]XPLUS CINEMA",XPLUS PIPOCA 01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1037
+#EXTINF:-1 tvg-id="" tvg-name="XPLUS PIPOCA 02" tvg-logo="http://xplussport.com:8080/images/5d0e0bfdd69c3ce8374a50e003b34e9c.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]XPLUS CINEMA",XPLUS PIPOCA 02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1038
+#EXTINF:-1 tvg-id="" tvg-name="XPLUS PIPOCA 03" tvg-logo="http://xplussport.com:8080/images/5d0e0bfdd69c3ce8374a50e003b34e9c.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]XPLUS CINEMA",XPLUS PIPOCA 03
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1039
+#EXTINF:-1 tvg-id="" tvg-name="XPLUS PIPOCA 04" tvg-logo="http://xplussport.com:8080/images/5d0e0bfdd69c3ce8374a50e003b34e9c.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]XPLUS CINEMA",XPLUS PIPOCA 04
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1040
+#EXTINF:-1 tvg-id="" tvg-name="XPLUS PIPOCA 05" tvg-logo="http://xplussport.com:8080/images/5d0e0bfdd69c3ce8374a50e003b34e9c.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]XPLUS CINEMA",XPLUS PIPOCA 05
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1041
+#EXTINF:-1 tvg-id="" tvg-name="XPLUS PIPOCA 06" tvg-logo="http://xplussport.com:8080/images/5d0e0bfdd69c3ce8374a50e003b34e9c.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]XPLUS CINEMA",XPLUS PIPOCA 06
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1042
+#EXTINF:-1 tvg-id="" tvg-name="XPLUS PIPOCA 07" tvg-logo="http://xplussport.com:8080/images/5d0e0bfdd69c3ce8374a50e003b34e9c.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]XPLUS CINEMA",XPLUS PIPOCA 07
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1043
+#EXTINF:-1 tvg-id="" tvg-name="XPLUS PIPOCA 08" tvg-logo="http://xplussport.com:8080/images/5d0e0bfdd69c3ce8374a50e003b34e9c.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]XPLUS CINEMA",XPLUS PIPOCA 08
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1044
+#EXTINF:-1 tvg-id="" tvg-name="XPLUS PIPOCA 09" tvg-logo="http://xplussport.com:8080/images/5d0e0bfdd69c3ce8374a50e003b34e9c.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]XPLUS CINEMA",XPLUS PIPOCA 09
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1045
+#EXTINF:-1 tvg-id="" tvg-name="XPLUS PIPOCA 10" tvg-logo="http://xplussport.com:8080/images/5d0e0bfdd69c3ce8374a50e003b34e9c.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]XPLUS CINEMA",XPLUS PIPOCA 10
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1046
+#EXTINF:-1 tvg-id="" tvg-name="XPLUS RELAX " tvg-logo="http://xplussport.com:8080/images/cd0eb1f77c85ea18bdac0ce1e4e2275b.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]XPLUS MUSIC",XPLUS RELAX 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1027
+#EXTINF:-1 tvg-id="" tvg-name="XPLUS ROCK" tvg-logo="http://xplussport.com:8080/images/cd0eb1f77c85ea18bdac0ce1e4e2275b.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]XPLUS MUSIC",XPLUS ROCK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1025
+#EXTINF:-1 tvg-id="" tvg-name="XPLUS SERTANEJO 01" tvg-logo="http://xplussport.com:8080/images/cd0eb1f77c85ea18bdac0ce1e4e2275b.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]XPLUS MUSIC",XPLUS SERTANEJO 01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1023
+#EXTINF:-1 tvg-id="926c5a250104ac725e2f2afe9884b796" tvg-name="ZOOMOO 4K" tvg-logo="http://185.53.90.49:41001/logos/zoomoo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]INFANTIS",ZOOMOO 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/370
+#EXTINF:-1 tvg-id="" tvg-name="NSPORTS 1 HD" tvg-logo="" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES ONLINE",NSPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1068
+#EXTINF:-1 tvg-id="" tvg-name="NSPORTS 2 HD" tvg-logo="" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]ESPORTES ONLINE",NSPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1069
+#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta Vitoria ES 4K" tvg-logo="https://images.app.goo.gl/5CThNRXf4qrqwQzv6" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",TV Gazeta Vitoria ES 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1089
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 14 UHD" tvg-logo="https://emoff.ig.com.br/wp-content/uploads/2022/09/A-Fazenda-14-Participantes-que-falarem-de-poli%CC%81tica-sera%CC%83o-punidos.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]A FAZENDA 14",A FAZENDA 14 UHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1090
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA CAM 08" tvg-logo="https://emoff.ig.com.br/wp-content/uploads/2022/09/A-Fazenda-14-Participantes-que-falarem-de-poli%CC%81tica-sera%CC%83o-punidos.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]A FAZENDA 14",A FAZENDA CAM 08
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1091
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA CAM 07" tvg-logo="https://emoff.ig.com.br/wp-content/uploads/2022/09/A-Fazenda-14-Participantes-que-falarem-de-poli%CC%81tica-sera%CC%83o-punidos.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]A FAZENDA 14",A FAZENDA CAM 07
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1092
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA CAM 06" tvg-logo="https://emoff.ig.com.br/wp-content/uploads/2022/09/A-Fazenda-14-Participantes-que-falarem-de-poli%CC%81tica-sera%CC%83o-punidos.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]A FAZENDA 14",A FAZENDA CAM 06
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1093
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA CAM 05" tvg-logo="https://emoff.ig.com.br/wp-content/uploads/2022/09/A-Fazenda-14-Participantes-que-falarem-de-poli%CC%81tica-sera%CC%83o-punidos.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]A FAZENDA 14",A FAZENDA CAM 05
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1094
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA CAM 04" tvg-logo="https://emoff.ig.com.br/wp-content/uploads/2022/09/A-Fazenda-14-Participantes-que-falarem-de-poli%CC%81tica-sera%CC%83o-punidos.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]A FAZENDA 14",A FAZENDA CAM 04
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1095
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA CAM 03" tvg-logo="https://emoff.ig.com.br/wp-content/uploads/2022/09/A-Fazenda-14-Participantes-que-falarem-de-poli%CC%81tica-sera%CC%83o-punidos.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]A FAZENDA 14",A FAZENDA CAM 03
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1096
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA CAM 02" tvg-logo="https://emoff.ig.com.br/wp-content/uploads/2022/09/A-Fazenda-14-Participantes-que-falarem-de-poli%CC%81tica-sera%CC%83o-punidos.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]A FAZENDA 14",A FAZENDA CAM 02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1097
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA CAM 01" tvg-logo="https://emoff.ig.com.br/wp-content/uploads/2022/09/A-Fazenda-14-Participantes-que-falarem-de-poli%CC%81tica-sera%CC%83o-punidos.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]A FAZENDA 14",A FAZENDA CAM 01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1098
+#EXTINF:-1 tvg-id="" tvg-name="TV MORENA 4K" tvg-logo="" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",TV MORENA 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1099
+#EXTINF:-1 tvg-id="" tvg-name="TV BRASIL 4K" tvg-logo="http://xplussport.com:8080/images/74538433148f4542f648fa66d78e99a4.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",TV BRASIL 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1100
+#EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV BRASIL 2 HD" tvg-logo="http://xplussport.com:8080/images/74538433148f4542f648fa66d78e99a4.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",TV BRASIL 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1101
+#EXTINF:-1 tvg-id="BBC World News" tvg-name="GLOBO TV CENTRO AMERICA CUIABA 4K" tvg-logo="" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA",GLOBO TV CENTRO AMERICA CUIABA 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/1102
+
