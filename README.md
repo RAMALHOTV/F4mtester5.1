@@ -1,12 +1,27 @@
 #EXTM3U
-
-#PLAYLISTV: pltv-logo="https://i.imgur.com/M0aRl2a.jpg" pltv-name="RAMALHOTV" pltv-description=TV ONLINE para PlaylisTV/RamalhoIPTV " pltv-cover="https://i.imgur.com/M0aRl2a.jpg" pltv-author="RAMALHOTV" pltv-site="https://www.youtube.com/user/matamataxiterbr?sub_confirmation=1" pltv-email="" pltv-phone="(44) 98656144"
-
+ 
+#PLAYLISTV: pltv-logo="https://i.imgur.com/M0aRl2a.jpg" pltv-name="RAMALHOTV" pltv-description=TV ONLINE para PlaylisTV/IPTV" pltv-cover="https://i.imgur.com/M0aRl2a.jpg" pltv-author="RAMALHOTV" pltv-site="https://www.youtube.com/user/matamataxiterbr?sub_confirmation=1" pltv-email="" pltv-phone="(44) 98656144"
+ 
 ################################################################################# Informações da Lista
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4QnsDMD.png" group-title="Informações da Lista",Addon RamalhoIPTV
+https://www.youtube.com
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5zE1k8M.png" group-title="Informações da Lista",Mais Informações da Lista entre em contato
+https://www.youtube.com/
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Atualizado:18/11/2022 
+https://www.youtube.com/
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/luqePRJ.png" group-title="Informações da Lista",By RAMALHOTV 
+https://www.youtube.com/
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/DwOmHHG.png" group-title="Informações da Lista",Canais Offline? Avise-nos! 
+https://www.youtube.com/
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M0aRl2a.jpg" group-title="Informações da Lista",(44)991045772
+https://www.youtube.com/
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5zE1k8M.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR][COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Informações da Lista", youtube.com/matamataxiterbr https://www.youtube.
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/OalUKZI.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Informações da Lista",[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Atualizado:31/10/2022 https://www.youtube.com
 #EXTINF:-1 tvg-id="TV Gazeta HD" tvg-name=" TV GAZETA  4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfXQ3pYiuvmQlsTorEzdkSiwX9kDYuAHEfcV1SCMShjYZQlp_lRK-2wKQvXj_DxwkduFg&usqp=CAU" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]TV ABERTA", TV GAZETA  4K
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/551
 #EXTINF:-1 tvg-id="" tvg-name="3 PALAVRINHAS" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24HS INFANTIL ",3 PALAVRINHAS
